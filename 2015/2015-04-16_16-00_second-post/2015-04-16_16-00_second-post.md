@@ -1,9 +1,9 @@
-## Setup
+---
 title:            First Post
 tagline:          'This is the first blog post'
 description:      'This is the first blog post description'
 keywords:         Amazing, keyworkds, for, my, post
-...
+---
 
 # Lorem ipsum dolor
 
