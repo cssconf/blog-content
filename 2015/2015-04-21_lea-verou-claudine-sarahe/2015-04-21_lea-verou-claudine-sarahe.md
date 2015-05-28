@@ -6,8 +6,6 @@ keywords:         Lea, Verou, Claudina, Sarahe, speaker, CSSconf
 ---
 
 
-# Announcing First Speakers, Regular Ticket Sale Opens
-
 Today we launch our new website and with it come some exciting news. We are delighted to announce the first two speakers of CSSconf EU 2015
 
 ## Lea Verou and Claudina Sarahe

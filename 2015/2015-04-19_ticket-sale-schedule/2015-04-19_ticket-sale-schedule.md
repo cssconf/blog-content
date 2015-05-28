@@ -6,8 +6,6 @@ keywords:         Tickets, CSSconf, Berlin, Sale, Diversity
 ---
 
 
-# Ticket Sale Schedule
-
 <p>Dedicated to the designers and developers who love CSS, CSSconf EU brings together some of the brightest minds in the industry. For the community, not for profit.</p>
 <p>Due to popular demand, below you’ll find our planned ticket sales dates for CSSconf EU 2015. Please note that our Early Bird tickets have already sold out. We are currently offering:</p>
 <p><strong>Regular Ticket  EUR 330 + VAT + Fees = EUR 399</strong></p>
