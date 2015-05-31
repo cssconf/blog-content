@@ -16,7 +16,7 @@ Take a look back and [watch the CSSconf EU 2014 video here.](https://www.youtube
 
 The happy faces of our attendees, the tweets, photos, blog posts and personal feedback we received are what fuels us, what makes the many hours of volunteer work and planning we put into it more than worthwhile. And guess what – we can’t wait to make it happen again in 2015!
 
-CSSconf is back!
+## CSSconf is back!
 
 CSSConf EU 2015 will take place on Saturday, September 26, 2015. Once again, we’ll share the venue – Radialsystem V – with JSconf and Reject JS, so be prepared for a week full of exciting events.
 
