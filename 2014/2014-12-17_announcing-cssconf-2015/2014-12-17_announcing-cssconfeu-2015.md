@@ -18,7 +18,7 @@ The happy faces of our attendees, the tweets, photos, blog posts and personal fe
 
 CSSconf is back!
 
-CSSConf EU 2015 will take place on Saturday, September 26, 2015. Once again, we’ll share the venue – Radialsystem V – with JSconf and Reject JS, so be prepared for a week full of exciting events. &nbsp;
+CSSConf EU 2015 will take place on Saturday, September 26, 2015. Once again, we’ll share the venue – Radialsystem V – with JSconf and Reject JS, so be prepared for a week full of exciting events.
 
 Ticket sales will begin February 3. Like last year, combination tickets for CSSConf and JSconf will be available. We’ll have more details for you early next year – until then, Happy Holidays and a great start in 2015 everyone!
 
