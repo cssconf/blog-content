@@ -69,7 +69,7 @@ While all these people, including the organizers, are volunteers, the cost of CS
 
 *   [TechInsight](http://www.techinsight.io/)
 
-CSSconf 2015!
+## CSSconf 2015!
 
 [CSSConf EU 2015](http://2015.cssconf.eu/) will take place on Saturday, September 26, 2015. Ticket sales start on February 3. We’ll have more details for you early next year – until then, Happy New Year!
 
@@ -77,4 +77,7 @@ CSSconf 2015!
 
 PS: Want to help us make this happen? E-mail us at [contact@cssconf.eu](mailto:contact@cssconf.eu) for sponsorship opportunities in 2015.
 
-[Request Sponsorship Info](mailto:contact@cssconf.eu)
+<a href="http://2015.cssconf.eu/sponsors/" class="btn--special">
+  <span class="btn__span" data-hover="Sponsorship Information">Sponsorship Info</span>
+</a>
+

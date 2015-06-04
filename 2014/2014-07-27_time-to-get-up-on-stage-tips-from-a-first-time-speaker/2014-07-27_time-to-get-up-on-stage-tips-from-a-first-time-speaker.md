@@ -51,5 +51,13 @@ Speaking at CSSconf was awesome and I want to do it again. Everything starts wit
 
 [by Sara Soueidan](https://plus.google.com/+SaraSoueidan?rel=author)
 
-The CSSconf EU Call for Speakers is open for submissions until July 15&nbsp;2014. 
+The CSSconf EU Call for Speakers is open for submissions until July 15&nbsp;2015.
 [Submit a Talk Proposal](http://2015.cssconf.eu/call-for-speakers/)
+
+* * *
+
+PS: Want to help us make this happen? E-mail us at [contact@cssconf.eu](mailto:contact@cssconf.eu) for sponsorship opportunities in 2015.
+
+<a href="http://2015.cssconf.eu/sponsors/" class="btn--special">
+  <span class="btn__span" data-hover="Sponsorship Information">Sponsorship Info</span>
+</a>

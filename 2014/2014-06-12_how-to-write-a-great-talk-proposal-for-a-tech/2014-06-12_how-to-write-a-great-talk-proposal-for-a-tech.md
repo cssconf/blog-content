@@ -86,7 +86,7 @@ If you did a good job preparing your talk, you spent many many hours researching
 
 ### A look behind the scenes… what does a conference jury see when they read proposals?
 
-In 2013, our debut year, we at CSSconf EU received 97 talk proposals. In 2014, this number grew to 180 proposals. [JSConf EU](https://twitter.com/jsconfeu/status/347968257015291904) received 330 proposals in 2013 and more than 460 in 2014.
+In 2013, our debut year, we at CSSconf EU received 97 talk proposals. In 2014, this number grew to 180 proposals. [JSConf EU](https://twitter.com/jsconfeu/status/347968257015291904) received 483 proposals in 2014, and 512 in 2015.
 
 The average talk proposal for CSSconf EU uses around 160 words for just the talk title and description, which is all we see in our first round of reviewing (we don’t get to see who the submitters are in this round). That sums up to a good bit of reading, and it can take several days to carefully review and evaluate each proposal.
 
@@ -114,7 +114,11 @@ Many others have shared their insights on how to write successful talk proposals
 *   [Russ Unger: Conference Proposals That Don’t Suck](http://alistapart.com/article/conference-proposals-that-dont-suck)
 *   [Shop Talk 063 with Rachel Nabors (Podcast)](http://shoptalkshow.com/episodes/with-rachel-nabors/)
 
-The 2015 CSSconf EU Call for Speakers is open for submissions until July 15 2015. As always, we are super excited to receive yours!
-[Submit a Talk Proposal](http://2015.cssconf.eu/call-for-speakers)
 
-by [Kristina Schneider](https://twitter.com/kriesse)
+* * *
+
+The 2015 CSSconf EU Call for Speakers is open for submissions until July 15 2015. As always, we are super excited to receive yours!
+
+<a href="http://2015.cssconf.eu/call-for-speakers" class="btn--special">
+  <span class="btn__span" data-hover="Submit a Talk Proposal">Submit a Talk Proposal</span>
+</a>

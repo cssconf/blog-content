@@ -26,4 +26,6 @@ Ticket sales will begin February 3. Like last year, combination tickets for CSSC
 
 PS: Want to help us make this happen? E-mail us at [contact@cssconf.eu](mailto:contact@cssconf.eu) for sponsorship opportunities in 2015.
 
-[Request Sponsorship Info](mailto:contact@cssconf.eu)
+<a href="http://2015.cssconf.eu/sponsors/" class="btn--special">
+  <span class="btn__span" data-hover="Sponsorship Information">Sponsorship Info</span>
+</a>
