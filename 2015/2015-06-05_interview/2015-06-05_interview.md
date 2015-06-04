@@ -8,10 +8,11 @@ keywords:         Scholarship, CSSconf, Berlin, conference, Diversity, applicati
 
 ## An interview with Jane Kathambi 
 
-At last year’s CSSconf EU we had the pleasure of meeting [Jane Kathambi](https://www.linkedin.com/pub/jenny-kathambi/70/340/30) from Kenya. Jane had been awarded a grant to travel to Berlin and attend [JSConf EU](http://2015.jsconf.eu/), and we subsequently invited her to come along to [CSSconf EU](http://2015.cssconf.eu/), too. Both JSConf EU and CSSconf EU are running scholarship initiatives this year, in the hope that we can make it possible for more people from under-represented backgrounds to attend the events. We approached Jane to talk to her about her experiences in Berlin and the impact they’ve had on her work.
+At last year’s CSSconf EU we had the pleasure of meeting [Jane Kathambi](https://www.linkedin.com/pub/jenny-kathambi/70/340/30) from Kenya. Jane had been awarded a grant to travel to Berlin and attend [JSConf EU](http://2015.jsconf.eu/), and we subsequently invited her to come along to [CSSconf EU](http://2015.cssconf.eu/), too. Both JSConf EU and CSSconf EU are running scholarship initiatives this year, in the hope that we can make it possible for more people from under-represented and disadvantaged backgrounds to attend the events. We approached Jane to talk to her about her experiences in Berlin and the impact they’ve had on her work.
 
-CSSconf EU: Hello Jane! Tell us a bit about yourself.
-Jane Kathambi:Hello! I’m Jane Kathambi Igoki, a computer scientist based in Kenya. I’m passionate about empowering the less privileged groups in society. I believe that everyone has the capability to be the best they can and this begins with discovering one’s interests and what makes them happy. Thus, I founded NAKSHI http://www.nakshi.co.ke/, an initiative that is geared towards building the capacities of female undergraduate students in the IT related field so as to enable them to take up more challenging IT roles, as well as leadership roles in the industry.
+**CSSconf EU: Hello Jane! Tell us a bit about yourself.**  
+
+**Jane Kathambi:**Hello! I’m Jane Kathambi Igoki, a computer scientist based in Kenya. I’m passionate about empowering the less privileged groups in society. I believe that everyone has the capability to be the best they can and this begins with discovering one’s interests and what makes them happy. Thus, I founded NAKSHI http://www.nakshi.co.ke/, an initiative that is geared towards building the capacities of female undergraduate students in the IT related field so as to enable them to take up more challenging IT roles, as well as leadership roles in the industry.
 
 CSSconf EU: How did you learn about JSConf EU and the opportunity to attend?
 Jane Kathambi: I learnt about JSConf EU via Google Travel Grants https://www.google.com/edu/scholarships/google-travel-and-conference-grants/ for women in technology.
