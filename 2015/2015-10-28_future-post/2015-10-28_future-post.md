@@ -3,6 +3,7 @@ title:            Future Post
 tagline:          'This is the first blog post'
 description:      'This is the first blog post description'
 keywords:         Amazing, keyworkds, for, my, post
+excerpt:          'Lorem ispum dolor sit amet, except exceprt content bla bla'
 ---
 
 # Lorem ipsum dolor
