@@ -1,8 +1,10 @@
 ---
 title:            Time To Get Up On Stage – Tips From a First Time Speaker
-tagline:          'Time To Get Up On Stage – Tips From a First Time Speaker'
+tagline:          'by Sara Soueidan'
 description:      'Time To Get Up On Stage – Tips From a First Time Speaker'
 keywords:         CSSconf, CSSconfEU, Speaking, Tips, Sara, Soueidan, Talk
+excerpt: 'In her guest post, Sara Soueidan shares her experiences as a first time speaker.'
+
 ---
 
 
