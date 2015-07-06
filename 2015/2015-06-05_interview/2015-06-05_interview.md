@@ -9,7 +9,10 @@ excerpt: 'At last year’s CSSconf EU we had the pleasure of meeting Jane Katham
 
 ## An interview with Jane Kathambi
 At last year’s CSSconf EU we had the pleasure of meeting [Jane Kathambi](https://www.linkedin.com/pub/jenny-kathambi/70/340/30) from Kenya. Jane had been awarded a grant to travel to Berlin and attend [JSConf EU](http://2015.jsconf.eu/), and we subsequently invited her to come along to [CSSconf EU](http://2015.cssconf.eu/), too. Both JSConf EU and CSSconf EU are running scholarship initiatives this year, in the hope that we can make it possible for more people from under-represented and disadvantaged backgrounds to attend the events. We approached Jane to talk to her about her experiences in Berlin and the impact they’ve had on her work.
-![Portrait of Jane Kathambi](jenny-kathambi.jpg)
+
+<div class="blog-img blog-img--right">
+  ![Portrait of Jane Kathambi](jenny-kathambi.jpg)
+</div>
 
 **CSSconf EU: Hello Jane! Tell us a bit about yourself.**
 
