@@ -3,7 +3,7 @@ title:            Ticket Sale Schedule
 tagline:          'All tickets, prices, sale dates'
 description:      'Our planned ticket sales dates for CSSconf EU 2015. Early Bird tickets have already sold out. We are currently offering Regular Tickets and Diversity Support Tickets'
 keywords:         Tickets, CSSconf, Berlin, Sale, Diversity
-excerpt: 'An overview of all available tickets for CSSconf EU 2015, and our planned ticket sales dates. Early Bird tickets have already sold out'
+excerpt: 'An overview of all available tickets for CSSconf EU 2015, and our planned ticket sales dates. Early Bird tickets have already sold out.'
 ---
 
 
