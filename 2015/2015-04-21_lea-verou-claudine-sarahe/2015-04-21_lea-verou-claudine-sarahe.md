@@ -7,7 +7,7 @@ excerpt: 'Today we launch our new website and with it come some exciting news. W
 ---
 
 
-Today we launch our new website and with it come some exciting news. We are delighted to announce the first two speakers of CSSconf EU 2015
+Today we launch our new website and with it come some exciting news. We are delighted to announce the first two speakers of CSSconf EU 2015.
 
 Lea is a speaker, author of “CSS Secrets”, and an Invited Expert in the CSS Working Group. She worked as a Developer Advocate for the W3C and is currently a Research Assistant at MIT.
 
