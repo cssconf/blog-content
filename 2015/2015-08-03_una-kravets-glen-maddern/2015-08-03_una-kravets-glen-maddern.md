@@ -6,7 +6,7 @@ keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Glen, Madde
 excerpt: 'In the past weeks, we read, reviewed and got blown away by more than 120 fantastic talk proposals. We are beyond excited about this year’s submissions, and can’t wait to share the final line-up we came up with. Today we’ll start with announcing two more confirmed speakers: Una Kravets and Glen Maddern!'
 ---
 
-In the past weeks, we read, reviewed and got blown away by more than 120 fantastic talk proposals. We are beyond excited about this year's submissions, and can’t wait to share the final line-up we came up with. Today we’ll start with announcing two more confirmed speakers: [Una Kravets](https://twitter.com/una) and [Glen Maddern](https://twitter.com/glenmaddern)!
+In the past weeks, we read, reviewed and got blown away by more than 120 fantastic talk proposals. We are beyond excited about this year's submissions, and can’t wait to share the final line-up we came up with. Today we’ll start with announcing two more confirmed speakers: <a href="https://twitter.com/una" target="_blank">Una Kravets</a> and <a href="https://twitter.com/glenmaddern" target="_blank">Glen Maddern</a>!
 
 ## Una Kravets
 
@@ -28,4 +28,4 @@ Glen Maddern is an independent web developer from Melbourne, Australia. He also 
 
 ## Regular Ticket Sale Opens
 
-If you are as excited as we are and don’t want to miss Una and Glen speaking: Tomorrow, August 4, 10am CEST, we‘ll sell our very last tickets. Few are left, so we recommend setting your alarms.
+If you are as excited as we are and don’t want to miss Una and Glen speaking: Tomorrow, August 4, 10am CEST, we‘ll sell our very last tickets. Few are left, so we recommend setting your alarms. <a href="https://ti.to/cssconfeu/cssconf-eu-2015">Buy Tickets here</a>.
