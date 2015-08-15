@@ -47,13 +47,13 @@ The lack of diversity in tech conference speakers is a problem, and a problem th
 The talk proposals we receive are typically short. They often contain no information about the research (or lack thereof) that went into a talk. Sometimes they leave open questions regarding what would actually be covered. The most common comment we add to our voting is “could be great, if done right”. We can only speculate whether a talk will live up to its 5 sentence description. We have observed that the clarity and care of the written proposal are usually indicative of the final talk, and this is one thing we take into account when unsure whether a proposal will deliver what it promises. For this first round we always err on the good side: If a talk “could be great, if done right”, we assume it will be done right.
 
 ### 3b) The Shortlist
-We start our process by going through the talk titles and descriptions and voting based on these only, on a scale of 1 to 5. We calculate the average of our votes, and also highlight posts where our votes are in disagreement. So far, so simple. We make a cut and end up with a shortlist of 15-20 talks, all of which are already talks we *really want to see* at CSSconf EU. 
+We start our process by going through the talk titles and descriptions and voting based on these only, on a scale of 1 to 5. We calculate the average of our votes, and also highlight posts where our votes are in disagreement. So far, so simple. We make a cut and end up with a shortlist of talks, all of which are already talks we *really want to see* at CSSconf EU. 
 This process allows us to neutrally approve the content of a proposal with no knowledge of the author. 
 
 ### 3c) The Second Round: Ensuring Speaking Skills and Expertise
 Once we have the shortlist, we de-anonymize, and look at the details the speakers on our shortlist provided. In our talk submission form we ask for links to github, personal blogs or websites, twitter, and videos of previous talks. We review these links and videos, or google around for more. We might even email a submitter and ask for additional information, or a quick skype call. This is to ensure that the speaker has the necessary skill to present their talk. 
 
-In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks.
+In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks. Having first-time speakers make it to the final selection is also one of the key plus points of anonymized voting. 
 
 ## Step 4. The Third Round: Talk Curation
 The first two rounds are only the beginning of a complex process, the actual curation. Being a one day, single track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have little to do with the quality of the talk proposal, but much more with the combination of talks and how well they will complement each other. Some of them are:
@@ -74,7 +74,7 @@ A lot of shuffling around of combinations in the shortlist happens, going back a
 
 It is also worth mentioning that…
 
-## Step 5. We do not simply throw away the talks that got voted out
+## Step 5. We do not simply discard the talks that got voted out
 The anonymized voting is an imperfect hack to simmer the mass of proposals down to a shortlist. But, hackers that we are, of course we hack the “outvoted” talks again!
 We re-visit all talks that show a high deviation of our votes, i.e. where we are in disagreement. These are surprisingly few talks. However, a discussion and some digging into the links and videos a speaker provided might show that we missed an excellent proposal. 
 
@@ -87,7 +87,7 @@ Yes, we do that too. We have been involved as organizers or volunteers in many e
 The CSS scene is small, and among the people who submit a talk are good friends, colleagues, conference buddies, former speakers, befriended organizers, people who have invited us as speakers before. Some of them ask for advice before submitting, some keep pushing and sweet-talking, some assume they will get in because of their connection, some never tell you. As organizers, this is tricky to navigate, and it’s very uncomfortable to reject a friend, a sponsor, an employer. We protect ourselves against the expectation of “doing favors” by making our criteria as clear as possible, and pulling ourselves out of the voting process as soon as we identify a personal “favorite”. Having a team of three organizers enables this, and helps us even out biases of each individual.
 
 ## Step 8. Invited Speakers vs Call for Speakers
-At CSSconf EU, we directly invite a very small number of 1-2 speakers early on, even before the Call for Speaker starts. Of course one of our goals is to bring accomplished, excellent speakers on stage – Speakers who are able to deliver an inspiring keynote, who excite our audience and have years of experience and knowledge to share. And who often require a year or more notice ahead to plan their conference schedule. All remaining speaking slots are reserved for submissions to our call for speakers.
+At CSSconf EU, we directly invite a very small number of speakers early on, even before the Call for Speaker starts. Of course one of our goals is to bring accomplished, excellent speakers on stage – Speakers who are able to deliver an inspiring keynote, who excite our audience and have years of experience and knowledge to share. And who often require a year or more notice ahead to plan their conference schedule. All remaining speaking slots are reserved for submissions to our call for speakers.
 
 ## Step 9. No Sponsored Talks
 We do never sell speaking slots. We also do not prefer speakers whose travel expenses are paid by their company over independent speakers.
@@ -95,8 +95,10 @@ We do never sell speaking slots. We also do not prefer speakers whose travel exp
 ## Step 10. Constantly Improving. Doing more, and Still Falling Short
 * We are constantly trying out new strategies to make the CSSconf EU selection process open, transparent, and very respectful of our submitters’ time and work.
 * We offer support and feedback along the application process. Via email, twitter, or by writing blog posts.
-* We encourage and nudge people to submit talks (overly simplified: to improve the “pipeline” problem).
+
+* We encourage and nudge people to submit talks (overly simplified: to improve the [“pipeline”](http://geekfeminism.wikia.com/wiki/Leaky_pipeline) problem).
 * We run free [CSS workshops](http://cssclasses.cssconf.eu/) and [meetups](http://up.front.ug/) in Berlin to develop the local scene and offer a practice ground for aspiring conference speakers.
+
 
 We would love to do even more. If we had the resources, we’d like to:
 * provide personal feedback and non-standardized rejection emails for each proposal. A well-considered feedback email takes us ca. 30-60 minutes to write and agree on. Thus, we currently only do that upon request, and opted to have more time to work on other aspects of the event, e.g. our [scholarship programme](http://2015.cssconf.eu/scholarships/). 
