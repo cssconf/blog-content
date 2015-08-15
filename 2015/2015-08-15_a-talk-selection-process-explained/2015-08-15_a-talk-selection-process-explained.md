@@ -54,11 +54,7 @@ Once we have the shortlist, we de-anonymize, and look at the details the speaker
 
 In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks. Having first-time speakers make it to the final selection is also one of the key plus points of anonymized voting. 
 
-<<<<<<< HEAD
 ## 4. The Third Round: Talk Curation
-=======
-## Step 4. The Third Round: Talk Curation
->>>>>>> master
 The first two rounds are only the beginning of a complex process, the actual curation. Being a one day, single track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have little to do with the quality of the talk proposal, but much more with the combination of talks and how well they will complement each other. Some of them are:
 
 ### Different Levels
