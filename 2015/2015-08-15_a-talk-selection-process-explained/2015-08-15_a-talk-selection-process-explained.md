@@ -20,9 +20,9 @@ We hope that this extensive post on the subject will be insightful to both speak
 ## There is no such thing as a perfect talk selection process
 The perfect talk selection process does not exist. There is no one-size-fits-all solution, and we cannot make a universally satisfying ranking from the best to the worst talk. This is our process and it’s designed to find the really great talk proposals for our event. In order to filter out the talks that will eventually culminate in an amazing line-up, we first need to be clear about what we want our event to be.
 
-These are steps which we follow and which were really helpful for us:
+Following a set of steps and principles was really helpful for us:
 
-## Step 1. Understanding the Nature and Goals of the Conference
+## 1. Understanding the Nature and Goals of the Conference
 CSSconf EU is a community-driven conference for professionals in the web development industry. We are not an academic event, we are not a standards group event, we are not a user group. This defines the opportunities and limitations of our event.
 
 The conference attracts web developers and designers with varying professional backgrounds and levels of experience. Our goal is to provide them with talks which:
@@ -31,7 +31,7 @@ The conference attracts web developers and designers with varying professional b
 * provide hands-on knowledge that is both useful for their job and which helps them become better designers and developers,
 * entertain, inspire and encourage them to become active members of a great community.
 
-## Step 2. Agreeing on Criteria for Talks
+## 2. Agreeing on Criteria for Talks
 With the above in mind, we agree on the criteria which guide our first round of voting. These criteria, together with explicit details, helpful tips and resources, are also spelled out in our Call for Speakers:
 
 * relevance of the topic for the CSS community
@@ -39,9 +39,8 @@ With the above in mind, we agree on the criteria which guide our first round of 
 * novelty/originality of the topic
 * can the topic be reasonably covered in the allocated time
 
-## Step 3. Bias and “Blind Voting”
+## 3. Bias and “Blind Voting”
 The lack of diversity in tech conference speakers is a problem, and a problem that we at CSSconf are well aware of and do our best to tackle. Anonymizing talk proposals is one of the ways in which we try to hack the unconscious bias that curators have against (or in unfair advantage of) personal attributes of the submitter. This is commonly referred to as “blind voting”, but we prefer the non-ableist term anonymized voting (hat tip to [Noah Slater](http://nslater.tumblr.com/post/126664191058/this-post-is-in-response-to-lea-verous-post-about)).
-
 
 ### 3a) The First Round: Voting on Anonymized Proposals
 The talk proposals we receive are typically short. They often contain no information about the research (or lack thereof) that went into a talk. Sometimes they leave open questions regarding what would actually be covered. The most common comment we add to our voting is “could be great, if done right”. We can only speculate whether a talk will live up to its 5 sentence description. We have observed that the clarity and care of the written proposal are usually indicative of the final talk, and this is one thing we take into account when unsure whether a proposal will deliver what it promises. For this first round we always err on the good side: If a talk “could be great, if done right”, we assume it will be done right.
@@ -55,7 +54,11 @@ Once we have the shortlist, we de-anonymize, and look at the details the speaker
 
 In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks. Having first-time speakers make it to the final selection is also one of the key plus points of anonymized voting. 
 
+<<<<<<< HEAD
+## 4. The Third Round: Talk Curation
+=======
 ## Step 4. The Third Round: Talk Curation
+>>>>>>> master
 The first two rounds are only the beginning of a complex process, the actual curation. Being a one day, single track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have little to do with the quality of the talk proposal, but much more with the combination of talks and how well they will complement each other. Some of them are:
 
 ### Different Levels
@@ -74,25 +77,26 @@ A lot of shuffling around of combinations in the shortlist happens, going back a
 
 It is also worth mentioning that…
 
-## Step 5. We do not simply discard the talks that got voted out
+## 5. We do not simply throw away the talks that got voted out
+
 The anonymized voting is an imperfect hack to simmer the mass of proposals down to a shortlist. But, hackers that we are, of course we hack the “outvoted” talks again!
 We re-visit all talks that show a high deviation of our votes, i.e. where we are in disagreement. These are surprisingly few talks. However, a discussion and some digging into the links and videos a speaker provided might show that we missed an excellent proposal. 
 
 This also means that we then re-consider our votes, and the proposal might still end up in the shortlist. 
 
-## Step 6. We kick people out of the selection
+## 6. We kick people out of the selection
 Yes, we do that too. We have been involved as organizers or volunteers in many events, and are aware that harassing, abusive behavior is a reality in our community. If we spot someone that we know to be a harasser or violator: We better make sure to not give that person a stage, or any entrance to our event. 
 
-## Step 7. “Favorites” and “doing favors”
+## 7. “Favorites” and “doing favors”
 The CSS scene is small, and among the people who submit a talk are good friends, colleagues, conference buddies, former speakers, befriended organizers, people who have invited us as speakers before. Some of them ask for advice before submitting, some keep pushing and sweet-talking, some assume they will get in because of their connection, some never tell you. As organizers, this is tricky to navigate, and it’s very uncomfortable to reject a friend, a sponsor, an employer. We protect ourselves against the expectation of “doing favors” by making our criteria as clear as possible, and pulling ourselves out of the voting process as soon as we identify a personal “favorite”. Having a team of three organizers enables this, and helps us even out biases of each individual.
 
-## Step 8. Invited Speakers vs Call for Speakers
-At CSSconf EU, we directly invite a very small number of speakers early on, even before the Call for Speaker starts. Of course one of our goals is to bring accomplished, excellent speakers on stage – Speakers who are able to deliver an inspiring keynote, who excite our audience and have years of experience and knowledge to share. And who often require a year or more notice ahead to plan their conference schedule. All remaining speaking slots are reserved for submissions to our call for speakers.
+## 8. Invited Speakers vs Call for Speakers
+At CSSconf EU, we directly invite a very small number of 1-2 speakers early on, even before the Call for Speaker starts. Of course one of our goals is to bring accomplished, excellent speakers on stage – Speakers who are able to deliver an inspiring keynote, who excite our audience and have years of experience and knowledge to share. And who often require a year or more notice ahead to plan their conference schedule. All remaining speaking slots are reserved for submissions to our call for speakers.
 
-## Step 9. No Sponsored Talks
+## 9. No Sponsored Talks
 We do never sell speaking slots. We also do not prefer speakers whose travel expenses are paid by their company over independent speakers.
 
-## Step 10. Constantly Improving. Doing more, and Still Falling Short
+## 10. Constantly Improving. Doing more, and Still Falling Short
 * We are constantly trying out new strategies to make the CSSconf EU selection process open, transparent, and very respectful of our submitters’ time and work.
 * We offer support and feedback along the application process. Via email, twitter, or by writing blog posts.
 
