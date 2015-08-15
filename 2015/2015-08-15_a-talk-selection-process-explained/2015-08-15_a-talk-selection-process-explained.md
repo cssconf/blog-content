@@ -27,9 +27,9 @@ CSSconf EU is a community-driven conference for professionals in the web develop
 
 The conference attracts web developers and designers with varying professional backgrounds and levels of experience. Our goal is to provide them with talks which:
 
-showcase technical excellence, latest research and cutting-edge technologies,
-provide hands-on knowledge that is both useful for their job and which helps them become better designers and developersdevelopers,
-entertain, inspire and encourage them to become active members of a great community.
+* showcase technical excellence, latest research and cutting-edge technologies,
+* provide hands-on knowledge that is both useful for their job and which helps them become better designers and developers,
+* entertain, inspire and encourage them to become active members of a great community.
 
 ## 2. Agreeing on Criteria for Talks
 With the above in mind, we agree on the criteria which guide our first round of voting. These criteria, together with explicit details, helpful tips and resources, are also spelled out in our Call for Speakers:
@@ -40,22 +40,25 @@ With the above in mind, we agree on the criteria which guide our first round of 
 * can the topic be reasonably covered in the allocated time
 
 ## 3. Bias and “Blind Voting”
-The lack of diversity in tech conference speakers is a problem, and a problem that we at CSSconf are well aware of and do our best to tackle. Anonymizing talk proposals is one of the ways in which we try to hack the unconscious bias that curators have against (or in unfair advantage of) personal attributes of the submitter. This is commonly referred to as “blind voting”, but we prefer the non-ableist term anonymized voting (hat tip Noah Slater’s http://nslater.tumblr.com/post/126664191058/this-post-is-in-response-to-lea-verous-post-about).
-
+The lack of diversity in tech conference speakers is a problem, and a problem that we at CSSconf are well aware of and do our best to tackle. Anonymizing talk proposals is one of the ways in which we try to hack the unconscious bias that curators have against (or in unfair advantage of) personal attributes of the submitter. This is commonly referred to as “blind voting”, but we prefer the non-ableist term anonymized voting (hat tip to [Noah Slater](http://nslater.tumblr.com/post/126664191058/this-post-is-in-response-to-lea-verous-post-about)).
 
 ### 3a) The First Round: Voting on Anonymized Proposals
 The talk proposals we receive are typically short. They often contain no information about the research (or lack thereof) that went into a talk. Sometimes they leave open questions regarding what would actually be covered. The most common comment we add to our voting is “could be great, if done right”. We can only speculate whether a talk will live up to its 5 sentence description. We have observed that the clarity and care of the written proposal are usually indicative of the final talk, and this is one thing we take into account when unsure whether a proposal will deliver what it promises. For this first round we always err on the good side: If a talk “could be great, if done right”, we assume it will be done right.
 
 ### 3b) The Shortlist
-We start our process by going through the talk titles and descriptions and voting based on these only, on a scale of 1 to 5. We calculate the average of our votes, and also highlight posts where our votes are in disagreement. So far, so simple. We make a cut and end up with a shortlist of 15-20 talks, all of which are already talks we *really want to see* at CSSconf EU. 
+We start our process by going through the talk titles and descriptions and voting based on these only, on a scale of 1 to 5. We calculate the average of our votes, and also highlight posts where our votes are in disagreement. So far, so simple. We make a cut and end up with a shortlist of talks, all of which are already talks we *really want to see* at CSSconf EU. 
 This process allows us to neutrally approve the content of a proposal with no knowledge of the author. 
 
 ### 3c) The Second Round: Ensuring Speaking Skills and Expertise
 Once we have the shortlist, we de-anonymize, and look at the details the speakers on our shortlist provided. In our talk submission form we ask for links to github, personal blogs or websites, twitter, and videos of previous talks. We review these links and videos, or google around for more. We might even email a submitter and ask for additional information, or a quick skype call. This is to ensure that the speaker has the necessary skill to present their talk. 
 
-In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks.
+In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks. Having first-time speakers make it to the final selection is also one of the key plus points of anonymized voting. 
 
+<<<<<<< HEAD
 ## 4. The Third Round: Talk Curation
+=======
+## Step 4. The Third Round: Talk Curation
+>>>>>>> master
 The first two rounds are only the beginning of a complex process, the actual curation. Being a one day, single track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have little to do with the quality of the talk proposal, but much more with the combination of talks and how well they will complement each other. Some of them are:
 
 ### Different Levels
@@ -75,6 +78,7 @@ A lot of shuffling around of combinations in the shortlist happens, going back a
 It is also worth mentioning that…
 
 ## 5. We do not simply throw away the talks that got voted out
+
 The anonymized voting is an imperfect hack to simmer the mass of proposals down to a shortlist. But, hackers that we are, of course we hack the “outvoted” talks again!
 We re-visit all talks that show a high deviation of our votes, i.e. where we are in disagreement. These are surprisingly few talks. However, a discussion and some digging into the links and videos a speaker provided might show that we missed an excellent proposal. 
 
@@ -95,14 +99,16 @@ We do never sell speaking slots. We also do not prefer speakers whose travel exp
 ## 10. Constantly Improving. Doing more, and Still Falling Short
 * We are constantly trying out new strategies to make the CSSconf EU selection process open, transparent, and very respectful of our submitters’ time and work.
 * We offer support and feedback along the application process. Via email, twitter, or by writing blog posts.
-* We encourage and nudge people to submit talks (overly simplified: to improve the “pipeline” problem).
-* We run free CSS workshops and meetups in Berlin to develop the local scene and offer a practice ground for aspiring conference speakers.
+
+* We encourage and nudge people to submit talks (overly simplified: to improve the [“pipeline”](http://geekfeminism.wikia.com/wiki/Leaky_pipeline) problem).
+* We run free [CSS workshops](http://cssclasses.cssconf.eu/) and [meetups](http://up.front.ug/) in Berlin to develop the local scene and offer a practice ground for aspiring conference speakers.
+
 
 We would love to do even more. If we had the resources, we’d like to:
-* provide personal feedback and non-standardized rejection emails for each proposal. A well-considered feedback email takes us ca. 30-60 minutes to write and agree on. Thus, we currently only do that upon request, and opted to have more time to work on other aspects of the event, e.g. our scholarship programme. 
+* provide personal feedback and non-standardized rejection emails for each proposal. A well-considered feedback email takes us ca. 30-60 minutes to write and agree on. Thus, we currently only do that upon request, and opted to have more time to work on other aspects of the event, e.g. our [scholarship programme](http://2015.cssconf.eu/scholarships/). 
 * We would love to send out rejections quicker, and notify people earlier, instead of making them wait. But: the selection process is time-consuming if we do it right, and even once we’re done, we have to wait for our selected speakers to confirm, sometimes get visas or solve logistic problems, before we send our rejections.
 
-We empathise with the disappointment a rejection email can have. If you got rejected, we hope that these insights into our process are helpful, and we invite you to reach out to contact@cssconf.eu if you have questions.
+We empathise with the disappointment a rejection email can have. If you got rejected, we hope that these insights into our process are helpful, and we invite you to reach out to [contact@cssconf.eu](mailto:contact@cssconf.eu) if you have questions.
 
 All that said, we have been extremely happy with how every single talk turned out at CSSconf EU in the past. For 2015, naturally and as every year, we are anxious to fulfill the expectations of our audience. Every one of the selected talks only made it into the final selection because we are 100% excited about it. We can not wait to hear our speakers present their thoughts, to see them dive into the details of their work that got us so curious, to be entertained, to be inspired to try out new things, to have great discussions afterwards. We hope so are you!
 
