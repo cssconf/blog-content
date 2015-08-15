@@ -27,9 +27,9 @@ CSSconf EU is a community-driven conference for professionals in the web develop
 
 The conference attracts web developers and designers with varying professional backgrounds and levels of experience. Our goal is to provide them with talks which:
 
-showcase technical excellence, latest research and cutting-edge technologies,
-provide hands-on knowledge that is both useful for their job and which helps them become better designers and developersdevelopers,
-entertain, inspire and encourage them to become active members of a great community.
+* showcase technical excellence, latest research and cutting-edge technologies,
+* provide hands-on knowledge that is both useful for their job and which helps them become better designers and developers,
+* entertain, inspire and encourage them to become active members of a great community.
 
 ## Step 2. Agreeing on Criteria for Talks
 With the above in mind, we agree on the criteria which guide our first round of voting. These criteria, together with explicit details, helpful tips and resources, are also spelled out in our Call for Speakers:
@@ -40,7 +40,7 @@ With the above in mind, we agree on the criteria which guide our first round of 
 * can the topic be reasonably covered in the allocated time
 
 ## Step 3. Bias and “Blind Voting”
-The lack of diversity in tech conference speakers is a problem, and a problem that we at CSSconf are well aware of and do our best to tackle. Anonymizing talk proposals is one of the ways in which we try to hack the unconscious bias that curators have against (or in unfair advantage of) personal attributes of the submitter. This is commonly referred to as “blind voting”, but we prefer the non-ableist term anonymized voting (hat tip Noah Slater’s http://nslater.tumblr.com/post/126664191058/this-post-is-in-response-to-lea-verous-post-about).
+The lack of diversity in tech conference speakers is a problem, and a problem that we at CSSconf are well aware of and do our best to tackle. Anonymizing talk proposals is one of the ways in which we try to hack the unconscious bias that curators have against (or in unfair advantage of) personal attributes of the submitter. This is commonly referred to as “blind voting”, but we prefer the non-ableist term anonymized voting (hat tip to [Noah Slater](http://nslater.tumblr.com/post/126664191058/this-post-is-in-response-to-lea-verous-post-about)).
 
 
 ### 3a) The First Round: Voting on Anonymized Proposals
@@ -55,7 +55,7 @@ Once we have the shortlist, we de-anonymize, and look at the details the speaker
 
 In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk to bring on first-time speakers, not knowing what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and witness them excel at their very first talks.
 
-## Step 4) The Third Round: Talk Curation
+## Step 4. The Third Round: Talk Curation
 The first two rounds are only the beginning of a complex process, the actual curation. Being a one day, single track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have little to do with the quality of the talk proposal, but much more with the combination of talks and how well they will complement each other. Some of them are:
 
 ### Different Levels
@@ -96,13 +96,13 @@ We do never sell speaking slots. We also do not prefer speakers whose travel exp
 * We are constantly trying out new strategies to make the CSSconf EU selection process open, transparent, and very respectful of our submitters’ time and work.
 * We offer support and feedback along the application process. Via email, twitter, or by writing blog posts.
 * We encourage and nudge people to submit talks (overly simplified: to improve the “pipeline” problem).
-* We run free CSS workshops and meetups in Berlin to develop the local scene and offer a practice ground for aspiring conference speakers.
+* We run free [CSS workshops](http://cssclasses.cssconf.eu/) and [meetups](http://up.front.ug/) in Berlin to develop the local scene and offer a practice ground for aspiring conference speakers.
 
 We would love to do even more. If we had the resources, we’d like to:
-* provide personal feedback and non-standardized rejection emails for each proposal. A well-considered feedback email takes us ca. 30-60 minutes to write and agree on. Thus, we currently only do that upon request, and opted to have more time to work on other aspects of the event, e.g. our scholarship programme. 
+* provide personal feedback and non-standardized rejection emails for each proposal. A well-considered feedback email takes us ca. 30-60 minutes to write and agree on. Thus, we currently only do that upon request, and opted to have more time to work on other aspects of the event, e.g. our [scholarship programme](http://2015.cssconf.eu/scholarships/). 
 * We would love to send out rejections quicker, and notify people earlier, instead of making them wait. But: the selection process is time-consuming if we do it right, and even once we’re done, we have to wait for our selected speakers to confirm, sometimes get visas or solve logistic problems, before we send our rejections.
 
-We empathise with the disappointment a rejection email can have. If you got rejected, we hope that these insights into our process are helpful, and we invite you to reach out to contact@cssconf.eu if you have questions.
+We empathise with the disappointment a rejection email can have. If you got rejected, we hope that these insights into our process are helpful, and we invite you to reach out to [contact@cssconf.eu](mailto:contact@cssconf.eu) if you have questions.
 
 All that said, we have been extremely happy with how every single talk turned out at CSSconf EU in the past. For 2015, naturally and as every year, we are anxious to fulfill the expectations of our audience. Every one of the selected talks only made it into the final selection because we are 100% excited about it. We can not wait to hear our speakers present their thoughts, to see them dive into the details of their work that got us so curious, to be entertained, to be inspired to try out new things, to have great discussions afterwards. We hope so are you!
 
