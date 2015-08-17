@@ -9,7 +9,7 @@ excerpt: 'The speaker selection for CSSconf EU 2015 is done. We are thrilled wit
 As organizers, the speaker selection process is one of the hardest and yet funnest tasks that we face. 
 
 Fun, because it is simply joyful to read through the proposals we receive. They have been a continuous testimony to the creativity, thorough research, and deep knowledge that our community is capable of. 
-Hard, because we value every single proposal. We are fully aware of the emotions and expectations that go into submitting a talk – and we hate that, in the end, talk selection also means that we have to decline many of these, due to the limited number of speaker slots available.
+Hard, because we value every single proposal. We are fully aware of the emotions and expectations that go into submitting a talk and we hate that, in the end, talk selection also means that we have to decline many of these due to the limited number of speaker slots available.
 
 Every year, when we notify applicants that their talks have been declined, we receive a few disappointed replies.
 
@@ -18,9 +18,9 @@ Our talk selection process is something we’ve put a lot of thought into and wh
 We hope that this extensive post on the subject will be insightful to both speakers submitting to conferences and conference organizers interested in talk selection strategies. 
 
 ## There is no such thing as a perfect talk selection process
-The perfect talk selection process does not exist. There is no one-size-fits-all solution, and we cannot make a universally satisfying ranking from the best to the worst talk. This is our process and it’s designed to find the really great talk proposals for our event. In order to filter out the talks that will eventually culminate in an amazing line-up, we first need to be clear about what we want our event to be.
+The perfect talk selection process does not exist. There is no one-size-fits-all solution, and we cannot make a universally satisfying ranking from the best to the worst talk. This process is designed to find the really great talk proposals for CSSconf EU. In order to filter out the talks that will eventually culminate in an amazing line-up, we first need to be clear about what we want the conference to be.
 
-Following a set of steps and principles was really helpful for us:
+We find the following set of steps and principles really helpful:
 
 ## 1. Understanding the nature and goals of the conference
 CSSconf EU is a community-driven conference for professionals in the web development industry. We are not an academic event, we are not a standards group event, we are not a user group. This defines the opportunities and limitations of our event.
@@ -29,7 +29,7 @@ The conference attracts web developers and designers with varying professional b
 
 * showcase technical excellence, latest research and cutting-edge technologies,
 * provide hands-on knowledge that is both useful for their job and which helps them become better designers and developers,
-* entertain, inspire and encourage them to become active members of a great community.
+* entertain, inspire, and encourage them to become active members of a great community.
 
 ## 2. Agreeing on criteria for talks
 With the above in mind, we agree on the criteria which guide our first round of voting. These criteria, together with explicit details, helpful tips and resources, are also spelled out in our Call for Speakers:
@@ -54,7 +54,7 @@ Once we have the shortlist, we de-anonymize and look at the details that the spe
 
 In most cases, we are excited to see how much the submitters have already contributed elsewhere, and how great they are at presenting their thoughts. In the past, we have also taken the risk of bringing on first-time speakers, not knowing entirely what will happen on stage. Looking back, we couldn’t have been luckier to have invited these people, and to have witnessed them excel at their very first talks. Having first-time speakers make it to the final selection is also one of the key plus points of anonymized voting. 
 
-## 4. The Third Round: Talk Curation
+## 4. The Third Round: talk curation
 The first two rounds are only the beginning of a complex process: the actual curation. Being a one-day, single-track event, we want to present to our audience the perfect combination of talks. The considerations that guide us in this round of the selection process have much more to do with how well the talks complement each other. These considerations include:
 
 ### Varying levels
