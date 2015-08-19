@@ -11,7 +11,7 @@ We are very pleased to announce that CSSconf EU tickets sold out earlier this mo
 ## Katie Kurkoski
 
 <div class="blog-img blog-img--right">
-  ![Portrait of Katie Kurkoski](---)
+  ![Portrait of Katie Kurkoski](katie-kurkoski.jpg)
 </div>
 
 Katie is a front end developer for Getty Images in Seattle, USA and a veteran of the days of table-based layouts. She also fiddles with Nodebots, volunteers for GDI Seattle, and curates CascadiaJS. When not in front of a computer, she can often be found making glass art, or playing with dice and super heroes. You can follow Katie on <a href="https://twitter.com/katiek2" target="_blank">twitter</a> or check out her writings on her <a href="http://www.pewpewlaser.com/" target="_blank">Pew Pew Laser</a> blog.
@@ -19,7 +19,7 @@ Katie is a front end developer for Getty Images in Seattle, USA and a veteran of
 ## Michael Mifsud
 
 <div class="blog-img blog-img--right">
-  ![Portrait of Michael Mifsud](---)
+  ![Portrait of Michael Mifsud](michael-mifsud.jpg)
 </div>
 
 Michael is a front end engineer at 99designs where he focuses on performance and tooling. He is a core contributor to LibSass and the Node Sass project lead. He also started the MelbCSS Meetup and organizes <a href="http://2015.cssconf.com.au/" target="_blank">CSSConf AU</a>. You can follow Michael on twitter at <a href="https://twitter.com/xzyfer" target="_blank">@xzyfer</a>.
