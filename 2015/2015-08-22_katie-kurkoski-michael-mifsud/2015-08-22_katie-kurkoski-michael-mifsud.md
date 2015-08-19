@@ -6,7 +6,7 @@ keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Katie, Kurk
 excerpt: 'As CSSconf EU tickets sell out, we are excited to confirm two new additions to our 2015 line-up: Katie Kurkoski and Michael Mifsud'
 ---
 
-We are happy and humbled by the immense trust of our attendees: CSSconf EU tickets sold out earlier this month! With this news, we are excited to reveal another two speakers of our 2015 line-up: <a href="https://twitter.com/katiek2" target="_blank">Katie Kurkoski</a> and <a href="https://twitter.com/xzyfer" target="_blank">Michael Mifsud</a>.
+We are very pleased to announce that CSSconf EU tickets sold out earlier this month! It's both thrilling and humbling to be shown such immense trust on part of our attendees, so thank you! With this fantastic news we welcome another two speakers of our 2015 line-up: <a href="https://twitter.com/katiek2" target="_blank">Katie Kurkoski</a> and <a href="https://twitter.com/xzyfer" target="_blank">Michael Mifsud</a>.
 
 ## Katie Kurkoski
 
@@ -22,6 +22,6 @@ Katie is a front end developer for Getty Images in Seattle, USA and a veteran of
   ![Portrait of Michael Mifsud](---)
 </div>
 
-Michael is a front end engineer at 99designs where he focuses on performance and tooling. He's a core contributor to LibSass and the Node Sass project lead. He also started the MelbCSS Meetup and organizes <a href="http://2015.cssconf.com.au/" target="_blank">CSSConf AU</a>. You can follow Michael on twitter at <a href="https://twitter.com/xzyfer" target="_blank">@xzyfer</a>.
+Michael is a front end engineer at 99designs where he focuses on performance and tooling. He is a core contributor to LibSass and the Node Sass project lead. He also started the MelbCSS Meetup and organizes <a href="http://2015.cssconf.com.au/" target="_blank">CSSConf AU</a>. You can follow Michael on twitter at <a href="https://twitter.com/xzyfer" target="_blank">@xzyfer</a>.
 
-We are extremely excited to meet them in Berlin and we know you are, too! Watch this space as we continue to reveal our final line-up and talk teasers in the coming weeks.
+We are extremely excited to meet them in Berlin and we know you are, too! Watch this space as we continue to reveal more speakers and talk teasers in the coming weeks.
