@@ -3,7 +3,7 @@ title:            Announcing new additions to the CSSconf EU 2015 line-up
 tagline:          'Firstname Lastname and Firstname Lastname'
 description:      'Firstname Lastname and Firstname Lastname to be joining us on stage in Berlin this September'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks
-excerpt: 		  'insert excerpt here'
+excerpt:          'insert excerpt here'
 ---
 
 We welcome another two speakers joining our 2015 line-up: <a href="#" target="_blank">Firstname Lastname</a> and <a href="#" target="_blank">Firstname Lastname</a>.
