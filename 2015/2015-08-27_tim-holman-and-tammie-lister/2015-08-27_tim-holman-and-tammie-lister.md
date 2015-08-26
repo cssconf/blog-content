@@ -1,7 +1,26 @@
 ---
-title:            Announcing new additions to the CSSconf EU 2015 line-up
-tagline:          'Katie Kurkoski and Michael Mifsud'
-description:      'Katie Kurkoski and Michael Mifsud to be joining us on stage in Berlin this September'
-keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Katie, Kurkoski, Michael, Mifsud
-excerpt: 'As CSSconf EU tickets sell out, we are excited to confirm two new additions to our 2015 line-up: Katie Kurkoski and Michael Mifsud'
+title:            Announcing two new CSSconf EU speakers 
+tagline:          'Tim Holman and Tammie Lister'
+description:      'Tim Holman and Tammie Lister join the CSSconf EU 2015 line-up'
+keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Tammie, Lister, Tim, Holman
+excerpt:          'With just a month left until CSSconf EU, we are thrilled to announce two new additions to our 2015 line-up: Tim Holman and Tammie Lister'
 ---
+
+With CSSconf EU exactly a month away, we are  to see our speaker line-up come together, This week we are thrilled to announce <a href="http://twitter.com/twholman" target="_blank">Tim Holman</a> and <a href="https://twitter.com/karmatosed" target="_blank">Tammie Lister</a>.
+
+## Tim Holman
+
+<div class="blog-img blog-img--right">
+  ![Portrait of Tim Holman]()
+</div>
+
+Tim is an Australian developer with a love and flair for all things quirky and strange online. When he's not working on Tumblr, you'll find him building something bizarre, and which the world definitely does not need. You can follow Tim on <a href="http://twitter.com/twholman" target="_blank">twitter</a> or check out his creations on <a href="https://github.com/tholman" target="_blank">GitHub</a>.
+
+## Tammie Lister
+
+<div class="blog-img blog-img--right">
+  ![Portrait of Tammie Lister]()
+</div>
+
+Tammie works at Automattic making themes for WordPress. She has a wide background including design, front end development, user experience, and speaking. She is a contributor to WordPress and passionate about Open Source. You can follow Tammie on <a href="https://twitter.com/karmatosed" target="_blank">twitter</a> or check out her <a href="http://diaryofawebsite.com/">Diary of a website</a>.
+
