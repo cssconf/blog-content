@@ -6,7 +6,7 @@ keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Tammie, Lis
 excerpt:          'With just a month left until CSSconf EU, we are thrilled to announce two new additions to our 2015 line-up: Tim Holman and Tammie Lister'
 ---
 
-With CSSconf EU exactly a month away, we are  to see our speaker line-up come together, This week we are thrilled to announce <a href="http://twitter.com/twholman" target="_blank">Tim Holman</a> and <a href="https://twitter.com/karmatosed" target="_blank">Tammie Lister</a>.
+With CSSconf EU exactly a month away, we are really pleased to see our speaker line-up come so beautifully together. This week we are thrilled to announce two more speakers: <a href="http://twitter.com/twholman" target="_blank">Tim Holman</a> and <a href="https://twitter.com/karmatosed" target="_blank">Tammie Lister</a>.
 
 ## Tim Holman
 
@@ -22,5 +22,4 @@ Tim is an Australian developer with a love and flair for all things quirky and s
   ![Portrait of Tammie Lister]()
 </div>
 
-Tammie works at Automattic making themes for WordPress. She has a wide background including design, front end development, user experience, and speaking. She is a contributor to WordPress and passionate about Open Source. You can follow Tammie on <a href="https://twitter.com/karmatosed" target="_blank">twitter</a> or check out her <a href="http://diaryofawebsite.com/">Diary of a website</a>.
-
+Tammie works at Automattic making themes for WordPress. She has a varied professional background including design, front end development, user experience, and speaking. She is a contributor to WordPress and passionate about Open Source. You can follow Tammie on <a href="https://twitter.com/karmatosed" target="_blank">twitter</a> or check out her <a href="http://diaryofawebsite.com/">Diary of a website</a>.
