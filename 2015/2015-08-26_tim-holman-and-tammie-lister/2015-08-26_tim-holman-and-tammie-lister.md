@@ -14,7 +14,7 @@ With CSSconf EU exactly a month away, we are really pleased to see our speaker l
   ![Portrait of Tim Holman](tim-holman.jpg)
 </div>
 
-Tim is an Australian developer with a love and flair for all things quirky and strange online. When he's not working on Tumblr, you'll find him building something bizarre, and which the world definitely does not need. You can follow Tim on <a href="http://twitter.com/twholman" target="_blank">twitter</a> or check out his creations on <a href="https://github.com/tholman" target="_blank">GitHub</a>.
+Tim is an Australian developer with a love and flair for all things quirky and strange online. When he's not working on Tumblr, you'll find him building something bizarre that the world definitely does not need. You can follow Tim on <a href="http://twitter.com/twholman" target="_blank">twitter</a> or check out his creations on <a href="https://github.com/tholman" target="_blank">GitHub</a>.
 
 ## Tammie Lister
 
