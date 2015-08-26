@@ -11,7 +11,7 @@ With CSSconf EU exactly a month away, we are really pleased to see our speaker l
 ## Tim Holman
 
 <div class="blog-img blog-img--right">
-  ![Portrait of Tim Holman]()
+  ![Portrait of Tim Holman](tim-holman.jpg)
 </div>
 
 Tim is an Australian developer with a love and flair for all things quirky and strange online. When he's not working on Tumblr, you'll find him building something bizarre, and which the world definitely does not need. You can follow Tim on <a href="http://twitter.com/twholman" target="_blank">twitter</a> or check out his creations on <a href="https://github.com/tholman" target="_blank">GitHub</a>.
@@ -19,7 +19,7 @@ Tim is an Australian developer with a love and flair for all things quirky and s
 ## Tammie Lister
 
 <div class="blog-img blog-img--right">
-  ![Portrait of Tammie Lister]()
+  ![Portrait of Tammie Lister](tammie-lister.jpg)
 </div>
 
 Tammie works at Automattic making themes for WordPress. She has a varied professional background including design, front end development, user experience, and speaking. She is a contributor to WordPress and passionate about Open Source. You can follow Tammie on <a href="https://twitter.com/karmatosed" target="_blank">twitter</a> or check out her <a href="http://diaryofawebsite.com/">Diary of a website</a>.
