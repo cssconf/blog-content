@@ -1,5 +1,5 @@
 ---
-title:             Announcing the CSSconf EU 2015 MC 
+title:             Announcing this year's MC 
 tagline:          'Meet Nick Hehr'
 description:      'Nick Hehr will be joining us from NYC as MC'
 keywords:          MC, CSSconf, Berlin, conference, CSS, talks, Nick, Hehr
