@@ -1,7 +1,7 @@
 ---
 title:             Announcing this year's MC 
-tagline:          'Meet Nick Hehr'
-description:      'Nick Hehr will be joining us from NYC as MC'
+tagline:          'Nick Hehr is joining us in Berlin as the CSSconf EU MC'
+description:      'Nick Hehr will be the CSSconf EU 2015 MC'
 keywords:          MC, CSSconf, Berlin, conference, CSS, talks, Nick, Hehr
 excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Berlin this September as the CSSconf EU MC!'
 ---
@@ -9,6 +9,8 @@ excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Be
 <div class="blog-img blog-img--center">
   ![Portrait of Nick Hehr]()
 </div>
+
+## meet Nick Hehr
 
 Nick is an empathetic community member, front-end developer, and avid Disney parks & animation fan. When he’s not at a meetup or contributing to Hoodie, you can probably find him at the nearest climbing gym. His mustache is real and has been growing on him for over two and a half years. 
 
