@@ -10,8 +10,6 @@ excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Be
   ![Portrait of Nick Hehr](cssconfeu-nick-hehr-01.jpg)
 </div>
 
-## meet Nick Hehr
-
 Nick is an empathetic community member, front-end developer, and avid Disney parks & animation fan. When he’s not at a meetup or contributing to Hoodie, you can probably find him at the nearest climbing gym. His mustache is real and has been growing on him for over two and a half years. 
 
 We are really excited to be welcoming him on stage at CSSconf EU as this year's MC, and we know you will be, too! We approached Nick to ask him about CSS, how he got into it, what he's working on, and more!
