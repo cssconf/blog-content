@@ -14,7 +14,7 @@ excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Be
 
 Nick is an empathetic community member, front-end developer, and avid Disney parks & animation fan. When he’s not at a meetup or contributing to Hoodie, you can probably find him at the nearest climbing gym. His mustache is real and has been growing on him for over two and a half years. 
 
-We are really excited to be welcoming him on stage at CSSconf EU 2015 as this year's MC, and we know you will be, too! We approached Nick to ask him about CSS, how he got into it, what he's working on, and more!
+We are really excited to be welcoming him on stage at CSSconf EU as this year's MC, and we know you will be, too! We approached Nick to ask him about CSS, how he got into it, what he's working on, and more!
 
 ## Hi Nick! Thanks for taking the time to answer some questions for us. Besides being busy with events, what are you working on at the moment?
 At Namely, I’ve been helping build out a living styleguide and React component library to be used across all of Namely’s products and internal projects. In my spare time, Hoodie has been my main focus for open source contribution. I started with documentation, and have been assisting with the migration to using PouchDB and Hapi plugins. My next big side project will be designing and developing my wedding site as soon as I get back from Berlin. 
