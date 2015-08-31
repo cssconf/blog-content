@@ -3,7 +3,7 @@ title:            Announcing Nick Hehr, CSSconf EU 2015 MC
 tagline:          'Meet Nick Hehr'
 description:      'Nick Hehr will be joining us from NYC as MC'
 keywords:          MC, CSSconf, Berlin, conference, CSS, talks, Nick, Hehr
-excerpt:          'We are really happy to welcome Nick Hehr as the MC for CSSconf EU 2015! We approached Nick '
+excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Berlin this September as CSSconf EU's MC!'
 ---
 
 With CSSconf EU exactly a month away, we are really pleased to see our speaker line-up come so beautifully together. This week we welcome two more speakers: <a href="http://twitter.com/twholman" target="_blank">Tim Holman</a> and <a href="https://twitter.com/karmatosed" target="_blank">Tammie Lister</a>.
