@@ -7,7 +7,7 @@ excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Be
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Nick Hehr]()
+  ![Portrait of Nick Hehr](cssconfeu-nick-hehr-01.jpg)
 </div>
 
 ## meet Nick Hehr
