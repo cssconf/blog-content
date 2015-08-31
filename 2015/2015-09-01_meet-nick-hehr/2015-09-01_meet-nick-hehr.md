@@ -25,6 +25,10 @@ This trip to Berlin will be my first time outside of the United States, so I’m
 **Do you remember the first project you wrote CSS for? Is it still online?**  
 In college, I studied psychology and business, and one of the required classes was called Computers for Business. In it, I learned about Microsoft Office basics and how to make a website from scratch. Even in 2011, I was taught how to use HTML layout with tables and basic styling with inline CSS (who knew that would make a comeback?) to build a marketing page for a computer store. I was so enthralled by this ability to create something out of seemingly nothing, I started teaching myself web design with all the online resources I could find. That site probably still lives somewhere on that school’s servers. 
 
+<div class="blog-img blog-img--right">
+  ![Portrait of Nick Hehr](cssconfeu-nick-hehr-02.jpg)
+</div>
+
 **If you could teach someone new to CSS one thing, what would that be?**  
 I think I would show them CodePen first, for some immediate inspiration on all the awesome things CSS can do. From there, I would probably fork a simple but interesting Pen and let them start poking around the CSS to see how it affects the Pen’s appearance. That confidence in experimenting will be super helpful when building out their own projects in the future.
 
