@@ -7,7 +7,7 @@ excerpt:          'Una is a front end developer on the IBM Design team in Austin
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Una Kravets]()
+  ![Portrait of Una Kravets](una-kravets-l.jpg)
 </div>
 
 Una is a front end developer on the IBM Design team in Austin, TX. She blogs, illustrates, is a core member of the Open Design Foundation, and started the DC and Austin Sass Meetups. Una’s talk, **_Photoshop is Dead: Editing Images in CSS_**, will demonstrate how we can use CSS blend modes, filters, and gradients to implement custom photo effects right in the browser. The talk will help us understand how blend modes work and will show us how to implement dynamic and accessible graphics within our own web projects.
