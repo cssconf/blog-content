@@ -1,9 +1,9 @@
 ---
-title:            Meet Una Kravets 
-tagline:          'Introducing Una Kravets'
+title:             Meet Una Kravets 
+tagline:          ''
 description:      'Interview with Una Kravets'
 keywords:          Una, Kravets, CSSconf, Berlin, conference, CSS, talks, Photoshop
-excerpt:          'Una is a front end developer on the IBM Design team in Austin, TX. Una’s talk, _Photoshop is Dead: Editing Images in CSS_, will demonstrate how we can use CSS to implement custom photo effects right in the browser.'
+excerpt:          'Una is a front end developer on the IBM Design team in Austin, TX. Una’s talk, Photoshop is Dead: Editing Images in CSS, will demonstrate how we can use CSS to implement custom photo effects right in the browser.'
 ---
 
 <div class="blog-img blog-img--center">
@@ -12,7 +12,7 @@ excerpt:          'Una is a front end developer on the IBM Design team in Austin
 
 Una is a front end developer on the IBM Design team in Austin, TX. She blogs, illustrates, is a core member of the Open Design Foundation, and started the DC and Austin Sass Meetups. Una’s talk, **_Photoshop is Dead: Editing Images in CSS_**, will demonstrate how we can use CSS blend modes, filters, and gradients to implement custom photo effects right in the browser. The talk will help us understand how blend modes work and will show us how to implement dynamic and accessible graphics within our own web projects.
 
-We approached Una to talk to her about CSS, how she got into it, what she's up to:
+We approached Una to talk to her about work, CSS, and what she's been up to lately:
 
 <span class="strong-border">Hi Una! Thanks for taking the time to answer some questions for us. Besides being busy speaking at conferences, what are you working on at the moment?</span>
 I’m always doing a million things! Right now, I am probably somewhere in Europe trying to figure out what my next move is to get me to Berlin on time. But outside of this, I’ve been working on building prototypes of Cloud Platform offerings at IBM, helping define the engineering and design workflow/culture, and organizing internal and external meetups. Apart from coding and writing, I’ve been doing a lot of watercolor painting and calligraphy lately. I failed to complete a 100-day lettering challenge, but I’m still working at it, and you can follow my struggle [here](https://instagram.com/unadoestype/).
@@ -32,4 +32,4 @@ Solving large-scale problems is a rewarding challenge I get to explore at IBM, b
 <span class="strong-border">Have you been to Berlin before and what are you looking forward to the most?</span>
 I have! I was in Berlin during Christmas time 3 years ago. It was amazing! :) The Christmas markets and gluvine were wonderful and I really enjoyed exploring the city (it’s such beautiful and eclectic place). I’m looking forward to returning at a warmer time and meeting all of the wonderful tech people in Berlin!
 
-We're looking forward to meeting Una and really excited ot hear her talk. In the meantime, follow [@una on Twitter](https://twitter.com/una) and find her writings on her website at [una.im](http://una.im).
+We look forward to meeting Una and are really excited ot hear her talk! In the meantime, follow [@una on Twitter](https://twitter.com/una) or check out her writings on her website at [una.im](http://una.im).
