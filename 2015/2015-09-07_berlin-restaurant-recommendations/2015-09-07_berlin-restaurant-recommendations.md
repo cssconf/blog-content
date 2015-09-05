@@ -1,25 +1,19 @@
 ---
-title:             Where to stay when travelling to CSSconf EU
-tagline:          'Accommodation options for attendees in Berlin'
-description:      'Where to stay in Berlin when travelling to CSSconf EU'
-keywords:          CSSconf, Berlin, conference, CSS, accommodation, hotel, hostel, AirBnB
-excerpt:          'If you’re heading to Berlin to attend CSSconf EU, then welcome! Berlin is one of the most vibrant cities in the world and we’re certain that you’ll have a fantastic time here. If you haven’t done so yet, we would like to urge you to make your accommodation arrangements for your stay here as soon as possible.'
+title:             Eating out in Berlin
+tagline:          'our guide to Berlin's restaurant scene'
+description:      'Eating out in Berlin: our recommendations'
+keywords:          CSSconf, Berlin, conference, CSS, restaurant, eat, out, delicious, Asian, food, lunch, dinner
+excerpt:          ''
 ---
 
-If you’re heading to Berlin to attend CSSconf EU, then welcome! Berlin is one of the most vibrant cities in the world and we’re certain that you’ll have a fantastic time here. If you haven’t done so yet, **we would like to urge you to make accommodation arrangements for your stay here as soon as possible**. There are many events happening on the weekend of CSSconf EU, including [many other tech events](http://wwwtf.berlin/) and the Berlin Marathon, meaning that accommodation options in the city are rapidly diminishing. Here are some of our recommendations:
+##Cocolo Ramen 
+*Paul-Lincke-Ufer 39-40, 10999 Berlin ([map](https://www.google.de/search?es_sm=93&q=cocolo+ramen&npsic=0&rflfq=1&rlha=0&tbm=lcl&sa=X&ved=0CDAQtgNqFQoTCLrhid_o4McCFchaFAodMGIFCg&biw=1366&bih=653#rlfi=hd:;si:4879598907839537550)) | Mon - Sat 12.00 - 23.00, Sun 18.00 - 23.00 | €€€€*
+*Gipsstr. 3, 10119 Berlin ([map](https://www.google.de/maps/place/Cocolo/@52.5271775,13.3992568,15z/data=!4m2!3m1!1s0x0:0xc34bcc3a3a3872a3))*
 
-##Team up with other attendees
+Unsurprisingly, Berlin is famous for its Asian cuisine scene and [Cocolo Ramen](https://www.facebook.com/pages/Cocolo-Ramen-X-Berg/480234328730559) is right at the center of it. With locations in both Kreuzberg and Mitte, Cocolo Ramen serves craftily made mouth-watering noodle dishes, on par with their authentic Japanese counterparts. Cocolo Ramen in Kreuzberg is suitably located next to the popular Maybachufer canal, in a beautiful, green setting. The menu is simple and sweet and includes veggie options. Expect to pay between €7.5 - €10 per bowl. 
 
-CSSconf EU is part of [wwwtf.berlin](http://wwwtf.berlin), a week full of events dedicated to the web, and many people from the industry will flock to Berlin for the occasion. We encourage attendees to meet and help each other out. Have a free couch or a guest room? Don’t mind sharing a hotel room? Can offer a ride from another city to Berlin for a fellow attendee? Tweet @CSSconfeu and use the hashtags [#CSSconfeu](https://twitter.com/hashtag/cssconfeu) & [#wwwtfberlin](https://twitter.com/hashtag/wwwtfberlin) and we’d be happy to spread the word!
 
-Our venue, [RADIALSYSTEM V](https://www.google.de/maps/place/RADIALSYSTEM+V/@52.5102922,13.4286193,15z/data=!4m2!3m1!1s0x0:0xf3893f5141a5c0fc?sa=X&ved=0CJEBEPwSMBBqFQoTCPCl_7vv2McCFcRZLAodI7MFPg), is centrally located and right next door to a major train station (Berlin Ostbahnhof) and public transport is frequent, reliable and affordable. There's no need to worry about the location too much. Taxis are also around every corner and you can [check](http://www.taxiverband-berlin.de/taxikunden/tarifrechner.php) in advance how much they'd cost you so you can budget accordingly.
 
-##Hotels and Hostels
+For further advice on visiting the German capital have a look at our Info page. For further recommendations keep an eye on this space.
 
-Berlin offers all of the conventional accommodation options found anywhere else. You can check availability and book hotels and hostels using services such as [Booking.com](http://www.booking.com/), [Agoda](http://www.agoda.com/), [HRS](http://www.hrs.de/).
-
-##Other accommodation options
-
-If you prefer, you can also check out private accommodation providers such as [AirBnB](https://www.airbnb.com/s/Berlin--Germany), or try [Couchsurfing](https://www.couchsurfing.com/places/Europe/Germany/Berlin).
-
-See you in Berlin!
+See you in Berlin! <3
