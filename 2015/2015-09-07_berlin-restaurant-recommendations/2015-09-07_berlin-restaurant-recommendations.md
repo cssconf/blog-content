@@ -3,7 +3,7 @@ title:             Eating out in Berlin
 tagline:          'our guide to Berlin's restaurant scene'
 description:      'Eating out in Berlin: our recommendations'
 keywords:          CSSconf, Berlin, conference, CSS, restaurant, eat, out, delicious, Asian, food, lunch, dinner
-excerpt:          ''
+excerpt:          
 ---
 
 ##Cocolo Ramen 
