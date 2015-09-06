@@ -6,20 +6,39 @@ keywords:          CSSconf, Berlin, conference, CSS, accommodation, hotel, hoste
 excerpt:          'If you’re heading to Berlin to attend CSSconf EU, then welcome! Berlin is one of the most vibrant cities in the world and we’re certain that you’ll have a fantastic time here. If you haven’t done so yet, we would like to urge you to make your accommodation arrangements for your stay here as soon as possible.'
 ---
 
-If you’re heading to Berlin to attend CSSconf EU, then welcome! Berlin is one of the most vibrant cities in the world and we’re certain that you’ll have a fantastic time here. If you haven’t done so yet, **we would like to urge you to make accommodation arrangements for your stay here as soon as possible**. There are many events happening on the weekend of CSSconf EU, including [many other tech events](http://wwwtf.berlin/) and the Berlin Marathon, meaning that accommodation options in the city are rapidly diminishing. Here are some of our recommendations:
+Here's a collection of some of our favourite places to grab a bite:
 
-##Team up with other attendees
+##Datscha 
+<span style="font-size:.85em;">**Gabriel-Max-Straße 1, 10245 Berlin ([map]) | Mon - Sat from 10:00, Sun 9:00 - 15.00 | €€<span style="color:grey">€€</span>**</span>
 
-CSSconf EU is part of [wwwtf.berlin](http://wwwtf.berlin), a week full of events dedicated to the web, and many people from the industry will flock to Berlin for the occasion. We encourage attendees to meet and help each other out. Have a free couch or a guest room? Don’t mind sharing a hotel room? Can offer a ride from another city to Berlin for a fellow attendee? Tweet @CSSconfeu and use the hashtags [#CSSconfeu](https://twitter.com/hashtag/cssconfeu) & [#wwwtfberlin](https://twitter.com/hashtag/wwwtfberlin) and we’d be happy to spread the word!
+[Datscha](http://cafe-datscha.de/) is a Russian Café-Bar in Friedrichshain serving delicious Russian food. It's a favourite because of its great ambiance, great selection of vodkas, and its reasonable prices. There are vegetarian dishes on offer here and you can have a look at [the menu](http://cafe-datscha.de/speisekarte.html) online.
 
-Our venue, [RADIALSYSTEM V](https://www.google.de/maps/place/RADIALSYSTEM+V/@52.5102922,13.4286193,15z/data=!4m2!3m1!1s0x0:0xf3893f5141a5c0fc?sa=X&ved=0CJEBEPwSMBBqFQoTCPCl_7vv2McCFcRZLAodI7MFPg), is centrally located and right next door to a major train station (Berlin Ostbahnhof) and public transport is frequent, reliable and affordable. There's no need to worry about the location too much. Taxis are also around every corner and you can [check](http://www.taxiverband-berlin.de/taxikunden/tarifrechner.php) in advance how much they'd cost you so you can budget accordingly.
+Expect to pay between €9 - €14 for a main course.
 
-##Hotels and Hostels
+##Sauvage 
+<span style="font-size:.85em;">**Pflügerstraße 25, 12047 Berlin ([map]) | Tue - Sun 18:00 - 00:00 | €€€<span style="color:grey">€</span>**</span>
 
-Berlin offers all of the conventional accommodation options found anywhere else. You can check availability and book hotels and hostels using services such as [Booking.com](http://www.booking.com/), [Agoda](http://www.agoda.com/), [HRS](http://www.hrs.de/).
+[Sauvage](http://sauvageberlin.com/en/) prides itself in being the world's first Paleo restaurant. It offers a good variety of dishes made from largely unprocessed / raw ingerdients. You can also check out [their menu](http://cafe-datscha.de/speisekarte.html) online. Prices are higher here, main courses average ca. €15
 
-##Other accommodation options
+##Cocolo Ramen 
+<span style="font-size:.85em;">**Paul-Lincke-Ufer 39-40, 10999 Berlin ([map]) | Mon - Sat 12.00 - 23.00, Sun 18.00 - 23.00 | €€<span style="color:grey">€€</span>**  
+**Gipsstr. 3, 10119 Berlin ([map])**</span>
 
-If you prefer, you can also check out private accommodation providers such as [AirBnB](https://www.airbnb.com/s/Berlin--Germany), or try [Couchsurfing](https://www.couchsurfing.com/places/Europe/Germany/Berlin).
+The Asian cuisine scene in Berlin is huge and [Cocolo Ramen](https://www.facebook.com/pages/Cocolo-Ramen-X-Berg/480234328730559) is right at the center of it. With locations in both Kreuzberg and Mitte, Cocolo Ramen serves craftily made mouth-watering noodle dishes, on par with their authentic Japanese counterparts. Cocolo Ramen in Kreuzberg is suitably located next to the popular Maybachufer canal, in a beautiful, green setting. The menu is simple and sweet and includes veggie options. Expect to pay between €7.5 - €10 per bowl. 
 
-See you in Berlin!
+##Umami 
+<span style="font-size:.85em;">**Knaackstraße 16, 10405 Berlin ([map]) | Daily 12.00 - 23.30 | €€<span style="color:grey">€€</span>**</span>
+
+Umami is a Asian fusion restaurant in Prenzlauerberg. 
+Expect to pay between €6.5 - €15 per main dish. 
+
+##Spätzleexpress
+<span style="font-size:.85em;">*Wiener Straße 11, 10999 Berlin ([map]) | Mon - Sun 12.00 - 22.00 | €<span style="color:grey">€€€</span>**</span>
+
+[Spätzleexpress](http://www.spaetzleexpress.de/) is a non-fancy self-service type of establishment. It made our list because it offers *typical* German food and we swear by its Spätzle dishes. Spätzle is a German type of pasta... Wikipedia can explain. It's delicious, filling, and cheap!
+
+Spätzleexpress has an extensive menu with daily specials. Expect to pay between €5 - 7 per meal.
+
+For further advice on visiting the German capital have a look at our Info page. We'll be publishing more of our recommendations here, so watch this space!
+
+See you in Berlin! <3
