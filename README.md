@@ -1,5 +1,7 @@
 # CSSconf Blog
 
+[![build status](https://secure.travis-ci.org/cssconf/blog-content.png)](http://travis-ci.org/cssconf/blog-content)
+
 ## Conventions
 
 ### Folder names

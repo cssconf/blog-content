@@ -1,0 +1,30 @@
+{
+  "name": "blog-content",
+  "version": "1.0.0",
+  "description": "Blog content for CSS Conf EU",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test-everything-ok.js | tap-colorize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssconf/blog-content.git"
+  },
+  "keywords": [
+    "cool",
+    "good",
+    "excellent"
+  ],
+  "author": "CSSConf EU Team",
+  "license": "???",
+  "bugs": {
+    "url": "https://github.com/cssconf/blog-content/issues"
+  },
+  "homepage": "https://github.com/cssconf/blog-content#readme",
+  "devDependencies": {
+    "async": "^1.4.2",
+    "glob": "^5.0.14",
+    "tap-colorize": "^1.2.0",
+    "tape": "^4.2.0"
+  }
+}

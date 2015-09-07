@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "0.10"
+before_install:
+  - npm install -g npm@~1.4.6
+after_success:
+  - 'curl -G http://blog.cssconf.eu/_fetchcontent?token=RH4pVm^7BJrQnF9%W89MDX[vwz}PXowe'
