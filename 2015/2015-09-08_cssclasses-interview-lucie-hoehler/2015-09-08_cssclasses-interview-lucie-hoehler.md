@@ -1,36 +1,29 @@
 ---
-title:             Meet Una Kravets 
-tagline:          ''
-description:      'Interview with Una Kravets'
-keywords:          Una, Kravets, CSSconf, Berlin, conference, CSS, talks, Photoshop
-excerpt:          'Una is a front end developer on the IBM Design team in Austin, TX. Una’s talk, Photoshop is Dead: Editing Images in CSS, will demonstrate how we can use CSS to implement custom photo effects right in the browser.'
+title:            CSSclasses: a CSSconf EU & OpenTechSchool Initiative 
+tagline:          'interview with CSSclasses alumnus-turned-coach Lucie Höhler'
+description:      'CSSclasses: what, where, why'
+keywords:          Lucie, Höhler, CSSconf, Berlin, conference, CSS, classes, lessons
+excerpt:          'Designed for beginners and experts alike, CSSclasses is a series of one day events for people interested in getting acquainted and creative with CSS. Lucie Höhler of the CSSconf EU team attended the classes as a participant last year and is still involved, now as a coach.'
 ---
+
+Designed for beginners and experts alike, [CSSclasses](http://cssclasses.cssconf.eu/) is a series of one-day events for anyone interested in getting acquainted and creative with CSS. These part workshops, part hackathons are free to attend, organized by CSSconf EU and [OpenTechSchool](http://www.opentechschool.org/), and designed and delivered by a group of volunteer developers.
+
+Launched in 2014, CSSclasses is an ambitious initiative aiming to make the introduction to coding not only more attractive, but also more accessible. Why CSS? Because it’s one of the most creative yet easy coding languages to get into. 
+
+We spoke to [Lucie Höhler](https://twitter.com/autofocus) of the CSSconf EU team - Lucie is a CSSclasses alumnus-turned-coach. She is a front end developer in the making and recently started her first front end gig at [HitFox TechDev](https://twitter.com/HitFoxTechDev) here in Berlin.
 
 <div class="blog-img blog-img--center">
   ![Portrait of Una Kravets](una-kravets-l.jpg)
 </div>
 
+<span class="strong-border">How did you end up at your very first CSSclasses event? What motivated you to attend?</span>
+I might have seen a tweet advertising it or maybe an invitation on meetup. I was teaching myself to code at that time and had already found out that [OpenTechSchool](http://www.opentechschool.org/) interesting (and free!) classes every now and then. I already knew some CSS, but it was very basic. To have a class with a curriculum and - most importantly - coaches whom you can ask questions, was a perfect opportunity to fill in the gaps in my knowledge and get a better, more well-structured understanding of CSS. I think it’s always a good idea to take a class or a workshop when you’re learing something new. This way you’re “forced” to really dedicate a whole day just to that, and you have the opportunity to work together with others (and get to know them) and maybe even ask some questions. Plus, it’s much more fun than doing it alone! 
 
-Una is a front end developer on the IBM Design team in Austin, TX. She blogs, illustrates, is a core member of the Open Design Foundation, and started the DC and Austin Sass Meetups. Una’s talk, **_Photoshop is Dead: Editing Images in CSS_**, will demonstrate how we can use CSS blend modes, filters, and gradients to implement custom photo effects right in the browser. The talk will help us understand how blend modes work and will show us how to implement dynamic and accessible graphics within our own web projects.
+<span class="strong-border">What, do you think, is the significance of these events?</span>
+Workshops like CSSclasses offer a really low-threshold access to a lot of things: knowledge of course, but also much more - meeting like-minded people with similar goals (like learning to code) as well as people who have already achieved that and might give advice on how to get there. People who just want to share their knowledge, sometimes because at another time, someone did the same for them (that is my main motivation). If you’re trying to get into web development and learn how to code or improve your knowledge - no matter if it’s professionally or for other reasons - beside the factual stuff you also need encouragement, a community and the feeling that “you can do it”. Also: creativity and fun! For me, CSS classes offered all of that and I really hope it does so for others. 
 
-We approached Una to talk to her about work, CSS, and what she's been up to lately:
+<span class="strong-border">What does a day at CSSclasses look like?</span>
 
-<span class="strong-border">Hi Una! Thanks for taking the time to answer some questions for us. Besides being busy speaking at conferences, what are you working on at the moment?</span>
-I’m always doing a million things! Right now, I am probably somewhere in Europe trying to figure out what my next move is to get me to Berlin on time. But outside of this, I’ve been working on building prototypes of Cloud Platform offerings at IBM, helping define the engineering and design workflow/culture, and organizing internal and external meetups. Apart from coding and writing, I’ve been doing a lot of watercolor painting and calligraphy lately. I failed to complete a 100-day lettering challenge, but I’m still working at it, and you can follow my struggle [here](https://instagram.com/unadoestype/).
+The next CSSclasses will be held on **[September 20 at Co.Up Berlin](http://www.meetup.com/opentechschool-berlin/events/225073641/)**. Anyone is welcome to sign up and join us for a day of educational, creative, fun coding. We'd also love to hear from potential coaches who'd be happy to share their knowledge within the community!
 
-<span class="strong-border">What is an upcoming CSS feature that you can’t wait to see widely supported by browsers?</span>
-I’m really hoping that browsers will implement [conic gradients](http://leaverou.github.io/conic-gradient)! They’re so versatile and can be used for so many things, from checkerboard patterns to pie charts.
-
-<span class="strong-border">Can you think of a demo that recently blew your mind? Something on codepen, or github, or…?</span>
-[Lucas Beber](https://twitter.com/lucasbebber) is always blowing my mind with his demos. He recently created **[this one](http://codepen.io/lbebber/pen/ZGGNvZ)** of pure CSS water droplets with focus options that even shake on screen resize. Amazing!
-
-<span class="strong-border">Do you remember the first project you wrote CSS for? Is it still online?</span>
-Wow. My first project was a terrible, terrible website for a school project that was for a fake Travel website. I remember it was before webfonts and before I realized the joys of padding. I had a paragraph of black text in Verdana set on a yellow background that stretched to 80% of the page. Not cute. I’m glad it’s hidden somewhere deep on a USB drive somewhere.
-
-<span class="strong-border">What’s the thing you like most about your job?</span>
-Solving large-scale problems is a rewarding challenge I get to explore at IBM, but my real favorite part of work is my co-workers. I love the people I get to surround myself with. They’re all fantastic, curious individuals who I learn from and teach things to on a daily basis. To me, the most important part of a workplace is the people you get to work with and the flexibility to determine what tools and techniques you get to use to solve a problem.
-
-<span class="strong-border">Have you been to Berlin before and what are you looking forward to the most?</span>
-I have! I was in Berlin during Christmas time 3 years ago. It was amazing! :) The Christmas markets and gluvine were wonderful and I really enjoyed exploring the city (it’s such beautiful and eclectic place). I’m looking forward to returning at a warmer time and meeting all of the wonderful tech people in Berlin!
-
-We look forward to meeting Una and are really excited ot hear her talk! In the meantime, follow [@una on Twitter](https://twitter.com/una) or check out her writings on her website at [una.im](http://una.im).
+Thanks for reading! <3
