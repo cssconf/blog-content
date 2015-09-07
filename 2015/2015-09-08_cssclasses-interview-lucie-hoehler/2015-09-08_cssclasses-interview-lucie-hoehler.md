@@ -2,11 +2,11 @@
 title:             CSSclasses - a CSSconf EU and OpenTechSchool Initiative 
 tagline:          'interview with CSSclasses alumnus-turned-coach Lucie Höhler'
 description:      'CSSclasses what, where, why'
-keywords:          Lucie, Höhler, CSSconf, Berlin, conference, CSS, classes, lessons
-excerpt:          'Designed for beginners and experts alike, CSSclasses is a series of one day events for people interested in getting acquainted and creative with CSS. Lucie Höhler of the CSSconf EU team attended the classes as a participant last year and is still involved, now as a coach.'
+keywords:          Lucie, Höhler, CSSconf, CSSconf EU, Berlin, conference, CSS, classes, code, lessons
+excerpt:          'Designed for beginners and experts alike, CSSclasses is a series of one-day events for people interested in getting acquainted and creative with CSS. Lucie Höhler of the CSSconf EU team attended the classes as a participant last year and is still involved, now as a coach.'
 ---
 
-For beginners and experts alike, [CSSclasses](http://cssclasses.cssconf.eu/) is a series of one-day events for anyone interested in getting acquainted and creative with CSS. These part workshops, part hackathons are free to attend, organized by CSSconf EU and [OpenTechSchool](http://www.opentechschool.org/) and designed and delivered by a group of volunteer developers.
+For beginners and experts alike, [CSSclasses](http://cssclasses.cssconf.eu/) is a series of one-day events for anyone interested in getting acquainted and creative with CSS. These part workshops, part hackathons are free to attend, organized by [CSSconf EU](http://cssconf.eu) and [OpenTechSchool](http://www.opentechschool.org/) and delivered by volunteer developers.
 
 Launched in 2014, CSSclasses is an ambitious initiative aiming to make the introduction to coding not only more attractive, but also more accessible. Why CSS? Because it’s one of the most creative yet easy coding languages to get into. 
 
@@ -16,7 +16,7 @@ We spoke to [Lucie Höhler](https://twitter.com/autofocus) of the CSSconf EU tea
 <div class="blog-img blog-img--left">
   ![Portrait of Lucie Höhler](lucie-hoehler-m.jpg)
 </div>
-I might have seen a tweet advertising it, or maybe an invitation on meetup. I was teaching myself code at that time and had already knew that [OpenTechSchool](http://www.opentechschool.org/) offers interesting (and free!) classes every now and then. I already had some knowledge of CSS, but it was very basic. To have a class with a curriculum and - most importantly - coaches whom you can ask questions was a perfect opportunity to fill in the gaps in my knowledge and to get a better, more well-structured understanding of CSS. I think it’s always a good idea to take a class or a workshop when you’re learning something new. This way you’re “forced” to really dedicate a whole day just for it, you have the opportunity to work together with others and get to know them, and maybe even ask some questions. Plus, it’s much more fun than doing it alone!
+I might have seen a tweet advertising it, or maybe an invitation on meetup. I was teaching myself to code at that time and I already knew that [OpenTechSchool](http://www.opentechschool.org/) offers interesting (and free!) classes every now and then. I had some knowledge of CSS, but it was very basic. To have a class with a curriculum and - most importantly - coaches whom you can ask questions, was a perfect opportunity to fill in the gaps in my knowledge and to get a better, more well-structured understanding of CSS. I think it’s always a good idea to take a class or a workshop when you’re learning something new. This way you’re “forced” to really dedicate a whole day just for it and you have the opportunity to work together with others, get to know them, and ask questions. Plus, it’s much more fun than doing it alone!
 
 <span class="strong-border">What does a day at CSSclasses look like?</span>  
 There are some learning materials for CSSclasses [http://cssclasses.cssconf.eu/learning-materials/] that roughly cover the day of the workshop. After everyone has arrived, found a seat and a nametag, the coaches make sure everyone has WiFi and an editor and a browser installed. There may be an introduction round where everyone can share what their expectations are and whether there’s something in particular they’d like to learn. The organizers may give explanations to the whole class, but mostly the attendees can work through the materials at their own pace and just ask questions whenever they want to understand something better or don’t know how to proceed. 
