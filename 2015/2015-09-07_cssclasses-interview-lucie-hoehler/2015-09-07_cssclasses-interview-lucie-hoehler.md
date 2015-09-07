@@ -17,6 +17,7 @@ We spoke to [Lucie Höhler](https://twitter.com/autofocus) of the CSSconf EU tea
   ![Portrait of Lucie Höhler](lucie-hoehler-m.jpg)
 </div>
 I might have seen a tweet advertising it, or maybe an invitation on Meetup. I was teaching myself to code at that time and I was already aware that [OpenTechSchool](http://www.opentechschool.org/) offered interesting (and free!) classes every now and then.  
+
 I had some knowledge of CSS, but it was very basic. To have a class with a curriculum and - most importantly - coaches whom you can ask questions, was the perfect opportunity to fill in the gaps in my knowledge and to get a better, more structured understanding of CSS. I think it’s always a good idea to take a class or a workshop when you’re learning something new. This way you’re “forced” to really dedicate time to it and you have the opportunity to work together with others, get to know them, and ask questions. Plus, it’s much more fun than doing it alone!
 
 <span class="strong-border">What does a day at CSSclasses look like?</span>
