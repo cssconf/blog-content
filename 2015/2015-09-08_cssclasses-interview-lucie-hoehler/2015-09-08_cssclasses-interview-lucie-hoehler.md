@@ -1,5 +1,5 @@
 ---
-title:             CSSclasses a CSSconf EU and OpenTechSchool Initiative 
+title:             CSSclasses - a CSSconf EU and OpenTechSchool Initiative 
 tagline:          'interview with CSSclasses alumnus-turned-coach Lucie Höhler'
 description:      'CSSclasses what, where, why'
 keywords:          Lucie, Höhler, CSSconf, Berlin, conference, CSS, classes, lessons
