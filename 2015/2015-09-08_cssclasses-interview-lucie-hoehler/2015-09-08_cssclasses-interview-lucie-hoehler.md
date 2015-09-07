@@ -28,8 +28,6 @@ Workshops like CSSclasses offer a really low-threshold access to a lot of things
 
 If you’re trying to get into web development and learn how to code or improve your knowledge - no matter if it’s professionally or for other reasons - beside the factual *textbook* stuff you also need encouragement, a community, and the feeling that “you can do it”. Also: creativity and fun! For me, CSSclasses offered all of that and I really hope it does so for others. 
 
-<span class="strong-border">What does a day at CSSclasses look like?</span>
-
 The next CSSclasses will be held on **[September 20 at Co.Up Berlin](http://www.meetup.com/opentechschool-berlin/events/225073641/)**. Anyone is welcome to sign up and join us for a day of educational, creative and fun coding. We'd also love to hear from potential coaches who'd be happy to share their knowledge within the community!
 
 Thanks for reading! <3
