@@ -23,6 +23,7 @@
   "homepage": "https://github.com/cssconf/blog-content#readme",
   "devDependencies": {
     "async": "^1.4.2",
+    "front-matter": "^1.0.0",
     "glob": "^5.0.14",
     "tap-colorize": "^1.2.0",
     "tape": "^4.2.0"
