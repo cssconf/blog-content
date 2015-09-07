@@ -1,5 +1,5 @@
 ---
-title:            CSSclasses: a CSSconf EU & OpenTechSchool Initiative 
+title:             CSSclasses: a CSSconf EU & OpenTechSchool Initiative 
 tagline:          'interview with CSSclasses alumnus-turned-coach Lucie Höhler'
 description:      'CSSclasses: what, where, why'
 keywords:          Lucie, Höhler, CSSconf, Berlin, conference, CSS, classes, lessons
@@ -12,8 +12,8 @@ Launched in 2014, CSSclasses is an ambitious initiative aiming to make the intro
 
 We spoke to [Lucie Höhler](https://twitter.com/autofocus) of the CSSconf EU team - Lucie is a CSSclasses alumnus-turned-coach. She is a front end developer in the making and recently started her first front end gig at [HitFox TechDev](https://twitter.com/HitFoxTechDev) here in Berlin.
 
-<div class="blog-img blog-img--center">
-  ![Portrait of Una Kravets](una-kravets-l.jpg)
+<div class="blog-img blog-img--left">
+  ![Portrait of Lucie Höhler](lucie-hoehler-m.jpg)
 </div>
 
 <span class="strong-border">How did you end up at your very first CSSclasses event? What motivated you to attend?</span>
