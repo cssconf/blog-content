@@ -2,7 +2,7 @@
 title:            Announcing CSSconf EU 2015
 tagline:          ''
 description:      'CSSConf EU 2015 will take place on Saturday, September 26, 2015'
-keywords:         CSSconf, CSSconfEU, 2015, Announcement
+keywords:         CSSconf, CSSconfEU, 2015, Announcement :
 excerpt: 'We are back: CSSConf EU 2015 will take place on Saturday, September 26, 2015.'
 
 ---
@@ -27,8 +27,6 @@ Ticket sales will begin February 3. Like last year, combination tickets for CSSC
 * * *
 
 PS: Want to help us make this happen? E-mail us at [contact@cssconf.eu](mailto:contact@cssconf.eu) for sponsorship opportunities in 2015.
-
-beep
 
 <a href="http://2015.cssconf.eu/sponsors/" class="btn--special">
   <span class="btn__span" data-hover="Sponsorship Information">Sponsorship Info</span>
