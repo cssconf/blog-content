@@ -23,10 +23,12 @@ There are some [learning materials for CSSclasses](http://cssclasses.cssconf.eu/
 
 Anyone can create their own little project, which really brings out a lot of funny and interesting results. We have a lunch break together where people can get to know each other, the coaches and organizers better. Towards the end of the workshop, whoever wants to can present their project, design or website to the group. But it’s not a competition, and even those who have just done their first website with CSS are welcome to showcase it and present what they’ve learned during the day. Sometimes you really have to stop people from working in the end because they get so into it! 
 
-<span class="strong-border">What, do you think, is the significance of these events?</span>  
+<span class="strong-border">What, do you think, is the significance of these events?</span>
 Workshops like CSSclasses offer a really low-threshold access to a lot of things: knowledge, of course, but also the opportunity to meet like-minded people with similar goals (e.g. people learning to code) as well as those who have already achieved these goals and can give advice on how to get there. Many of the participants, especially the organizers and coaches, are involved because they want to share their knowledge, sometimes because at a different time someone did the same for them. This was my motivation to later become a coach myself. 
 
 If you’re trying to get into web development and learn how to code or improve your knowledge - no matter if it’s professionally or for other reasons - beside the factual *textbook* stuff you also need encouragement, a community, and the feeling that “you can do it”. Also: creativity and fun! For me, CSSclasses offered all of that and I really hope it does so for others. 
+
+<hr>
 
 The next CSSclasses will be held on *[September 20 at Co.Up Berlin](http://www.meetup.com/opentechschool-berlin/events/225073641/)*. Anyone is welcome to sign up and join us for a day of educational, creative and fun coding. We'd also love to hear from potential coaches who'd be happy to share their knowledge with the community! If you're interested, let us know on [twitter](https://twitter.com/cssclasses) or join us on [Meetup](http://www.meetup.com/opentechschool-berlin/events/225073641/).
 
