@@ -26,7 +26,7 @@ Nothing special here for me! Amazingly enough, the css property that I appreciat
 <span class="strong-border">What do you like most about giving talks at conferences?</span>
 Laughs and People! My talks are always light-hearted, and easygoing. And I’m light-hearted and easygoing. It makes me feel so great talking to people during the conference, finding out what they liked and didn’t like, and just generally talking shop with someone new, from somewhere new! Never a dull moment!
 
-<span class="strong-border">We don’t want to spoil it, but… what is the one thing that you wish everyone in the audience takes away from your talk?</span
+<span class="strong-border">We don’t want to spoil it, but… what is the one thing that you wish everyone in the audience takes away from your talk?</span>
 Again, my talk is pretty light-hearted. Ideally, by the end of it, everyone feels a little bit better about getting stuck into their work and creating something new! At the very least, I’d love to break down a few of the barriers we have when we get into development, we can all be a little less serious and have more fun with the web!
 
 <span class="strong-border">What CSS quirk has cost you the most nerves so far?</span>
