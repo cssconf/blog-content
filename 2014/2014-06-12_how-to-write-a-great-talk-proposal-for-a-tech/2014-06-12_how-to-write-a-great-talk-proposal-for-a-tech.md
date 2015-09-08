@@ -7,8 +7,6 @@ excerpt: 'It’s time to get your talk proposals ready for the upcoming conferen
 
 ---
 
-beep
-
 You’ve watched countless talks online. You've written a blog post, or ten. You've been to a local meetup, and maybe even given a presentation there. You’ve been to conferences, observed people share their knowledge, their stories (or their failures) on stage – and thought to yourself: I should be up there! I have something to talk about!
 
 Well, we think so, too! It’s time to get your talk proposals ready for the upcoming conference season, and we have some tips and insights on how to write a compelling talk proposal that will help you conquer the big conference stages.
