@@ -18,7 +18,7 @@ We spoke to [Lucie Höhler](https://twitter.com/autofocus) of the CSSconf EU tea
 
 <span class="strong-border">How did you end up at your very first CSSclasses event? What motivated you to attend?</span> 
 <div class="blog-img blog-img--left">
-  ![Portrait of Lucie Höhler](lucie-hoehler-m.jpg)
+  ![Portrait of Lucie Höhler](lucie-hoehler-s.jpg)
 </div>
 I might have seen a tweet advertising it, or maybe an invitation on Meetup. I was teaching myself to code at that time and I was already aware that [OpenTechSchool](http://www.opentechschool.org/) offered interesting (and free!) classes every now and then.  
 
