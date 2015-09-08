@@ -6,7 +6,8 @@ keywords:          Lucie, Höhler, CSSconf, CSSconf EU, Berlin, conference, CSS,
 excerpt:          'Designed for beginners and experts alike, CSSclasses is a series of one-day events for people interested in getting acquainted and creative with CSS. Lucie Höhler of the CSSconf EU team attended the classes as a participant last year and is still involved, now as a coach.'
 ---
 
-<div class="blog-img blog-img--center">
+<div class="blog-img blog-img--right" style="
+    width: 260px;">
   ![CSSclasses logo](css-classes-logo.svg)
 </div>
 Designed for beginners and experts alike, [CSSclasses](http://cssclasses.cssconf.eu/) is a series of one-day events for anyone interested in getting acquainted and creative with CSS. These part workshops, part hackathons are organized by [CSSconf EU](http://cssconf.eu) and [OpenTechSchool](http://www.opentechschool.org/), and delivered by volunteer developers. Participation is entirely free of charge.
