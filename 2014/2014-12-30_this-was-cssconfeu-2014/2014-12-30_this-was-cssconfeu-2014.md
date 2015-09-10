@@ -4,6 +4,8 @@ tagline:          ''
 description:      'Thank you – This was CSSconf EU 2014'
 keywords:         CSSconf, CSSconfEU, 2014, Review, Thanks
 excerpt: 'In September 2014, CSSconf EU happened for the second time in Berlin, Germany. People from more than 20 countries came together and celebrated a day of inspiring talks and discussions – take a look back in our review post.'
+author:           'CSSconf EU Team'
+authorlink:       'http://2015.cssconf.eu/team/
 
 ---
 

@@ -4,6 +4,9 @@ tagline:          'Goals and criteria for curating a one-day event, and strategi
 description:      'The speaker selection for CSSconf EU 2015 is done. We are thrilled with the final line-up of speakers we invited. We want to give back by sharing our own learnings and making our talk selection process transparent.'
 keywords:         CSSconf, talk, selection process, bias, anonymising, diversity, organisation, speakers, conference
 excerpt: 'The speaker selection for CSSconf EU 2015 is done. We are thrilled with the final line-up of speakers we invited. We want to give back by sharing our own learnings and making our talk selection process transparent.'
+author:           'Kristina Schneider'
+authorlink:       'http://2015.cssconf.eu/team/
+
 ---
 
 As organizers, the speaker selection process is one of the hardest and yet funnest tasks that we face. 

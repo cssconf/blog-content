@@ -4,6 +4,9 @@ tagline:          'Katie Kurkoski and Michael Mifsud'
 description:      'Katie Kurkoski and Michael Mifsud to be joining us on stage in Berlin this September'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Katie, Kurkoski, Michael, Mifsud
 excerpt: 'As CSSconf EU tickets sell out, we are excited to confirm two new additions to our 2015 line-up: Katie Kurkoski and Michael Mifsud'
+author:           'CSSconf EU Team'
+authorlink:       'http://2015.cssconf.eu/team/
+
 ---
 
 We are very pleased to announce that CSSconf EU tickets sold out earlier this month! It's both thrilling and humbling to be shown such immense trust on part of our attendees, so thank you! With this fantastic news we welcome another two speakers joining our 2015 line-up: <a href="https://twitter.com/katiek2" target="_blank">Katie Kurkoski</a> and <a href="https://twitter.com/xzyfer" target="_blank">Michael Mifsud</a>.

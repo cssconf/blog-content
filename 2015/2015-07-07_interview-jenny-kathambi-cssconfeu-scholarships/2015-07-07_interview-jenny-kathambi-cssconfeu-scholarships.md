@@ -6,6 +6,7 @@ keywords:         Scholarship, CSSconf, Berlin, conference, Diversity, applicati
 excerpt: 'At last year’s CSSconf EU we had the pleasure of meeting Jane Kathambi from Kenya. Jane had been awarded a grant to travel to Berlin and attend JSConf EU and CSSconf EU. We approached Jane to talk to her about her experiences.'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
+
 ---
 
 

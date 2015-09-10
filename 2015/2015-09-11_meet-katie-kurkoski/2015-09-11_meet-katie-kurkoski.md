@@ -4,6 +4,9 @@ tagline:          ''
 description:      'Interview with Katie Kurkoski'
 keywords:          Katie, Kurkoski, CSSconf, Berlin, conference, CSS, talks, localization
 excerpt:          'Katie is a front end developer for Getty Images in Seattle USA and a curator of Cascadia Fest, a local JavaScript and CSS conference. As a developer for Getty Images whose site is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, Developing for Localization, she will demonstrate CSS techniques to get your message across the world wide web. '
+author:           'Polly Hristova'
+authorlink:       'http://2015.cssconf.eu/team/
+
 ---
 
 <div class="blog-img blog-img--center">

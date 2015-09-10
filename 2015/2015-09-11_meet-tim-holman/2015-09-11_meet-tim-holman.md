@@ -4,6 +4,9 @@ tagline:          'bringing the fun back to CSS'
 description:      'Interview with Tim Holman'
 keywords:          Tim, Holman, CSSconf, Berlin, conference, CSS, talks, Fun
 excerpt:          'On a mission to take seriousness away from CSS Tims talk, Fun.css, will delve into some of the strangest areas of web development.'
+author:           'Polly Hristova'
+authorlink:       'http://2015.cssconf.eu/team/
+
 ---
 
 <div class="blog-img blog-img--center">

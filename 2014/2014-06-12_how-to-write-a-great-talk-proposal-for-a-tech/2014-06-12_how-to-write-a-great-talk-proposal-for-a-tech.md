@@ -4,6 +4,8 @@ tagline:          'Get up on stage'
 description:      'How to write a great talk proposal for a tech conference'
 keywords:         CSSconf, CSSconfEU, Speaking, Tips, Proposal, Call for Speakers, Talk, Writing
 excerpt: 'It’s time to get your talk proposals ready for the upcoming conference season, and we have some tips and insights on how to write a compelling talk proposal that will help you conquer the big conference stages.'
+author:           'Kristina Schneider'
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

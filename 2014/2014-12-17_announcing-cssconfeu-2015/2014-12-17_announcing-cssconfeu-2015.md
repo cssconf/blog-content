@@ -4,6 +4,8 @@ tagline:          ''
 description:      'CSSConf EU 2015 will take place on Saturday, September 26, 2015'
 keywords:         CSSconf, CSSconfEU, 2015, Announcement
 excerpt: 'We are back: CSSConf EU 2015 will take place on Saturday, September 26, 2015.'
+author:           'CSSconf EU Team'
+authorlink:       'http://2015.cssconf.eu/team/
 
 ---
 
