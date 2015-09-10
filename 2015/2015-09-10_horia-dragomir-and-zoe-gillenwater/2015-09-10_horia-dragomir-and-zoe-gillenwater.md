@@ -17,7 +17,7 @@ Horia is currently a UI Engineer at [Facebook](http://facebook.com), and in the 
 
 ## Zoe Gillenwater
 
-<div class="blog-img blog-img--right">
+<div class="blog-img blog-img--left">
   ![Portrait of Zoe Gillenwater](zoe-gillenwater-s.jpg)
 </div>
 Zoe is a senior designer for [Booking.com](http://www.booking.com/). She is the author of two books on CSS and visual web design, and she recently wrote the chapter on flexbox for Smashing Magazine's new *Real-Life Responsive Web Design* book. Follow Zoe on [twitter](https://twitter.com/zomigi) and find out more about her writings on [her website](http://zomigi.com/).
