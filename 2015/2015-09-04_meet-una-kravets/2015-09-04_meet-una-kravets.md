@@ -5,7 +5,7 @@ description:      'Interview with Una Kravets'
 keywords:          Una, Kravets, CSSconf, Berlin, conference, CSS, talks, Photoshop
 excerpt:          'Una is a front end developer on the IBM Design team in Austin, TX. Una’s talk, Photoshop is Dead: Editing Images in CSS, will demonstrate how we can use CSS to implement custom photo effects right in the browser.'
 author:           'Polly Hristova'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

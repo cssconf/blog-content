@@ -5,7 +5,7 @@ description:      'Eating out in Berlin - our recommendations'
 keywords:          CSSconf, Berlin, conference, CSS, restaurant, eat, out, delicious, food
 excerpt:          ''
 author:           'Polly Hristova'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

@@ -5,7 +5,7 @@ description:      'This is the first blog post description'
 keywords:         Amazing, keyworkds, for, my, post
 excerpt:          'Lorem ispum dolor sit amet, except exceprt content bla bla'
 author:           'CSSconf EU Team'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

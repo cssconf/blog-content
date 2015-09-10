@@ -5,7 +5,7 @@ description:      'Tim Holman and Tammie Lister join the CSSconf EU 2015 line-up
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Tammie, Lister, Tim, Holman
 excerpt:          'With just a month left until CSSconf EU, we are thrilled to announce two new additions to our 2015 line-up: Tim Holman and Tammie Lister'
 author:           'CSSconf EU Team'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

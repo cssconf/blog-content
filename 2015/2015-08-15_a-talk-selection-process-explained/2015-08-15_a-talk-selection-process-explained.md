@@ -5,7 +5,7 @@ description:      'The speaker selection for CSSconf EU 2015 is done. We are thr
 keywords:         CSSconf, talk, selection process, bias, anonymising, diversity, organisation, speakers, conference
 excerpt: 'The speaker selection for CSSconf EU 2015 is done. We are thrilled with the final line-up of speakers we invited. We want to give back by sharing our own learnings and making our talk selection process transparent.'
 author:           'Kristina Schneider'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

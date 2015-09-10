@@ -5,7 +5,7 @@ description:      'Nick Hehr will be the CSSconf EU 2015 MC'
 keywords:          MC, CSSconf, Berlin, conference, CSS, talks, Nick, Hehr
 excerpt:          'A warm welcome to Nick Hehr who will be joining us here in Berlin this September as the CSSconf EU MC!'
 author:           'Polly Hristova'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

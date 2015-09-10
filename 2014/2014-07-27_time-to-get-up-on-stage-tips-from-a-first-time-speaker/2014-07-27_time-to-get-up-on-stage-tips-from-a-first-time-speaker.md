@@ -5,7 +5,7 @@ description:      'Time To Get Up On Stage – Tips From a First Time Speaker'
 keywords:         CSSconf, CSSconfEU, Speaking, Tips, Sara, Soueidan, Talk
 excerpt: 'In her guest post, Sara Soueidan shares her experiences as a first time speaker.'
 author:           'CSSconf EU Team'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

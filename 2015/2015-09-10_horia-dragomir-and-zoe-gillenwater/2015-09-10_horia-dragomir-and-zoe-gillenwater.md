@@ -5,7 +5,7 @@ description:      'Horia Dragomir and Zoe Gillenwater join the CSSconf EU line-u
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Horia, Dragomir, Zoe, Gillenwater
 excerpt:          'We are really pleased to announce the two speakers who will complete our 2015 line-up Horia Dragomir and Zoe Gillenwater'
 author:           'CSSconf EU Team'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 

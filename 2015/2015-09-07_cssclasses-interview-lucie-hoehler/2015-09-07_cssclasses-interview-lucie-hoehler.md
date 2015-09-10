@@ -5,7 +5,7 @@ description:      'CSSclasses what, where, why'
 keywords:          Lucie, Höhler, CSSconf, CSSconf EU, Berlin, conference, CSS, classes, code, lessons
 excerpt:          'Designed for beginners and experts alike, CSSclasses is a series of one-day events for people interested in getting acquainted and creative with CSS. Lucie Höhler of the CSSconf EU team attended the classes as a participant last year and is still involved, now as a coach.'
 author:           'Polly Hristova'
-authorlink:       'http://2015.cssconf.eu/team/
+authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
