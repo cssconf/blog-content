@@ -17,7 +17,7 @@ Tim is an Australian developer who has both a love and a flair for all things qu
 
 On a mission to take seriousness away from the world of web development Tim’s talk, **_Fun.css_**, will delve into some of the strangest areas of the internet. Tim will introduce us to unusual and bizarre techniques and ways of thinking that we can use to create friendlier and, at the very least, more interesting experiences.
 
-We approached Tim to talk to him about CSS, having fun on the web, and more!
+We approached Tim to talk to him about CSS, having fun with the web, and more!
 
 <span class="strong-border">Hi Tim! Thanks for taking the time to answer some questions for us. Besides being busy speaking at conferences, what are you working on at the moment?</span>
 Ooh! I really love building small joke-ish products that poke a little fun at our industry! [Elevator.js](https://github.com/tholman/elevator.js) was a popular one this year, so was [Giflinks](https://github.com/tholman/giflinks) and [DomAnimator](https://github.com/tholman/dom-animator). Never a dull moment! These are great little filler projects between some of the larger, more serious work. 
