@@ -17,7 +17,7 @@ Katie is a front end developer for Getty Images in Seattle, USA and a curator of
 
 As a developer for Getty Images whose site is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, _**Developing for Localization**_, she will demonstrate CSS techniques to get your message across the world wide web. From easy wins such as non-embedded image copy to sneaky replacements for padding and margin to buff up those grids, you'll learn robust techniques for your day-to-day CSS development!
 
-Here's what Katie told us about some of her favourite features, demos, and more:
+Here's what Katie told us about her work and some of her favourite features, demos, and more:
 
 <span class="strong-border">Hi Katie! Thanks for taking the time to answer some questions for us. When you're not organizing and speaking at events, what does your usual work day look like?</span>
 While riding the bus to the office in downtown Seattle, I catch up on Twitter or play games on my phone. My day at the office starts with the daily scrum meeting and after that it’s developing new features for the site and CMS. I'm also learning Ruby and Angular by pairing with my teammates. If I’m lucky, I can get lunch from one of Seattle’s gourmet food trucks. After work I sometimes head out to a local meetup or a GDI Seattle class. 
