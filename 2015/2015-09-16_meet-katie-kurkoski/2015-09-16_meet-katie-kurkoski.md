@@ -38,7 +38,7 @@ I first wrote CSS for a knowledge-base intranet that I started inside a call cen
 The _beauty_ of the cascade.
 
 <span class="strong-border">As someone with both oranizing and speaking experience, do you have any tips for newcomers who want to get into speaking?</span>
-Yes! I’ve been sharing information about what works for me at [PewPewLaserBlog](http://www.pewpewlaser.com/tag/speaking.) 
+Yes! I’ve been sharing information about what works for me at [PewPewLaserBlog](http://www.pewpewlaser.com/tag/speaking). 
 
 <span class="strong-border">If you didn’t work on the web, what would your profession be?</span>
 I’d love to turn some of my hobbies into professions, so I’d hopefully be a baker or a glassblower.
