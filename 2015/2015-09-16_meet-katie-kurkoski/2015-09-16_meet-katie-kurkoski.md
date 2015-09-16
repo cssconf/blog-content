@@ -3,7 +3,7 @@ title:             Meet Katie Kurkoski
 tagline:          'glassblower, master of localization'
 description:      'Interview with Katie Kurkoski'
 keywords:          Katie, Kurkoski, CSSconf, Berlin, conference, CSS, talks, localization
-excerpt:          'Katie is a front end developer for Getty Images in Seattle USA and a curator of Cascadia Fest, a local JavaScript and CSS conference. Working on the Getty Images website which is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, Developing for Localization, she will demonstrate robust CSS techniques to get your message across the world wide web. '
+excerpt:          'Katie is a front end developer for Getty Images in Seattle, USA and a curator of Cascadia Fest, a local JavaScript and CSS conference. Working on the Getty Images website which is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, Developing for Localization, she will demonstrate robust CSS techniques to get your message across the world wide web. '
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
@@ -13,14 +13,14 @@ authorlink:       'http://2015.cssconf.eu/team/'
   ![Portrait of Katie Kurkoski](katie-kurkoski-m.jpg)
 </div>
 
-Katie is a front end developer for Getty Images in Seattle USA and a curator of [Cascadia Fest](http://2015.cascadiajs.com/), a local JavaScript and CSS conference. She is a veteran of the days of table-based layouts and JavaScript debugging using alerts. Katie is an instructor for GDI Seattle and she feels lucky enough to have given talks at local meetups, [SassConf](http://sassconf.com/) and [CSSConf AU](http://2015.cssconf.com.au/). When not in front of a computer, she can often be found making glass art or playing games with dice and cards. 
+Katie is a front end developer for Getty Images in Seattle, USA and a curator of [Cascadia Fest](http://2015.cascadiajs.com/), a local JavaScript and CSS conference. She is a veteran of the days of table-based layouts and JavaScript debugging using alerts. Katie is an instructor for GDI Seattle and she feels lucky enough to have given talks at local meetups, [SassConf](http://sassconf.com/) and [CSSConf AU](http://2015.cssconf.com.au/). When not in front of a computer, she can often be found making glass art or playing games with cards and dice. 
 
 As a developer for Getty Images whose site is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, _**Developing for Localization**_, she will demonstrate CSS techniques to get your message across the world wide web. From easy wins such as non-embedded image copy to sneaky replacements for padding and margin to buff up those grids, you'll learn robust techniques for your day-to-day CSS development!
 
-Here's what Katie told us about her some of her favourite features, demos, and more:
+Here's what Katie told us about some of her favourite features, demos, and more:
 
 <span class="strong-border">Hi Katie! Thanks for taking the time to answer some questions for us. When you're not organizing and speaking at events, what does your usual work day look like?</span>
-While riding the bus to the office in downtown Seattle, I catch up on Twitter or play games on my phone. My day at the office starts with the daily scrum meeting and after that it’s developing new features for the site and CMS. I'm also learning Ruby and Angular by pairing with my teammates. If I’m lucky, I can get lunch from one of Seattle’s gourmet food trucks. After work I sometimes head out to a local meetup or GDI Seattle class. 
+While riding the bus to the office in downtown Seattle, I catch up on Twitter or play games on my phone. My day at the office starts with the daily scrum meeting and after that it’s developing new features for the site and CMS. I'm also learning Ruby and Angular by pairing with my teammates. If I’m lucky, I can get lunch from one of Seattle’s gourmet food trucks. After work I sometimes head out to a local meetup or a GDI Seattle class. 
 
 <span class="strong-border">What is an upcoming CSS feature that you can’t wait to see widely supported by browsers?</span>
 I’m crossing my fingers for text and SVG clipping to hit that plateau of stable and wide support in the major browsers. We’re tantalizingly close to a lot of cool results with this functionality!
