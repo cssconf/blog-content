@@ -1,49 +1,56 @@
 ---
-title:             Meet Katie Kurkoski 
-tagline:          'glassblower, master of localization'
-description:      'Interview with Katie Kurkoski'
-keywords:          Katie, Kurkoski, CSSconf, Berlin, conference, CSS, talks, localization
-excerpt:          'Katie is a front end developer for Getty Images in Seattle USA and a curator of Cascadia Fest, a local JavaScript and CSS conference. Working on the Getty Images website which is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, Developing for Localization, she will demonstrate robust CSS techniques to get your message across the world wide web. '
+title:             Meet Michael Mifsud 
+tagline:          'programmer, organizer, speaker'
+description:      'Interview with Michael Mifsud'
+keywords:          Michael, Mifsud, CSSconf, Berlin, conference, CSS, talks
+excerpt:          'Michael is a front end engineer at 99designs and an organizer of CSSconf AU. '
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Katie Kurkoski](katie-kurkoski-m.jpg)
+  ![Portrait of Michael Mifsud](michael-mifsud-m.jpg)
 </div>
 
-Katie is a front end developer for Getty Images in Seattle USA and a curator of [Cascadia Fest](http://2015.cascadiajs.com/), a local JavaScript and CSS conference. She is a veteran of the days of table-based layouts and JavaScript debugging using alerts. Katie is an instructor for GDI Seattle and she feels lucky enough to have given talks at local meetups, [SassConf](http://sassconf.com/) and [CSSConf AU](http://2015.cssconf.com.au/). When not in front of a computer, she can often be found making glass art or playing games with dice and cards. 
+Michael is a front end engineer at [99designs](http://99designs.com) where he focuses on performance and tooling. He is a core contributor to LibSass and the Node Sass project lead. He also started the MelbCSS Meetup and organizes [CSSConf AU](http://2015.cssconf.com.au/). 
 
-As a developer for Getty Images whose site is localized into more than 20 languages, Katie is all too familiar with the layout havoc caused by translated content. In her talk, _**Developing for Localization**_, she will demonstrate CSS techniques to get your message across the world wide web. From easy wins such as non-embedded image copy to sneaky replacements for padding and margin to buff up those grids, you'll learn robust techniques for your day-to-day CSS development!
+Michael’s talk, _It's All Just Functions And Variables_, will tell the story of how weeks of being taunted by nonsensical compiler errors and a supportive community turned him, a "lowly" frontend developer, into a core contributor to LibSass - a large C/C++ project. He will unravel the stigma that "front end developers aren't real programmers" which propagates through the industry and into the hearts and minds of fellow developers. Michael will convince you that regardless of whether you write CSS, JavaScript or COBOL, you are as much a programmer as anyone on your team or the intenet, and that it's not our languages that define us but our willingness to learn to master our domain. 
 
-Here's what Katie told us about her some of her favourite features, demos, and more:
+We approached Michael to ask him about CSS, programming, pizza, and more:
 
-<span class="strong-border">Hi Katie! Thanks for taking the time to answer some questions for us. When you're not organizing and speaking at events, what does your usual work day look like?</span>
-While riding the bus to the office in downtown Seattle, I catch up on Twitter or play games on my phone. My day at the office starts with the daily scrum meeting and after that it’s developing new features for the site and CMS. I'm also learning Ruby and Angular by pairing with my teammates. If I’m lucky, I can get lunch from one of Seattle’s gourmet food trucks. After work I sometimes head out to a local meetup or GDI Seattle class. 
+<span class="strong-border">Hi Michael! Thanks for taking the time to answer some questions for us. Besides being busy speaking at conferences, what are you working on at the moment?</span>
+A delicious pizza.  
+The rest of my time is spent on my open source work with LibSass and Node-Sass, and with my friends organising our local CSS meetup and [CSSConf AU](http://2015.cssconf.com.au/). 
 
 <span class="strong-border">What is an upcoming CSS feature that you can’t wait to see widely supported by browsers?</span>
-I’m crossing my fingers for text and SVG clipping to hit that plateau of stable and wide support in the major browsers. We’re tantalizingly close to a lot of cool results with this functionality!
+I’m a performance nut so I’d love to support for webp, woff2, unicode-range and http/2 land everywhere!
 
 <span class="strong-border">Do you have a favorite CSS property, and if yes, what is it?</span>
-It used to be overflow:auto; but these days I’m getting fonder and fonder of flexbox.
+*zoom: 1
+You know why…
 
-<span class="strong-border">Can you think of a demo that recently blew your mind? Something on codepen, or github, or elsewhere?</span>
-[Tiffany Rayside](https://twitter.com/tmrDevelops) and [Nate Wiley](https://twitter.com/htmlnate) have been leading a ton of great work through their themed Codepen weekends. I’ve been awed by the resulting demos from these, such as this [color-changing hexagon grid by Matei Copot](http://codepen.io/towc/pen/mJzOWJ) which is my most recently favorited Pen.
+<span class="strong-border">What CSS quirk has cost you the most nerves so far?</span>
+Easily attr().
 
-<span class="strong-border">Do you remember the first project you wrote CSS for? Is it still online?</span>
-I first wrote CSS for a knowledge-base intranet that I started inside a call center. At the time, it was pretty revolutionary to be able to color headlines differently than the rest of the text with inline style tags! This intranet ran on an IIS server under someone’s desk, so it’s probably long since gone.
+	“The [attr() function](https://developer.mozilla.org/en/docs/Web/CSS/attr) can be used with any CSS property, but support for properties other than content is experimental.” -
 
-<span class="strong-border">If you could teach someone new to CSS one thing, what would that be?</span>
-The _beauty_ of the cascade.
+<span class="strong-border">If you didn't work on the web, what would your profession be?</span>
+World-travelling professional poker player and semi-professional pizza eater.
 
-<span class="strong-border">As someone with both oranizing and speaking experience, do you have any tips for newcomers who want to get into speaking?</span>
-Yes! I’ve been sharing information about what works for me at [PewPewLaserBlog](http://www.pewpewlaser.com/tag/speaking.) 
+<span class="strong-border">Have you been to Berlin before, and what are you looking forward to the most?</span>
+No I haven’t. It’s been on the top of my list for a long time so I’m super excited. I’m psyched for the beer and sausages. I also have some internet friends in town I’ll finally get to meet up with in person.
 
-<span class="strong-border">If you didn’t work on the web, what would your profession be?</span>
-I’d love to turn some of my hobbies into professions, so I’d hopefully be a baker or a glassblower.
+<span class="strong-border">What do you like most about giving talks at conferences?</span>
+I love meeting new people. It’s also great to see the silly things I work inspire people, some of whom have even inspired me.
 
-<span class="strong-border">Have you been to Berlin before and what are you looking forward to the most?</span>
-I have never been to Germany, and I’m very excited to visit. I hope my barely-remembered high-school German is enough to get by!
+<span class="strong-border">We don’t want to spoil it, but… what is the one thing that you wish everyone in the audience takes away from your talk?</span>
+Even if all you do all day is write Sass/JavaScript and google stackoverflow. You’re still as much of a programmer as anyone else on your team. Don’t let anyone tell you differently.
+
+<span class="strong-border">Are there things you want to improve about yourself (maybe anything you’re working on at the moment or are planning to do so in the future)? If yes, which ones?</span>
+Since being responsible for LibSass and Node Sass I’ve been really trying to upskill my c/c++ know how. It’s a struggle because there is very little good introductory material.
+
+<span class="strong-border">If you could make one wish: What would you like to change in our industry?</span>
+Just for more acceptance. There is too much ego and fear in our industry. I feel like it holds us back as whole.
 <hr>
-We're very excited that Katie is part of the CSSconf EU line-up and we look forward to her talk here in Berlin! Be sure to follow her on [Twitter](https://twitter.com/KatieK2) or check out her writings on speaking and more on the [PewPewLaserBlog](http://www.pewpewlaser.com/).
+We're really excite Until then, be sure to follow him on [Twitter](https://twitter.com/xzyfer).
