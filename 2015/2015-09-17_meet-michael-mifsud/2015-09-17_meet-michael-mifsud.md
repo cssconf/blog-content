@@ -55,4 +55,4 @@ Since becoming responsible for LibSass and Node Sass I’ve been really trying t
 <span class="strong-border">If you could, what's one thing you'd like to change in our industry?</span>
 I'd promote more acceptance. There is too much ego and fear in our industry. I feel like it holds us back as whole.
 <hr>
-We're really excited to have Michael join us on stage and we hope he'd have a great time here in Berlin! Until then, be sure to follow him on [Twitter](https://twitter.com/xzyfer).
+We're really excited to have Michael join us on stage and we hope he'll have a great time here in Berlin! Until then, be sure to follow him on [Twitter](https://twitter.com/xzyfer).
