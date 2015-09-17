@@ -3,7 +3,7 @@ title:             Meet Michael Mifsud
 tagline:          'programmer, organizer, speaker'
 description:      'Interview with Michael Mifsud'
 keywords:          Michael, Mifsud, CSSconf, Berlin, conference, CSS, talks
-excerpt:          'Michael is a front end engineer at 99designs and an organizer of CSSconf AU. '
+excerpt:          'Michael is a front end engineer at 99designs and an organizer of CSSConf AU. On stage at CSSconf EU, Michael will share with us his journey from being a front end developer to becoming a core contributor to LibSass.'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
