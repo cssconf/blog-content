@@ -13,7 +13,7 @@ authorlink:       'http://2015.cssconf.eu/team/'
   ![Portraits of the Organizers]()
 </div>
 
-<span class="strong-border" style="font-size:160%">Why CSSconf EU? How did you get involved?</span>
+<span class="strong-border" style="font-size:130%">Why CSSconf EU? How did you get involved?</span>
 **<u>Kristina</u>:** In 2013, when I lived in San Francisco, Nicole Sullivan had just announced the first CSSconf in the US. Similar to the JSconf series, she wanted to bring the event to Europe as well. Nicole knew I was already involved with JSconf in Berlin, and that I had been playing with the idea to turn up.front.ug into a conference for people working between web design and development – which is one of the key motivations of CSSconf as well. She asked me whether I wanted to bring CSSconf to Berlin – a few discussions about OOCSS and/or cocktails might have been involved – and well, how could I say no :)
 
 Kevin: I was an attendee at the first CSSconf EU, thanks to an &yet sponsored ticket and wanted to be part of it ever since. I admired how much time, effort and commitment Kristina and Michael put into this event to make it truly outstanding. I love the idea of giving something back to our community, gather these people to exchange thoughts and of course CSS – a perfect match.
