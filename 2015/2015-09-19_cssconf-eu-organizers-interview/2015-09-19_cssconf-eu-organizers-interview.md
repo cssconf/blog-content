@@ -1,16 +1,16 @@
 ---
-title:             Meet Tammie Lister 
+title:             Meet the CSSconf EU organizers 
 tagline:          ''
-description:      'Interview with Tammie Lister'
-keywords:          Tamie, Lister, CSSconf, Berlin, conference, CSS, talks
-excerpt:          'Tammie works at Automattic where she makes themes for WordPress. Her talk, Emotion Through CSS, will examine emotion as a powerful tool we can use to connect with users.'
+description:      'Interview with Kristina Schneider, Kevin Lorenz, Michael Pfeiffer'
+keywords:          Kristina, Schneider, Kevin, Lorenz, Michael, Pfeiffer, CSSconf, Berlin, conference, CSS, organizers
+excerpt:          ''
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Tammie Lister](tammie-lister-m.png)
+  ![Portraits of the Organizers]()
 </div>
 
 Tammie works at [Automattic](https://automattic.com/) where she makes themes for WordPress. She has a varied professional background including design, front end development, user experience, and speaking. She is a contributor to WordPress and is passionate about Open Source. 
