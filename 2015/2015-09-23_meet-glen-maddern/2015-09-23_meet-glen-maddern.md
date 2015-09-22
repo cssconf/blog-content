@@ -15,7 +15,7 @@ authorlink:       'http://2015.cssconf.eu/team/'
 
 Glen is an independent web developer from Melbourne, Australia. He also organizes [CSSConf AU](http://2015.cssconf.com.au/) and does rad web stuff. 
 
-Glen’s talk, ​_*Interoperable CSS*_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
+Glen’s talk, ​_**Interoperable CSS*_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
 
 We approached Glen to ask him about work, CSS, and speaking at conferences:
 
@@ -40,4 +40,4 @@ I’ve seen some *incredible* talks in my time. Talks that have totally convince
 My biggest tip is that nobody is a natural speaker. Well, maybe some are, but very few of the speakers you see on stage are any more comfortable than you would be. Each talk is terrifying, the slides are always less prepared than you’d like, the whole experience is exhausting. But it’s also terrific fun, so don’t let nerves stop you!
 <hr>
 
-We're really excited to have Glen here, he's in fact already in Berlin and we hope he's having a great time here! Be sure to follow him on [Twitter](https://twitter.com/glenmaddern), see what he's working on on [GitHub](https://github.com/geelen). You can also read Glen's recent articles on his [website](http://glenmaddern.com/articles).
+We're really excited to have Glen here, he's in fact already in Berlin and we hope he's enjoying it! Be sure to follow him on [Twitter](https://twitter.com/glenmaddern), see what he's working on on [GitHub](https://github.com/geelen). You can also read Glen's recent articles on his [website](http://glenmaddern.com/articles).
