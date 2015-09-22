@@ -15,7 +15,7 @@ authorlink:       'http://2015.cssconf.eu/team/'
 
 Glen is an independent web developer from Melbourne, Australia. He also organizes [CSSConf AU](http://2015.cssconf.com.au/) and does rad web stuff. 
 
-Glen’s talk, ​_**Interoperable CSS*_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
+Glen’s talk, ​_**Interoperable CSS**_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
 
 We approached Glen to ask him about work, CSS, and speaking at conferences:
 
