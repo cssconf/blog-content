@@ -25,7 +25,7 @@ Well, the popularity of CSS Modules really took us all by surprise, so there’s
 <span class="strong-border">What does a Glen Maddern work day look like?</span>
 I’m a freelancer, so my “usual work day” depends on the client. For the last few months that’s been fully remote — I’m working for a government team up in Sydney, building a WebRTC application for remote health consultations. I’ve set up an awesome space in Melbourne with some other remote web people, so day-to-day we’re all in there just like in a normal office, except none of us work on anything together. One day I’m going to blog about why I think that beats normal co-working spaces, just as soon as I get a free moment...
 
-<span class="strong-border">An upcoming CSS feature that you can’t wait to see widely supported by browsers is...</span>
+<span class="strong-border">An upcoming CSS feature you can’t wait to see widely supported by browsers is...</span>
 👏 V 👏 A 👏 R 👏 I 👏 A 👏 B 👏 L 👏 E 👏 S 👏
 
 When I first read the spec, I was kinda confused by the syntax and some of the runtime behaviour. But since starting on CSS Modules I’ve realised just how powerful this can be. Since it can’t really be polyfilled, it’s the best thing that CSS has, but that nobody can use.
