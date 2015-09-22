@@ -13,9 +13,9 @@ authorlink:       'http://2015.cssconf.eu/team/'
   ![Portrait of Glen Maddern](glen-maddern-m.jpg)
 </div>
 
-Glen is an independent web developer from Melbourne, Australia. He also organizes [CSSConf AU](http://2015.cssconf.com.au/) does rad web stuff. 
+Glen is an independent web developer from Melbourne, Australia. He also organizes [CSSConf AU](http://2015.cssconf.com.au/) and does rad web stuff. 
 
-Glen’s talk, _**Interoperable CSS**_, 
+Glen’s talk, ​_*Interoperable CSS*_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
 
 We approached Glen to ask him about work, CSS, and speaking at conferences:
 
@@ -30,7 +30,7 @@ I’m a freelancer, so my “usual work day” depends on the client. For the la
 
 When I first read the spec, I was kinda confused by the syntax and some of the runtime behaviour. But since starting on CSS Modules I’ve realised just how powerful this can be. Since it can’t really be polyfilled, it’s the best thing that CSS has, but that nobody can use.
 
-<span class="strong-border">What’s the thing you like most about your job?</span>
+<span class="strong-border">What’s do you like most about your job?</span>
 Before I did CSS, before I did anything front-end, I did back-end Rails stuff. Databases, dev-ops, that sort of thing. Before that I didn’t even work on the web. I was building mathematical modelling software for transport planning. I kept moving because I was frustrated that my work wasn’t directly affecting people — I was too far removed from the end users & their experience. Now the experience, the interactions, the design, that’s all I want to work on. It took me 10 years to get here, but I love it.
 
 <span class="strong-border">What do you like most about giving talks at conferences?</span>
@@ -40,4 +40,4 @@ I’ve seen some *incredible* talks in my time. Talks that have totally convince
 My biggest tip is that nobody is a natural speaker. Well, maybe some are, but very few of the speakers you see on stage are any more comfortable than you would be. Each talk is terrifying, the slides are always less prepared than you’d like, the whole experience is exhausting. But it’s also terrific fun, so don’t let nerves stop you!
 <hr>
 
-We're really excited to have Glen here, he's in fact already in Berlin and we hope he has a great time before he gets on stage this Saturday! Be sure to follow him on [Twitter](https://twitter.com/glenmaddern), see what he's working on on [GitHub](https://github.com/geelen) and check out his recent articles on his [website](http://glenmaddern.com/articles).
+We're really excited to have Glen here, he's in fact already in Berlin and we hope he's having a great time here! Be sure to follow him on [Twitter](https://twitter.com/glenmaddern), see what he's working on on [GitHub](https://github.com/geelen). You can also read Glen's recent articles on his [website](http://glenmaddern.com/articles).
