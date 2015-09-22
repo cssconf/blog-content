@@ -3,7 +3,7 @@ title:             Meet Glen Maddern
 tagline:          ''
 description:      'Interview with Glen Maddern'
 keywords:          Glen, Maddern, CSSconf, Berlin, conference, CSS, modules
-excerpt:          ''
+excerpt:          'Glen is an independent web developer from Melbourne, Australia. He also organizes CSSConf AU and does rad web stuff. Glen’s talk, Interoperable CSS, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
