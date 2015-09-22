@@ -1,58 +1,43 @@
 ---
-title:             Meet Michael Mifsud 
+title:             Meet Glen Maddern 
 tagline:          ''
-description:      'Interview with Michael Mifsud'
-keywords:          Michael, Mifsud, CSSconf, Berlin, conference, CSS, talks
-excerpt:          'Michael is a front end engineer at 99designs and an organizer of CSSConf AU. On stage at CSSconf EU, Michael will share with us his journey from being a front end developer to becoming a core contributor to LibSass.'
+description:      'Interview with Glen Maddern'
+keywords:          Glen, Maddern, CSSconf, Berlin, conference, CSS, modules
+excerpt:          ''
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Michael Mifsud](michael-mifsud-m.jpg)
+  ![Portrait of Glen Maddern](glen-maddern-m.jpg)
 </div>
 
-Michael is a front end engineer at [99designs](http://99designs.com) where he focuses on performance and tooling. He is a core contributor to LibSass and the Node-Sass project lead. He also started the MelbCSS Meetup and is an organizer of [CSSConf AU](http://2015.cssconf.com.au/). 
+Glen is an independent web developer from Melbourne, Australia. He also organizes [CSSConf AU](http://2015.cssconf.com.au/) does rad web stuff. 
 
-Michael’s talk, _**It's All Just Functions And Variables**_, will tell the story of how weeks of being taunted by nonsensical compiler errors and a supportive community turned him, a "lowly" front end developer, into a core contributor to LibSass - a large C/C++ project. He will unravel the stigma that "front end developers aren't real programmers" which propagates throughout the industry and into the hearts and minds of fellow developers. 
+Glen’s talk, _**Interoperable CSS**_, 
 
-Michael will convince you that regardless of whether you write CSS, JavaScript or COBOL, you are as much a programmer as anyone on your team or the intenet, and that it's not our languages that define us but our willingness to learn to master our domain. 
+We approached Glen to ask him about work, CSS, and speaking at conferences:
 
-We approached Michael to ask him about CSS, programming, pizza, and more:
+<span class="strong-border">Hi Glen! Thanks for taking the time to answer some questions for us. Besides being busy speaking at and organizing conferences, what are you up to at the moment?</span>
+Well, the popularity of CSS Modules really took us all by surprise, so there’s a bunch of new people coming to the project & asking questions. It’s really awesome to see, but this is the biggest open-source project I’ve been involved in, and it’s surprising just how much time it takes to keep on top of.
 
-<span class="strong-border">Hi Michael! Thanks for taking the time to answer some questions for us. Besides being busy speaking at conferences, what are you working on at the moment?</span>
-A delicious pizza.  
-The rest of my time is spent on my open source work with LibSass and Node-Sass, and with my friends organising our local CSS meetup and [CSSConf AU](http://2015.cssconf.com.au/). 
+<span class="strong-border">What does a Glen Maddern work day look like?</span>
+I’m a freelancer, so my “usual work day” depends on the client. For the last few months that’s been fully remote — I’m working for a government team up in Sydney, building a WebRTC application for remote health consultations. I’ve set up an awesome space in Melbourne with some other remote web people, so day-to-day we’re all in there just like in a normal office, except none of us work on anything together. One day I’m going to blog about why I think that beats normal co-working spaces, just as soon as I get a free moment...
 
-<span class="strong-border">Talking about CSS, is there a feature that you can’t wait to see widely supported by browsers?</span>
-I’m a performance nut, so I’d love to see support for webp, woff2, unicode-range and http/2 land everywhere!
+<span class="strong-border">An upcoming CSS feature that you can’t wait to see widely supported by browsers is...</span>
+👏 V 👏 A 👏 R 👏 I 👏 A 👏 B 👏 L 👏 E 👏 S 👏
 
-<span class="strong-border">Do you have a favorite CSS property, and if so, what is it?</span>
-*zoom: 1  
-You know why…
+When I first read the spec, I was kinda confused by the syntax and some of the runtime behaviour. But since starting on CSS Modules I’ve realised just how powerful this can be. Since it can’t really be polyfilled, it’s the best thing that CSS has, but that nobody can use.
 
-<span class="strong-border">The CSS quirk that has cost you the most nerves is...</span>
-Easily attr().
+<span class="strong-border">What’s the thing you like most about your job?</span>
+Before I did CSS, before I did anything front-end, I did back-end Rails stuff. Databases, dev-ops, that sort of thing. Before that I didn’t even work on the web. I was building mathematical modelling software for transport planning. I kept moving because I was frustrated that my work wasn’t directly affecting people — I was too far removed from the end users & their experience. Now the experience, the interactions, the design, that’s all I want to work on. It took me 10 years to get here, but I love it.
 
-“The attr() function can be used with any CSS property, but support for properties other than content is experimental.” -
+<span class="strong-border">What do you like most about giving talks at conferences?</span>
+I’ve seen some *incredible* talks in my time. Talks that have totally convinced me of something, have opened my eyes to a new way of thinking, have revealed to me a depth to a topic I’d been glossing over, have shown me that a technology could do something I’d never imagined. You get 30 minutes of standing in front of all these knowledgeable people and trying to leave them with something. It’s daunting, but addictive.
 
-[...](https://developer.mozilla.org/en/docs/Web/CSS/attr)
-
-<span class="strong-border">If you didn't work on the web, what would your profession be?</span>
-World-travelling professional poker player and semi-professional pizza eater.
-
-<span class="strong-border">Have you been to Berlin before? What are you looking forward to the most?</span>
-No I haven’t. It’s been on the top of my list for a long time, so I’m super excited. I’m psyched for the beer and sausages. I also have some internet friends in town I’ll finally get to meet up with in person.
-
-<span class="strong-border">What do you like most about giving talks at conferences and what's the one thing that you wish everyone in the audience would take away from your talk?</span>
-I love meeting new people. It’s also great to see how the silly things I work on inspire people, some of whom have also inspired me.
-I'd like to convince everyone that even if all you do all day is write Sass/JavaScript and Google stackoverflow, you’re still as much of a programmer as anyone else on your team. Don’t let anyone tell you differently.
-
-<span class="strong-border">What's something you want to improve about yourself, perhaps something you’re working on at the moment or are planning to work on in the future?</span>
-Since becoming responsible for LibSass and Node Sass I’ve been really trying to upskill my C/C++ know-how. It’s a struggle because there is very little good material to get you started.
-
-<span class="strong-border">If you could, what's one thing you'd like to change in our industry?</span>
-I'd promote more acceptance. There is too much ego and fear in our industry. I feel like it holds us back as whole.
+<span class="strong-border">Do you have any tips for newcomers who want to get into speaking?</span>
+My biggest tip is that nobody is a natural speaker. Well, maybe some are, but very few of the speakers you see on stage are any more comfortable than you would be. Each talk is terrifying, the slides are always less prepared than you’d like, the whole experience is exhausting. But it’s also terrific fun, so don’t let nerves stop you!
 <hr>
-We're really excited to have Michael join us on stage and we hope he'll have a great time here in Berlin! Until then, be sure to follow him on [Twitter](https://twitter.com/xzyfer).
+
+We're really excited to have Glen here, he's in fact already in Berlin and we hope he has a great time before he gets on stage this Saturday! Be sure to follow him on [Twitter](https://twitter.com/glenmaddern), see what he's working on on [GitHub](https://github.com/geelen) and check out his recent articles on his [website](http://glenmaddern.com/articles).
