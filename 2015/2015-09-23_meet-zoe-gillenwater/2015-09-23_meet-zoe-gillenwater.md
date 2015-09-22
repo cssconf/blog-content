@@ -3,7 +3,7 @@ title:             Meet Zoe Gillenwater
 tagline:          ''
 description:      'Interview with Zoe M Gillenwater'
 keywords:          Zoe, Gillenwater, CSSconf, Berlin, conference, CSS, talks, flexbox
-excerpt:          ''
+excerpt:          'Zoe is a senior designer for Booking.com. She is the author of two books on CSS and visual web design, and she recently wrote the chapter on flexbox for Smashing Magazine’s new Real-Life Responsive Web Design book. Zoe will tell you how you can enhance responsiveness with flexbox. '
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
@@ -13,9 +13,9 @@ authorlink:       'http://2015.cssconf.eu/team/'
   ![Portrait of Zoe Gillenwater](zoe-gillenwater.jpg)
 </div>
 
-Zoe is a senior designer for [Booking.com](http://booking.com]. She is the author of two books on CSS and visual web design, and she recently wrote the chapter on flexbox for Smashing Magazine’s new Real-Life Responsive Web Design book.
+Zoe is a senior designer for [Booking.com](http://booking.com). She is the author of two books on CSS and visual web design, and she recently wrote the chapter on flexbox for Smashing Magazine’s new Real-Life Responsive Web Design book.
 
-Zoe's talk, _**Enhancing Responsiveness With Flexbox**_, you’ll learn what flexbox features are particularly suited to responsive layouts and how you can harness them by applying flexbox as a progressive enhancement. Zoe will demonstrate examples of responsive page components and patterns that you can enhance further by layering flexbox on top of other layout methods, ensuring all users get a good experience.
+Zoe's talk, _**Enhancing Responsiveness With Flexbox**_, will demonstrate what flexbox features are particularly suited to responsive layouts and how you can harness them by applying flexbox as a progressive enhancement. Zoe will demonstrate examples of responsive page components and patterns that you can enhance further by layering flexbox on top of other layout methods, ensuring all users get a good experience.
 
 We approached Zoe to ask her about her work, CSS, flexbox and more!
 
