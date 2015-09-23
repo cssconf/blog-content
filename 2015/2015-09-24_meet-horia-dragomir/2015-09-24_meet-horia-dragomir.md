@@ -1,27 +1,25 @@
 ---
-title:             Meet Glen Maddern 
+title:             Meet Horia Dragomir 
 tagline:          ''
-description:      'Interview with Glen Maddern'
-keywords:          Glen, Maddern, CSSconf, Berlin, conference, CSS, modules
-excerpt:          'Glen is an independent web developer from Melbourne, Australia. He also organizes CSSConf AU and does rad web stuff. Glen’s talk, Interoperable CSS, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM.'
+description:      'Interview with Horia Dragomir'
+keywords:          Horia, Dragomir, CSSconf, Berlin, conference, CSS, modules
+excerpt:          ''
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
 <div class="blog-img blog-img--center">
-  ![Portrait of Glen Maddern](glen-maddern-m.jpg)
+  ![Portrait of Horia Dragomir](horia-dragomir-m.jpg)
 </div>
 
-Glen is an independent web developer from Melbourne, Australia where he organizes [CSSConf AU](http://2015.cssconf.com.au/) and does rad web stuff. 
+Horia is currently a UI Engineer at Facebook, and in the past has worked on everything from design to project management, in all sorts of companies, from Social Games to Investment Banks. 
 
-Glen’s talk, ​_**Interoperable CSS**_​, will introduce you to a new low-level interchange format for CSS that is already supported by default in loaders like Webpack & JSPM. It enables CSS Modules and it hopes to do for CSS what CommonJS did for JavaScript.
+His talk is titled I don't want to be on Facebook the whole day! and it tells the story of building messenger.com. Horia will give us a glimpse into how CSS is used at Facebook, and how it worked both for and against the developers tasked with working on the first secondary domain: messenger.com. 
 
-We approached Glen to ask him about work, CSS, and speaking at conferences:
+Warning: contains cool CSS and a bit of React.
 
-<span class="strong-border">Hi Glen! Thanks for taking the time to answer some questions for us. Besides being busy speaking at and organizing conferences, what are you up to at the moment?</span>
-Well, the popularity of CSS Modules really took us all by surprise, so there’s a bunch of new people coming to the project & asking questions. It’s really awesome to see, but this is the biggest open-source project I’ve been involved in, and it’s surprising just how much time it takes to keep on top of.
-
+<span class="strong-border">
 <span class="strong-border">What does a Glen Maddern work day look like?</span>
 I’m a freelancer, so my “usual work day” depends on the client. For the last few months that’s been fully remote — I’m working for a government team up in Sydney, building a WebRTC application for remote health consultations. I’ve set up an awesome space in Melbourne with some other remote web people, so day-to-day we’re all in there just like in a normal office, except none of us work on anything together. One day I’m going to blog about why I think that beats normal co-working spaces, just as soon as I get a free moment...
 
