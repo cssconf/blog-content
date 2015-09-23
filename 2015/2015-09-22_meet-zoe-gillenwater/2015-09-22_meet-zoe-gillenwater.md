@@ -1,5 +1,5 @@
 ---
-title:             Meet Zoe Gillenwater 
+title:             Meet Zoe M. Gillenwater 
 tagline:          ''
 description:      'Interview with Zoe M Gillenwater'
 keywords:          Zoe, Gillenwater, CSSconf, Berlin, conference, CSS, talks, flexbox
