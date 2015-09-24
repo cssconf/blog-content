@@ -3,7 +3,7 @@ title:             Meet Horia Dragomir
 tagline:          ''
 description:      'Interview with Horia Dragomir'
 keywords:          Horia, Dragomir, CSSconf, Berlin, conference, CSS, Facebook
-excerpt:          'Horia is a UI Engineer at Facebook. His talk, I don't want to be on Facebook the whole day!, tells the story of building messenger.com. '
+excerpt:          'Horia is a UI Engineer at Facebook. His talk, I don`t want to be on Facebook the whole day!, tells the story of building messenger.com.'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
