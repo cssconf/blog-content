@@ -15,7 +15,7 @@ authorlink:       'http://2015.cssconf.eu/team/'
 
 Horia is currently a UI Engineer at [Facebook](http://facebook.com), and in the past has worked on everything from design to project management, in all sorts of companies - from social gaming to investment banking. 
 
-His talk is titled _**I don't want to be on Facebook the whole day!**_ and tells the story of building messenger.com. Horia will give us a glimpse into how CSS is used at Facebook, and how it worked both for and against the developers tasked with working on the first secondary domain: messenger.com. 
+His talk is titled _**I don't want to be on Facebook the whole day!**_ and tells the story of building messenger.com. Horia will give us a glimpse into how CSS is used at Facebook, and how it worked both for and against the developers tasked with working on the first secondary domain: [messenger.com](https://www.messenger.com/). 
 
 Warning: contains cool CSS and a bit of React.
 
