@@ -9,7 +9,7 @@ authorlink:       'http://2015.cssconf.eu/'
 
 ---
 
-We are tremendously grateful to our speakers and attendees for being part of CSSconf EU 2015 and making it yet another absolutely fantastic one. CSSconf EU is from the community, for the community and we are thrilled to be able to freely share this year's talks online. This is made possible with the help of (Hoefler & Co)[http://www.typography.com/cloud/welcome/?utm_source=CSSConf2015&utm_medium=SponsorshipLogo&utm_campaign=WebfontsByHco], who enabled this year’s video recordings. Big thanks go out to them!
+We are tremendously grateful to our speakers and attendees for being part of CSSconf EU 2015 and making it yet another absolutely fantastic one. CSSconf EU is from the community, for the community and we are thrilled to be able to freely share this year's talks online. This is made possible with the help of [Hoefler & Co](http://www.typography.com/cloud/welcome/?utm_source=CSSConf2015&utm_medium=SponsorshipLogo&utm_campaign=WebfontsByHco), who enabled this year’s video recordings. Big thanks go out to them!
 
 Without further ado, here are the videos of the CSSconf EU 2015 talks in order of appearance
 
@@ -59,6 +59,6 @@ Without further ado, here are the videos of the CSSconf EU 2015 talks in order o
 
 <hr>
 
-The full playlist is available (here)[https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9].
+The full playlist is available [here](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9).
 
 We hope you and the community will enjoy the talks as much as we enjoyed curating and hearing them live.
