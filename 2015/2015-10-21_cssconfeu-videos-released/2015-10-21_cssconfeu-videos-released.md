@@ -3,7 +3,7 @@ title:            CSSconf EU 2015 talks released online
 tagline:          'For your viewing pleasure!'
 description:      'CSSconf EU 2015 video releases'
 keywords:         CSS, conf, talks, videos, CSSconf EU
-excerpt:          'We've released all CSSconf EU talks, they are freely available online for the community to enjoy, get inspired, and learn from!'
+excerpt:          'We have released all CSSconf EU talks, they are freely available online for the community to enjoy, get inspired, and learn from!'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/'
 
