@@ -8,7 +8,7 @@ author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/'
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yO-ypk8HOfg?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/yO-ypk8HOfg?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9" frameborder="0" allowfullscreen></iframe>
 <br>
 More than two months later, remembering CSSconf EU 2015 still gets us as exhilarated as if it were yesterday! So we, the organizers and team, wanted to say one very big THANK YOU:
 
