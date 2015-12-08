@@ -1,6 +1,6 @@
 ---
-title:            THANK YOU, this was CSSconf EU 2015 <3
-tagline:          ''
+title:            THANK YOU, this was CSSconf EU 2015
+tagline:          '❤'
 description:      'CSSconf EU 2015 summary and thank yous'
 keywords:         CSS, conf, conference, videos, CSSconf EU
 excerpt:          ''
@@ -9,7 +9,7 @@ authorlink:       'http://2015.cssconf.eu/'
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yO-ypk8HOfg?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9" frameborder="0" allowfullscreen></iframe>
-
+<br>
 More than two months later, remembering CSSconf EU 2015 still gets us as exhilarated as if it were yesterday! So we, the organizers and team, wanted to say one very big THANK YOU:
 
 ##Thank you 
@@ -29,7 +29,6 @@ For the community, from the community ❤ Thanks for being part of it and see yo
 
 <hr>
 
-Check out CSSconf EU as it happened on [Storify](https://storify.com/CSSconfEU/cssconf-eu-2015)
-Browse our photo albums [here](https://www.flickr.com/photos/126843898@N02/sets/72157658809402940/) and [here](https://www.flickr.com/photos/see_also/albums/72157659216823965)
+Check out CSSconf EU as it happened on [Storify](https://storify.com/CSSconfEU/cssconf-eu-2015) and browse our photo albums [here](https://www.flickr.com/photos/126843898@N02/sets/72157658809402940/) and [here](https://www.flickr.com/photos/see_also/albums/72157659216823965).
 
 Did you attend CSSconf EU 2015 and share your experiences in a blogpost or photo album? Let us know, we’d love to include it here!
