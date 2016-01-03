@@ -14,7 +14,8 @@ authorlink:       'http://2015.cssconf.eu/team/'
 </div>-->
 CSSconf EU 2015 [was truly fantastic](https://www.youtube.com/watch?v=yO-ypk8HOfg), but this one day of great ideas, creative insights and general merriment was conceived many months earlier and realized thanks to the love and efforts of a mighty volunteer team. What does it take and what does it mean to organize a CSSconf? Our organizers [Kristina](https://twitter.com/kriesse), [Kevin](https://twitter.com/verpixelt) and [Michael](https://twitter.com/m_p_pfeiffer) explain.
 
-<span class="strong-border" style="font-size:120%">Why CSSconf EU? How did you get involved?</span>  
+<span class="strong-border" style="font-size:120%">Why CSSconf EU? How did you get involved?</span>
+
 <span style="font-weight:bold;">Kristina:</span> In 2013, when I lived in San Francisco, Nicole Sullivan had just announced the first CSSconf in the US. Similar to the JSconf series, she wanted to bring the event to Europe as well. Nicole knew I was already involved with JSConf in Berlin, and that I had been toying with the idea to turn [up.front.ug](http://up.front.ug/) into a conference for people working between web design and development – one of the key motivations of CSSconf as well. She asked me whether I wanted to bring CSSconf to Berlin – a few discussions about OOCSS and/or cocktails might have been involved – and well, how could I have said no :)
 
 <span style="font-weight:bold;">Kevin:</span> I was an attendee at the first CSSconf EU, thanks to an [&yet](https://andyet.com/) sponsored ticket and wanted to be part of it ever since. I admired how much time, effort and commitment Kristina and Michael put into this event to make it truly outstanding. I love the idea of giving something back to our community, gather creative people to exchange thoughts and ideas, and of course CSS – a perfect match.
