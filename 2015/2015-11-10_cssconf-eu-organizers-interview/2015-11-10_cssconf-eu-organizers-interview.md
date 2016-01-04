@@ -3,7 +3,7 @@ title:            Behind the scenes of organizing CSSconf EU
 tagline:          ''
 description:      'Interview with Kristina Schneider, Kevin Lorenz and Michael Pfeiffer'
 keywords:          Kristina, Schneider, Kevin, Lorenz, Michael, Pfeiffer, CSSconf, Berlin, conference, CSS, organizers
-excerpt:          ''
+excerpt:          'CSSconf EU 2015 was truly fantastic, but this one day of great ideas, creative insights and general merriment was conceived many months earlier and realized thanks to the love and efforts of a mighty volunteer team. What does it take and what does it mean to organize a CSSconf? Organizers Kristina, Kevin and Michael share their behind-the-scenes experiences.'
 author:           'Polly Hristova'
 authorlink:       'http://2015.cssconf.eu/team/'
 
