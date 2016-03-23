@@ -15,7 +15,7 @@ While over here at CSSconf EU we’re busy planning our 2017 event, there’s no
 Attending a CSSconf is a fantastic opportunity to use your conference and travel budget to gain new insights, pick up new skills, and meet great like-minded people. Plus, you get the chance to travel to some fabulous places around the globe! Here's what you can look forward to from the [CSSconf community](http://cssconf.org/) in 2016:
 
 <div align="center">
-### CSSconf Budapest
+###CSSconf Budapest
 </div>
 <div class="blog-img blog-img--center">
   ![cssconfbp logo](CSSconfBP.png)
@@ -31,7 +31,7 @@ Attending a CSSconf is a fantastic opportunity to use your conference and travel
 
 
 <div align="center">
-### CSSconf Nordic
+###CSSconf Nordic
 </div>
 <div class="blog-img blog-img--center">
   ![cssconfno logo](CSSconfNO.png)
@@ -44,7 +44,7 @@ Attending a CSSconf is a fantastic opportunity to use your conference and travel
 </div>
 
 <div align="center">
-### CSSconf Argentina
+###CSSconf Argentina
 </div>
 <div class="blog-img blog-img--center">
   ![cssconfar logo](CSSconfar.jpg)
@@ -58,7 +58,7 @@ Attending a CSSconf is a fantastic opportunity to use your conference and travel
 </div>
 
 <div align="center">
-### CSSconf Asia
+###CSSconf Asia
 </div>
 <div class="blog-img blog-img--center">
   ![cssconfasia logo](CSSConfAsia.png)
