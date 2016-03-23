@@ -1,9 +1,4 @@
----
-<<<<<<< HEAD
-title:             Announcing CSSconf EU 2017
-=======
-title:             Announcing CSSconf EU 2017 
->>>>>>> origin/master
+
 tagline:          'CSSconf EU is taking a break in 2016'
 description:      'CSSconf EU will return in 2017'
 keywords:          CSSconf EU, CSSconf, Berlin, conference, CSS, 2016, 2017
