@@ -14,21 +14,16 @@ While over here at CSSconf EU we’re busy planning our 2017 event, there’s no
 
 Attending a CSSconf is a fantastic opportunity to use your conference and travel budget to gain new insights, pick up new skills, and meet great like-minded people. Plus, you get the chance to travel to some fabulous places around the globe! Here's what you can look forward to from the [CSSconf community](http://cssconf.org/) in 2016:
 
-<div align="center">
-##CSSconf Budapest
-</div>
-<div class="blog-img blog-img--center">
-  ![cssconfbp logo](CSSconfBP.png)
+### CSSconf Budapest  
 
-  <p>
-  **MAY 11 2016** | _AKVÁRIUM KLUB_, BUDAPEST, HUNGARY  
-  CSSconf Budapest joins the CSSconf family for the first time in 2016 and will run alongside its bigger sister, JSConf Budapest, this May. Both conferences are part of a week dedicated to celebrating the tech community in one of Europe's most glorious capital cities. Our very own [Kriesse](www.twitter.com/kriesse) is advising the great organizing team behind CSSconf BP and they have our full support! Stay the weekend and enjoy Budapest in full bloom this spring! Tickets are available for purchase [NOW](http://cssconfbp.rocks/#tickets).  
+  ![cssconfbp logo](CSSconfBP.png)  
 
+**MAY 11 2016** | _AKVÁRIUM KLUB_, BUDAPEST, HUNGARY  
 
-  [cssconfbp.rocks](http://cssconfbp.rocks/) | [@cssconfbudapest](https://twitter.com/cssconfbudapest)
-  </p>
-</div>  
+CSSconf Budapest joins the CSSconf family for the first time in 2016 and will run alongside its bigger sister, JSConf Budapest, this May. Both conferences are part of a week dedicated to celebrating the tech community in one of Europe's most glorious capital cities. Our very own [Kriesse](www.twitter.com/kriesse) is advising the great organizing team behind CSSconf BP and they have our full support! Stay the weekend and enjoy Budapest in full bloom this spring! Tickets are available for purchase [NOW](http://cssconfbp.rocks/#tickets).  
 
+[cssconfbp.rocks](http://cssconfbp.rocks/) | [@cssconfbudapest](https://twitter.com/cssconfbudapest)  
+  
 
 <div align="center">
 ##CSSconf Nordic
