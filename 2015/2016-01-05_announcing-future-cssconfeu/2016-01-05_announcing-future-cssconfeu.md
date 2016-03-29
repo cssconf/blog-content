@@ -1,4 +1,5 @@
 ---
+title:            'Announcing the future of CSSconf EU'
 tagline:          'CSSconf EU is taking a break in 2016'
 description:      'CSSconf EU will return in 2017'
 keywords:          CSSconf EU, CSSconf, Berlin, conference, CSS, 2016, 2017
