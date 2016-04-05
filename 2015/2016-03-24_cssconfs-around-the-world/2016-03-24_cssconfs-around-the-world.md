@@ -20,7 +20,7 @@ Attending a CSSconf is a fantastic opportunity to use your conference and travel
 
 **MAY 11 2016** | _AKVÁRIUM KLUB_, BUDAPEST, HUNGARY  
 
-CSSconf Budapest joins the CSSconf family for the first time in 2016 and will run alongside its bigger sister, JSConf Budapest, this May. Both conferences are part of a week dedicated to celebrating the tech community in one of Europe's most glorious capital cities. Our very own [Kriesse](www.twitter.com/kriesse) is advising the great organizing team behind CSSconf BP and they have our full support! Stay the weekend and enjoy Budapest in full bloom this spring! Tickets are available for purchase [NOW](http://cssconfbp.rocks/#tickets).  
+CSSconf Budapest joins the CSSconf family for the first time in 2016 and will run alongside its bigger sister, JSConf Budapest, this May. Both conferences are part of a week dedicated to celebrating the tech community in one of Europe's most glorious capital cities. CSSconf EU is proud to support CSSconf BP! Our own [Kristina Schneider](www.twitter.com/kriesse) is advising the great organizing team behind CSSconf BP, while [Kevin Lorenz](https://twitter.com/verpixelt) will appear on stage with a talk about Visual Regression Testing for CSS. We recommend you stay the weekend and enjoy Budapest in full bloom this spring! Tickets are available for purchase [NOW](http://cssconfbp.rocks/#tickets).  
 
 [cssconfbp.rocks](http://cssconfbp.rocks/) | [@cssconfbudapest](https://twitter.com/cssconfbudapest)  
   
