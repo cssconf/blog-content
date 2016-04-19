@@ -3,7 +3,7 @@ title:             Q&A with Frederic and Nynne, CSSclasses enthusiasts
 tagline:          'Frederic and Nynne answer questions about their experience at CSSclasses'
 description:      'As CSSclasses returns in 2016, we speak with Frederic and Nynne, CSSclasses participants and enthusiasts, about their teaching and learning experiences at the event.'
 keywords:          Frederic, Nynne, CSSclasses, CSS, learn CSS, CSSconfEU, CSSconf
-excerpt:          'CSSclasses is back! Yes, our beloved community event returns to Berlin on Saturday, April 30 at Co-Up, together with two more events this Spring / Summer in Hamburg and Edinburgh. We talk to past participants Frederic and Nynne about their experiences at CSSclasses and why they're looking forward to attending the next event.'
+excerpt:          'CSSclasses is back! Yes, our beloved community event returns to Berlin on Saturday, April 30 at Co-Up, together with two more events this spring and summer in Hamburg and Edinburgh. We talk to past participants Frederic and Nynne about their experiences at CSSclasses and why they are looking forward to attending the next event.'
 author:           'CSSconf EU Team'
 authorlink:       'http://2015.cssconf.eu/team/'
 
