@@ -15,7 +15,7 @@ authorlink:       'http://2015.cssconf.eu/team/'
 
 [CSSclasses](http://cssclasses.cssconf.eu/) is back! Yes, our beloved community event returns to Berlin on [Saturday, April 30 at Co-Up](http://www.meetup.com/opentechschool-berlin/events/230127600/). We've talked about CSSclasses [before](http://blog.cssconf.eu/2015/09/07/cssclasses-interview-lucie-hoehler/) in an interview with our own [Lucie Höhler](https://twitter.com/autofocus). This time, in order to celebrate not only the return, but the expansion of the CSSclasses movement  which now includes new workshops in [Hamburg](http://www.meetup.com/opentechschool-hamburg/events/229290647/) and [Edinburgh](http://scotlandcss.com/cssclasses/) (courtesy of [ScotlandCSS](http://scotlandcss.com/)) this May and June, we bring you another Q&A with CSSclasses participants [Frederic](https://twitter.com/fredericmarx) and [Nynne](https://twitter.com/nynnest).
 
-At our latest event in December, some 50 participants came together at [Wimdu](http://www.wimdu.com/)'s offices in Berlin for a day of knowledge-sharing and collaboration. [Frederic](https://twitter.com/fredericmarx) and [Nynne] were among those ~50 and they were happy to share their experiences with us.
+At our latest event in December, some 50 participants came together at [Wimdu](http://www.wimdu.com/)'s offices in Berlin for a day of knowledge-sharing and collaboration. [Frederic](https://twitter.com/fredericmarx) and [Nynne](https://twitter.com/nynnest) were among those ~50 and they were happy to share their experiences with us.
 
 <span class="strong-border" style="font-size:120%">Hi Nynne, Hi Frederic. Could you introduce yourselves?</span>
 
