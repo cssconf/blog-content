@@ -17,7 +17,7 @@ Are you planning to attend CSSconf EU in 2017? It’s time to [secure your ticke
 
 ## Diversity Support Tickets
 
-Once again, we are offering [Diversity Support Tickets](http://2017.cssconf.eu/diversity-support-tickets/) for CSSconf EU. When you buy a Diversity Support Ticket, you are purchasing a ticket for yourself and [helping another person](http://2017.cssconf.eu/diversity-support-tickets/) who wouldn't otherwise be able to attend the conference.
+Once again, we are offering [Diversity Support Tickets](http://2017.cssconf.eu/diversity-support-tickets/) for CSSconf EU. When you buy a Diversity Support Ticket, you are purchasing a ticket for yourself and [helping another person](http://blog.cssconf.eu/2015/07/07/interview-jenny-kathambi-cssconfeu-scholarships/) who wouldn't otherwise be able to attend the conference.
 
 There is a range of support options available: you can contribute from just 25% of a ticket to a full one. We thank you in advance for your generosity and awesomeness and look forward to the most diverse CSSconf EU yet.
 
