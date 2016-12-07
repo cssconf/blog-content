@@ -1,15 +1,19 @@
 ---
 title:            'CSSconf EU 2017 Ticket Sale'
-tagline:          'First batch of tickets goes on sale December 13'
-description:      'CSSconf EU will return in 2017'
+tagline:          ''
+description:      'CSSconf EU 2017 Early Bird Ticket Sale starts on December 13 2016'
 keywords:          CSSconf EU, CSSconf, Berlin, conference, CSS, 2016, 2017
-excerpt:          'Around this time of the year we reveal our plans for the next CSSconf EU, so here it goes: our team is thrilled to announce CSSconf EU 2017! Yes, together with JSConf EU, CSSconf EU is pressing the pause button in 2016 and will return only a few months later than usual, in spring 2017.'
+excerpt:          'Are you planning on attending CSSconf EU in 2017? It’s time to secure your tickets! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am. They sold out quickly in the past years, so set your alarms!'
 author:           'CSSconf EU Team'
 authorlink:       'http://2015.cssconf.eu/team/'
 
 ---
 
-Are you planning on attending CSSconf EU in 2017? It’s time to secure your tickets! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am. They sold out quickly in the past years, so set your alarms!
+Are you planning on attending CSSconf EU in 2017? It’s time to [secure your tickets](https://tito.io/cssconfeu/cssconfeu-2017)! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am. They sold out quickly in the past years, so set your alarms!
+
+<a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
+  <span class="btn__span" data-hover="Buy CSSconf EU Ticket">Buy CSSconf EU Ticket</span>
+</a>
 
 ## Diversity Support Tickets
 
@@ -19,8 +23,8 @@ There’s a range of “Support Options”: Starting with paying 25% of a ticket
 
 ## What your ticket buys you
 
-Entrance to the conference CSSconf EU on May 5, including full catering (breakfast, lunch, dinner, snacks, drinks).
-Your ticket also guarantees you entrance to all social events around the conference, including the parties of JSconf EU on Saturday and Sunday, and relax.js on Monday.
+Your ticket buys you entrance to the conference CSSconf EU on May 5, including full catering (breakfast, lunch, dinner, snacks, drinks).
+Your ticket also guarantees you entrance to all social events around the conference, including the parties of JSConf EU on Saturday & Sunday, and relax.js on Monday.
 
 ## Pricing
 
