@@ -41,4 +41,4 @@ Yes.
 
 ***
 
-For our latest news and any questions connect with us on [Twitter](https://twitter.com/cssconfeu) or [subscribe to our newsletter](link).  
+For our latest news and any questions connect with us on [Twitter](https://twitter.com/cssconfeu) or [subscribe to our newsletter](https://confirmsubscription.com/h/d/879A481DB04CB70D).  
