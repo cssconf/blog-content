@@ -5,11 +5,11 @@ description:      'How to write a great talk proposal for a tech conference'
 keywords:         CSSconf, CSSconfEU, Speaking, Tips, Proposal, Call for Speakers, Talk, Writing
 excerpt: 'It’s time to get your talk proposals ready for the upcoming conference season, and we have some tips and insights on how to write a compelling talk proposal that will help you conquer the big conference stages.'
 author:           'Kristina Schneider'
-authorlink:       'http://2015.cssconf.eu/team/'
+authorlink:       'http://2017.cssconf.eu/team/'
 
 ---
 
-You’ve watched countless talks online. You've written a blog post, or ten. You've been to a local meetup, and maybe even given a presentation there. You’ve been to conferences, observed people share their knowledge, their stories (or their failures) on stage – and thought to yourself: I should be up there! I have something to talk about!
+You’ve watched countless talks online. You’ve written a blog post, or ten. You’ve been to a local meetup, and maybe even given a presentation there. You’ve been to conferences, observed people share their knowledge, their stories (or their failures) on stage – and thought to yourself: I should be up there! I have something to talk about!
 
 Well, we think so, too! It’s time to get your talk proposals ready for the upcoming conference season, and we have some tips and insights on how to write a compelling talk proposal that will help you conquer the big conference stages.
 
@@ -21,7 +21,7 @@ Well, we think so, too! It’s time to get your talk proposals ready for the upc
 
 ## Getting your topic right
 
-You've found a conference that is just up your street, and is looking for someone with just your kind of knowledge. You've recently learned something useful while working on a project, spent time researching and comparing new methods to solve a problem, or you just happen to have a crazy, fun demo coded up. But now you are not quite sure how to shape a topic out of what you know.
+You’ve found a conference that is just up your street, and is looking for someone with just your kind of knowledge. You’ve recently learned something useful while working on a project, spent time researching and comparing new methods to solve a problem, or you just happen to have a fun demo coded up. But now you are not quite sure how to shape a topic out of what you know.
 
 Try thinking of yourself as a conference attendee, and ask yourself:
 
@@ -46,7 +46,7 @@ If you can’t make it to a conference or there are no groups in your area: Watc
 
 ## Ask the organizers
 
-If you are still unsure how to frame your topic, send a quick tweet or email to the organizers: “Hey, I would like to talk about XY at your conference and wanted to check if you think this is interesting to your audience?” If your topic needs adjustments, is too specific or too general, or just not the right fit, they will let you know. Bonus: By reaching out, you're already demonstrating that you care.
+If you are still unsure how to frame your topic, send a quick tweet or email to the organizers: “Hey, I would like to talk about XY at your conference and wanted to check if you think this is interesting to your audience?” If your topic needs adjustments, is too specific or too general, or just not the right fit, they will let you know. Bonus: By reaching out, you’re already demonstrating that you care.
 
 ## Translating your topic into a title and an abstract
 
@@ -58,7 +58,7 @@ Ok, now you know exactly what to talk about. Next step: Translate that into a sh
 
 *   Answer basic questions: What is the talk about? Who is it for (experts, beginners…)? What will the audience learn?
 *   Make it easy to categorize your topic: Use key words that make it easy to sort your talk into a category, e.g., for CSSconf: animation, dev tools, typography…
-*   Use words and phrases that stand out: Especially in blind votings, where the jury does not see your name, your talk will be discussed like: “Have you read the ‘CSS like a cranky owl’ proposal yet? Sounds fun!” With a slightly weird twist and unusual word choice, you show some humor and make your proposal immediately memorable.
+*   Use words and phrases that stand out: Especially in anonymized votings, where the jury does not see your name, your talk will be discussed like: “Have you read the ‘CSS like a cranky owl’ proposal yet? Sounds fun!” With a slightly weird twist and unusual word choice, you show some humor and make your proposal immediately memorable.
 *   Be interdisciplinary and try unusual angles: In 2013, of the many animation-related proposals we received, [Rachel Nabors](http://2013.cssconf.eu/speakers/#rachel_nabors) stood out by mentioning learnings from japanese animation studios and cartoons – we were immediately interested!
 *   Show off: Definitely mention any planned use of cool demos, great slides, stunning examples.
 *   Show excitement: Ultimately, the jury is on the lookout for the talk that would receive standing ovations. If you are passionate about your topic, chances are you will excite the audience as well.
@@ -73,12 +73,12 @@ There are also a few things that you should avoid:
 *   Leave in words that soften your message, like “perhaps”, “sometimes” etc. Be confident!
 *   Avoid absolutes or groupings that you can’t back up with real data (like “most people” and similar). Reword them.
 *   Don’t force a voice that isn’t yours. Don’t crack jokes if that’s not your thing, and don’t be stone-cold academic either if that’s not how you speak.
-*   Pitch a product – While it’s fine to talk about a problem that you've solved at work, avoid using the stage for a product pitch. Excite the audience with your findings and ideas. If you do a good job at that, you will earn respect and interest in your company, for free.
+*   Pitch a product – While it’s fine to talk about a problem that you’ve solved at work, avoid using the stage for a product pitch. Excite the audience with your findings and ideas. If you do a good job at that, you will earn respect and interest in your company, for free.
 *   Be aggressive or offensive – It’s cool to have a controversial opinion, but absolutely avoid disrespecting competing methods, frameworks or approaches. Instead, show that you are aware of pros and cons on all sides, and can discuss them in a respectful way.
 
 ## But I cannot give a talk because…
 
-There are plenty of reasons that hold people back from submitting a talk proposal, despite them having great ideas to share. Here are a few of the concerns we've heard, and how we responded:
+There are plenty of reasons that hold people back from submitting a talk proposal, despite them having great ideas to share. Here are a few of the concerns we’ve heard, and how we responded:
 
 ### “The language spoken at the event is not my native language.”
 
@@ -86,7 +86,7 @@ It can be intimidating to present in a foreign language, and it certainly requir
 
 ### “I have never spoken publicly before.”
 
-And you are not alone in that! Everyone had to start at some point. Like everything else, speaking gets better with practice, but it’s definitely possible to deliver a great talk on your first attempt. What's more, conference organizers are keen to discover great new talent! For example,&nbsp;[Sara Soueidan](http://2014.cssconf.com/#sara),&nbsp;[Antoine Butler](http://2014.cssconf.com/#antoine)&nbsp;and&nbsp;[Ana Tudor](https://www.youtube.com/watch?v=w9HeWBH_kvg)&nbsp;all kicked off their speaking careers at CSSconf events, and impressed everyone with their great debuts.
+And you are not alone in that! Everyone had to start at some point. Like everything else, speaking gets better with practice, but it’s definitely possible to deliver a great talk on your first attempt. What’s more, conference organizers are keen to discover great new talent! For example,&nbsp;[Sara Soueidan](http://2014.cssconf.com/#sara),&nbsp;[Antoine Butler](http://2014.cssconf.com/#antoine)&nbsp;and&nbsp;[Ana Tudor](https://www.youtube.com/watch?v=w9HeWBH_kvg)&nbsp;all kicked off their speaking careers at CSSconf events, and impressed everyone with their great debuts.
 
 ### “I am actually not an expert / rockstar / unicorn.”
 
