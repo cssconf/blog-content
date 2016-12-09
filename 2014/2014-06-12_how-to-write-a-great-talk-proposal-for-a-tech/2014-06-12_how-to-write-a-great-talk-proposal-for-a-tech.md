@@ -13,6 +13,12 @@ You’ve watched countless talks online. You've written a blog post, or ten. You
 
 Well, we think so, too! It’s time to get your talk proposals ready for the upcoming conference season, and we have some tips and insights on how to write a compelling talk proposal that will help you conquer the big conference stages.
 
+🔔 CfS open now: The 2017 CSSconf EU Call for Speakers is open for submissions until January 10 2017. As always, we are super excited to receive yours!
+
+<a href="http://2017.cssconf.eu/call-for-speakers" class="btn--special">
+  <span class="btn__span" data-hover="Submit a Talk Proposal">Submit a Talk Proposal</span>
+</a>
+
 ## Getting your topic right
 
 You've found a conference that is just up your street, and is looking for someone with just your kind of knowledge. You've recently learned something useful while working on a project, spent time researching and comparing new methods to solve a problem, or you just happen to have a crazy, fun demo coded up. But now you are not quite sure how to shape a topic out of what you know.
@@ -119,8 +125,8 @@ Many others have shared their insights on how to write successful talk proposals
 
 * * *
 
-The 2015 CSSconf EU Call for Speakers is open for submissions until July 15 2015. As always, we are super excited to receive yours!
+🔔 CfS open now: The 2017 CSSconf EU Call for Speakers is open for submissions until January 10 2017. As always, we are super excited to receive yours!
 
-<a href="http://2015.cssconf.eu/call-for-speakers" class="btn--special">
+<a href="http://2017.cssconf.eu/call-for-speakers" class="btn--special">
   <span class="btn__span" data-hover="Submit a Talk Proposal">Submit a Talk Proposal</span>
 </a>
