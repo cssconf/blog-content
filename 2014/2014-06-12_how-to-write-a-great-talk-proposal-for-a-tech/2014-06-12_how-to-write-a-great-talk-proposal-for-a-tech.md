@@ -94,6 +94,8 @@ If you did a good job preparing your talk, you spent many many hours researching
 
 ### A look behind the scenes… what does a conference jury see when they read proposals?
 
+edit: We’ve written even more about our talk selection process! [Read about it here](http://blog.cssconf.eu/2015/08/15/a-talk-selection-process-explained/).
+
 In 2013, our debut year, we at CSSconf EU received 97 talk proposals. In 2014, this number grew to 180 proposals. [JSConf EU](https://twitter.com/jsconfeu/status/347968257015291904) received 483 proposals in 2014, and 512 in 2015.
 
 The average talk proposal for CSSconf EU uses around 160 words for just the talk title and description, which is all we see in our first round of reviewing (we don’t get to see who the submitters are in this round). That sums up to a good bit of reading, and it can take several days to carefully review and evaluate each proposal.
