@@ -15,9 +15,11 @@ You write CSS all day. You are your team’s frontend expert (or want to become 
 
 When you approach your manager to ask for a CSSconf EU ticket, know that you are not the only one who benefits from spending a day watching talks and sipping free coffee. Companies profit in many ways too – after all, their employees grow their knowledge, motivation and network!
 
+<p align="center">
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
   <span class="btn__span" data-hover="Buy Ticket">Buy Ticket</span>
 </a>
+</p>
 
 Companies are usually aware of this, and you might already have a conference budget in your contract. Maybe your manager actively helps you to grow, and encourages you to attend events. But not all of us get that support handed on a silver platter – so know your arguments, and you can convince even the most skeptical boss.
 
