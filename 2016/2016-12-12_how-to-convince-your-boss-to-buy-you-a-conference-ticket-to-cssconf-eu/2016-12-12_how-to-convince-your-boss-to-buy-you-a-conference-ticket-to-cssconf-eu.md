@@ -11,7 +11,7 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 You write CSS all day. You are your team’s front end expert (or want to become one). You are responsible for maintaining your company’s brand consistency. Perfecting the UI of your app. Explorer of styles, wrangler of SVG, composer of components.
 
-You HAVE to attend CSSconf EU, and you know it – but how to get your boss to buy you that ticket?
+You HAVE to attend [CSSconf EU 2017](http://2017.cssconf.eu/), and you know it – but how to get your boss to buy you that ticket?
 
 ## Talk business. There’s an ROI in attending a conference.
 
@@ -21,7 +21,7 @@ When you approach your manager to ask for a CSSconf EU ticket, be aware that you
   <span class="btn__span" data-hover="Buy Ticket">Buy Ticket</span>
 </a>
 
-Some companies are very aware of this, and you might already have a conference budget in your contract. Maybe your manager even encourages you to attend events and helps you to grow. But not all of us get that support handed on a silver spoon – so know your arguments, and you can convince even a skeptical boss.
+Some companies are very aware of this, and you might already have a conference budget in your contract. Maybe your manager actively helps you to grow, and encourages you to attend events. But not all of us get that support handed on a silver spoon – so know your arguments, and you can convince even a skeptical boss.
 
 ### Training
 * Explain why you want to attend CSSconf EU, and what you plan to learn there. Make sure you know the topics of the conference, and explain to your boss how you will benefit from hearing about them. Mention any specific pain points your team might have: slow processes, knowledge gaps, lack of code quality… and point out how CSSconf EU would boost you and your team in tackling these problems.
@@ -46,12 +46,13 @@ Write a blogpost on the company blog: This is not only a good way to report back
 You might hear one of the following:
 
 *“We have no budget”*
-Don’t give up, but be prepared with the numbers. Calculate what the ticket would cost, but also accommodation and travel if you need it.
-Keep in mind that your company can deduct tax from everything.
+
+Don’t give up, but be prepared with the numbers. Calculate what the ticket would cost, but also accommodation and travel if you need it. Keep in mind that your company can deduct tax from everything.
 
 Is this investment in your training worth it or not? Ask your boss why they think it isn’t.
 
 *“We have no time”*
+
 Your boss claims you can’t miss a day in the office. Getting stuff done is more important than educating yourself.
 
 Again, be prepared with some hard facts: Remind them how many hours you wasted on solving a problem recently. Is your CSS code base a mess and hardly maintainable? Are your designers complaining about super slow implementation of UI features? What about the animation that would really improve your landing page, but no one knows how to do it?
@@ -64,9 +65,7 @@ Why not take it one step further. Look around: Are there people in your team who
 
 ## Did you know: Sponsors get tickets too
 
-If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include free tickets for the company? If your direct manager can’t find a budget for your ticket, maybe the marketing department can.
-
-[Sponsoring CSSconf EU](http://sponsoring.cssconf.eu/)
+If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include free tickets for the company? If your direct manager can’t find a budget for your ticket, maybe the marketing department can. Point them to our website about [Sponsoring CSSconf EU](http://sponsoring.cssconf.eu/).
 
 ## But I’m my own boss?
 
