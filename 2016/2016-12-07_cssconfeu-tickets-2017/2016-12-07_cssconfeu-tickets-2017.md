@@ -5,7 +5,7 @@ description:      'CSSconf EU 2017 Early Bird Ticket Sale starts on December 13 
 keywords:          CSSconf EU, CSSconf, Berlin, conference, CSS, 2016, 2017
 excerpt:          'Are you planning on attending CSSconf EU in 2017? It’s time to secure your tickets! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am. They sold out quickly in past years, so be sure to set your alarms!'
 author:           'CSSconf EU Team'
-authorlink:       'http://2015.cssconf.eu/team/'
+authorlink:       'http://2017.cssconf.eu/team/'
 
 ---
 
