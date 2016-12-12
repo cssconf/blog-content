@@ -77,9 +77,11 @@ If you are dealing with financial hardships that make a ticket purchase impossib
 
 We hope those tips are useful and we're excited to see you at CSSconf EU in May!
 
+<p align="center">
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
   <span class="btn__span" data-hover="Buy Ticket">Buy Ticket</span>
 </a>
+</p>
 
 ***
 
