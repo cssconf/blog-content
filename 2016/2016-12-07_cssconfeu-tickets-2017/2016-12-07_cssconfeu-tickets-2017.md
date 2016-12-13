@@ -9,7 +9,9 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 ---
 
-Are you planning to attend CSSconf EU in 2017? It’s time to [secure your tickets](https://tito.io/cssconfeu/cssconfeu-2017)! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am CET. They sold out quickly in past years, so be sure to set your alarms!
+Are you planning to attend CSSconf EU in 2017? It’s time to [secure your tickets](https://tito.io/cssconfeu/cssconfeu-2017)! The first batch of Early Bird tickets goes on sale on Tuesday, December 13, 10am CET. A second Early Bird batch will go live the same day at 7pm CET.
+
+They sold out quickly in past years, so be sure to set your alarms!
 
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
   <span class="btn__span" data-hover="Buy CSSconf EU Ticket">Buy a CSSconf EU ticket</span>
