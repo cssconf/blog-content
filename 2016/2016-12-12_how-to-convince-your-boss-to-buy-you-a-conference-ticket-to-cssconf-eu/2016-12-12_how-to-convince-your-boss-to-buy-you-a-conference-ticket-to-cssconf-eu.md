@@ -24,7 +24,7 @@ When you approach your manager to ask for a CSSconf EU ticket, know that you are
 Companies are usually aware of this, and you might already have a conference budget in your contract. Maybe your manager actively helps you to grow, and encourages you to attend events. But not all of us get that support handed on a silver platter – so know your arguments, and you can convince even the most skeptical boss.
 
 ### Training
-* Explain why you want to attend CSSconf EU, and what you plan to learn there. Make sure you know the topics of the conference, and explain to your boss how you'll benefit from hearing about them. Mention any specific pain points your team might have: slow processes, knowledge gaps, lack of code quality; and point out how attending CSSconf EU would boost you and your team in tackling these issues.
+* Explain why you want to attend CSSconf EU, and what you plan to learn there. Make sure you know the topics of the conference, and explain to your boss how you’ll benefit from hearing about them. Mention any specific pain points your team might have: slow processes, knowledge gaps, lack of code quality; and point out how attending CSSconf EU would boost you and your team in tackling these issues.
 
 * Offer to give a lunch talk about the conference and your most important take-aways, to share your learnings with the team. At the very minimum, plan to send a quick email to your team with a summary and some links to interesting tools or techniques you learned about.
 
@@ -75,7 +75,7 @@ Congratulations, then you only have to convince yourself! For freelancers, all o
 
 If you are dealing with financial hardships that make a ticket purchase impossible for you, consider applying to our [Scholarship program](http://2017.cssconf.eu/scholarships/) - applications will open shortly and everyone otherwise unable to attend is invited to apply.
 
-We hope those tips are useful and we're excited to see you at CSSconf EU in May!
+We hope those tips are useful and we’re excited to see you at CSSconf EU in May!
 
 <p align="center">
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
