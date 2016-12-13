@@ -54,7 +54,7 @@ Is this investment in your training worth it or not? Ask your boss why they thin
 
 *“We have no time”*
 
-Perhaps your management things that you can’t miss a day in the office, and that getting stuff done is more important than professional education and improvement.
+Perhaps your management thinks that you can’t miss a day in the office, and that getting stuff done is more important than professional education and improvement.
 
 Be prepared with some hard facts: Remind them how many hours you wasted on solving a problem recently. Is your CSS code base a mess and hardly maintainable? Are your designers complaining about super slow implementation of UI features? What about the animation that would really improve your landing page, but no one knows how to create it?
 
