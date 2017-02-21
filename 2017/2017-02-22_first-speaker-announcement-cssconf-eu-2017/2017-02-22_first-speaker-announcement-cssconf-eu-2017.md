@@ -11,6 +11,10 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 After receiving over 200 fantastic talk proposals from the CSS community – more than ever before – we <a href="http://blog.cssconf.eu/2015/08/15/a-talk-selection-process-explained/" target="_blank">voted</a>, discussed, and after much deliberation, our 2017 line-up is now complete.
 
+<div class="blog-img">
+  ![Speaker Overview Portraits](speakers-cssconfeu-2017.png)
+</div>
+
 Today we’re thrilled to announce the first four talks you can be looking forward too, and introduce you to the speakers behind them.
 
 ## Ivana McConnell: CSS and the hierarchy problem. What makes a CSS developer?
