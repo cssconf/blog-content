@@ -1,5 +1,5 @@
 ---
-title:            CSSconf EU 2017: First Speaker Announcement
+title:            'CSSconf EU 2017: First Speaker Announcement'
 tagline:          'Max Stoiber, Una Kravets, Sareh Heidari and Ivana McConnell'
 description:      'Max Stoiber, Una Kravets, Sareh Heidari and Ivana McConnell are speaking at CSSconf EU 2017'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Max, Stoiber, Una, Kravets, Sareh, Heidari, Ivana, McConell
