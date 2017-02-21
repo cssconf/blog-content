@@ -36,7 +36,7 @@ If you work with CSS in JS, chances are you have come across Max Stoiber’s wor
 
 ## Sareh Heidari: Scaffolding CSS for Scale
 
-Building localised websites, for over 20 languages and a global audience: That is the problem which Sareh Heidari tackles at the BBC. Her talk will walk us through the considerations and challenges that went into creating the BBC Sport’s CSS framework, <a href="http://bbc.github.io/grandstand/" target="_blank">Grandstand</a>. Come to see see how CSS is done at huge scale, and learn how to apply these lessons to author your own CSS component-based, scalable and robust – and join us in welcoming Sareh Heidari to give her first ever talk on a big conference stage!
+Building localised websites, for over 20 languages and a global audience: that is the problem which Sareh Heidari tackles at BBC News. Her talk will walk us through the considerations and challenges that went into creating and applying BBC Sport’s CSS framework, <a href="http://bbc.github.io/grandstand/" target="_blank">Grandstand</a>. Come to see see how CSS is done at huge scale, and learn how to apply these lessons to author your own component-based, scalable and robust CSS – and join us in welcoming Sareh Heidari to give her first ever talk on a big conference stage!
 
 <a href="#">Speaker Page</a>
 <a href="https://twitter.com/Sareh88" target="_blank">@Sareh88</a>
