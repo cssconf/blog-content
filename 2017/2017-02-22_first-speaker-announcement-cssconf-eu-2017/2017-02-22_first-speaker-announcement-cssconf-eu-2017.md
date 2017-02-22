@@ -27,7 +27,7 @@ Whether in agencies, software companies, or creative studios, expert-level CSS i
 
 
 # Max Stoiber
-## The road to styled components: CSS in component-based systems.
+## The road to styled components: CSS in component-based systems
 
 If you work with CSS in JS, chances are you have come across Max Stoiber’s work. In the past year, he has given a series of <a href="http://mxstbr.com/#talks" target="_blank">talks around the globe</a>, contributed to a range of popular <a href="https://github.com/mxstbr" target="_blank">open source projects</a>, and shared many of his ideas in <a href="https://devchat.tv/js-jabber/jsj-245-styled-components-and-react-boilerplate-with-max-stoiber" target="_blank">podcasts</a>, <a href="https://twitter.com/mxstbr/status/795555176203620353" target="_blank">interviews</a> and on his <a href="http://mxstbr.blog/" target="_blank">blog</a>. At CSSconf EU, Max will give a brand new talk introducing his latest project: <a href="https://styled-components.com/" target="_blank">styled-components</a>, an evolution of the CSS Modules concept his co-maintainer Glen Maddern introduced <a href="https://www.youtube.com/watch?v=aIyhhHTmsXE" target="_blank">at CSSconf EU 2015</a>. We predict it will be one of the most heatedly discussed ideas of the upcoming conference.
 
@@ -45,7 +45,7 @@ Building localised websites for over 20 languages and a global audience - that i
 
 
 # Una Kravets
-## Let’s Build a CSS Game
+## Let’s Build a CSS Game!
 
 Una Kravets is the kind of speaker who does not only give brilliant in-depth talks on whatever latest detail of the CSS specification caught her attention. Her talks are always visually stunning, too. Remember CSSconf EU 2015, when she spontaneously used the venue decoration and instructed the lighting crew to help her <a href="https://www.youtube.com/watch?v=LY65F2e4B5w&index=3&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9" target="_blank">illustrate how RGB color mixing works</a>? This year, Una is going to build a game with us – a CSS game!
 
