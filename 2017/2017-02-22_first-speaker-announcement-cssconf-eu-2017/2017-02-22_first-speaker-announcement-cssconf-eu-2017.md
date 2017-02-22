@@ -52,7 +52,7 @@ Una Kravets is the kind of speaker who does not only give brilliant in-depth tal
 <a href="http://2017.cssconf.eu/speakers/una-kravets.html">Learn more about Una and her talk</a> and follow
 <a href="https://twitter.com/una" target="_blank">@una</a> on Twitter.
 
-## Regular tickets on sale NOW
+## Regular tickets on sale
 This year’s CSSconf EU will be a truly international event, with attendees from over 20 different countries already having purchased their ticket. If you'd like to join them and be part of it all, you have a chance to get yours today! We release the first batch of Regular Tickets today, Wednesday, February 22 at 10am CET.
 
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
