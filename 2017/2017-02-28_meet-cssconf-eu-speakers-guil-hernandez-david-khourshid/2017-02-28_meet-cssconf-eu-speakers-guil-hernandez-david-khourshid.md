@@ -14,6 +14,10 @@ We are very pleased to announce yet another two speakers for CSSconf EU 2017: [D
 # David Khourshid
 ## Getting Reactive with CSS
 
+<div class="blog-img">
+  ![David Khourshid](david-khourshid-blog.png)
+</div>
+
 You’ve probably seen David’s über impressive (pure) CSS animations on CodePen, but if not you really need to check them out right right now:
 
 <p data-height="362" data-theme-id="light" data-slug-hash="wMqXea" data-default-tab="result" data-user="davidkpiano" data-embed-version="2" data-pen-title="Alex the CSS Husky" class="codepen">See the Pen <a href="https://codepen.io/davidkpiano/pen/wMqXea/">Alex the CSS Husky</a> by David Khourshid (<a href="http://codepen.io/davidkpiano">@davidkpiano</a>) on <a href="http://codepen.io">CodePen</a>.</p>
@@ -25,6 +29,10 @@ For CSSconf EU 2017, David will be bringing a new talk about highly interactive 
 
 # Guil Hernandez
 ## Get Ready for the Future of CSS!
+
+<div class="blog-img">
+  ![Guil Hernandez](guil-hernandez-blog.png)
+</div>
 
 You may have seen Guil before over at [Treehouse](https://teamtreehouse.com/) where he teaches CSS (and very well, might we add). Here he is in action:
 
