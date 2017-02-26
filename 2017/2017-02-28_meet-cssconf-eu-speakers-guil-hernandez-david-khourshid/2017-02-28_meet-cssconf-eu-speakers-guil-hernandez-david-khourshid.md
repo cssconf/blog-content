@@ -37,7 +37,7 @@ For CSSconf EU 2017, David will be bringing a new talk about highly interactive 
 You may have seen Guil before over at [Treehouse](https://teamtreehouse.com/) where he teaches CSS (and very well, might we add). Here he is in action:
 
 <div class="blog-img">
-  ![Guil Hernandez](https://cl.ly/0e2M0w0q433r)
+  ![Guil Hernandez](guil-teachin.gif)
 </div>
 
 At the conference, Guil will be bringing his didactic chops out of the video stream and onto the stage for us to cover some exciting new features in CSS. He’ll be talking about color manipulation, custom properties, selectors level 4, new media query functionality, as well as in-browser design features. He’ll show us how to leverage these features to empower our workflows and improve our projects.
