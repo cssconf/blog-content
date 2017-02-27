@@ -42,7 +42,7 @@ You may have seen Guil before over at [Treehouse](https://teamtreehouse.com/) wh
 
 At the conference, Guil will be bringing his didactic chops out of the video stream and onto the stage for us to cover some exciting new features in CSS. He’ll be talking about color manipulation, custom properties, selectors level 4, new media query functionality, as well as in-browser design features. He’ll show us how to leverage these features to empower our workflows and improve our projects.
 
-[Learn more about Guil and his talk](http://2017.cssconf.eu/speakers/guil-hernandez.html) and follow [@guilh](https://twitter.com/guilh) on Twitter
+[Learn more about Guil and his talk](http://2017.cssconf.eu/speakers/guil-hernandez.html) and follow [@guilh](https://twitter.com/guilh) on Twitter.
 
 Did we mention we’re excited? Regular tickets are back on sale *today*!
 
