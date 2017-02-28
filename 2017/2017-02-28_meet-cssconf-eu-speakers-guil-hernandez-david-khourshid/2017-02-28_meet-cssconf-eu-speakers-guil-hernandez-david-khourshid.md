@@ -15,7 +15,7 @@ We are very pleased to announce yet another two speakers for CSSconf EU 2017: [D
 ## Getting Reactive with CSS
 
 <div class="blog-img">
-  ![David Khourshid](david-khourshid-blog.png)
+  ![David Khourshid](david-khourshid-blog.jpg)
 </div>
 
 You’ve probably seen David’s über impressive (pure) CSS animations on CodePen, but if not you really need to check them out right right now:
@@ -31,7 +31,7 @@ For CSSconf EU 2017, David will be bringing a new talk about highly interactive 
 ## Get Ready for the Future of CSS!
 
 <div class="blog-img">
-  ![Guil Hernandez](guil-hernandez-blog.png)
+  ![Guil Hernandez](guil-hernandez-blog.jpg)
 </div>
 
 You may have seen Guil before over at [Treehouse](https://teamtreehouse.com/) where he teaches CSS (and very well, might we add). Here he is in action:
