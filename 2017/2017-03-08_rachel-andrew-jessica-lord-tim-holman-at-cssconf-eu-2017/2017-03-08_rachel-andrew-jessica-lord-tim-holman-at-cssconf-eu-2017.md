@@ -24,8 +24,6 @@ Us too. We’re not sure we know what the answer is, but we think Rachel will he
 
 Rachel, who many may know as one of the foremost experts on CSS Grid Layout, and who we were very honored to have as a [speaker at CSSconf EU in 2015](https://www.youtube.com/watch?v=GRexIOtGhBU), will be giving a brand new talk at CSSconf EU 2017 which will have us taking a step back and looking at CSS as a technology on the whole. Her talk will illustrate the standards process by which new CSS features come to fruition, trace how CSS came to be where it is today, and in the end, give us insight into how we can help shape CSS in the future.
 
-![](rachel.jpg)
-
 [Learn more about Rachel and her talk](http://2017.cssconf.eu/speakers/rachel-andrew.html) and follow [@rachelandrew](https://twitter.com/rachelandrew) on Twitter.
 
 
