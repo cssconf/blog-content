@@ -1,5 +1,5 @@
 ---
-title:            'Rachel Andrew, Jessica Lord and Tim Holman moderating'
+title:            'Rachel Andrew, Jessica Lord and Tim Holman'
 tagline:          'Meet our next speaker – and our double power moderator team!'
 description:      'Rachel Andrew will be speaking at CSSconf EU 2017, and Jessica Lord and Tim Holman will be moderating'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Rachel Andrew, Jessica Lord, Tim Holman
