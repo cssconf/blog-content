@@ -9,7 +9,7 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 ---
 
-We have some more big news for you! We are happy to announce another speaker: Rachel Andrews, as well as our two moderators: Jessica Lord and Tim Holman.
+We have some more big news for you! We are happy to announce another speaker: Rachel Andrew, as well as our two moderators: Jessica Lord and Tim Holman.
 
 # Rachel Andrew
 ## Where does CSS come from?
