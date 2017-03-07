@@ -27,11 +27,8 @@ Rachel, who many may know as one of the foremost experts on CSS grid layouts, an
 We are so very excited to have Jessica (urban designer turned open developer, previously on the Atom team at GitHub and creator of many great open source projects link link link) moderate for us this year. Still, no matter how excited we are and how much we smile, we can’t seem to top Jessica herself!
 
 <div class="blog-img">
-  ![Jessica Lord](https://camo.githubusercontent.com/6e34e6f3887568d18274cd41ef76524328a88df9/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3836352f3530373038392f61366437316436612d626436372d313165322d383033392d6466383163656164383731302e676966
-)
+  ![Jessica Lord](jessicas.gif)
 </div>
-
-Super excited to have her.
 
 [Learn more about Jessica](http://2017.cssconf.eu/speakers/jessica-lord.html) and follow [@jllord](https://twitter.com/jllord) on Twitter.
 
@@ -40,6 +37,10 @@ Super excited to have her.
 ## CSSconf EU MC
 
 Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, Fun.css, which – well – was fun! Others may know him from his cool stuff: link, link, link. In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again…  and off… as a moderator! We are super excited to have him.
+
+<div class="blog-img">
+  ![Tim Holman](tims.gif)
+</div>
 
 [Learn more about Tim](http://2017.cssconf.eu/speakers/tim-holman.html) and follow [@twholman](https://twitter.com/twholman) on Twitter.
 
