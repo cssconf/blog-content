@@ -15,10 +15,9 @@ Due to popular demand, below you’ll find our planned ticket sales dates for CS
 
 ## Regular Ticket EUR 330 + VAT + Fees = EUR 399
 
-* Tuesday, February 28, 10:00 CET
+* Wednesday, March 8, 10:00 CET
 * Tuesday, March 14, 10:00 CET
 * Tuesday, March 28, 10:00 CET
-* Tuesday, April 11, 10:00 CET
 
 [Diversity Support Tickets](http://2017.cssconf.eu/diversity-support-tickets/) will also be available on those dates. You can make one of the following contributions:
 
