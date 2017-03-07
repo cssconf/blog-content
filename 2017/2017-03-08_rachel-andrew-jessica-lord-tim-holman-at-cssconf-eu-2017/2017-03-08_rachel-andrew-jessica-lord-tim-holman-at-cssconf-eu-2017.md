@@ -36,7 +36,7 @@ We are so very excited to have Jessica – urban designer turned open developer,
 # Tim Holman
 ## CSSconf EU MC
 
-Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, Fun.css, which – well – was fun! Others may know him from his cool stuff: link, link, link. In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again…  and off… as a moderator! We are super excited to have him.
+Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, [Fun.css](https://youtu.be/5HP6k43T0yM), which – well – was fun! Others may know him from his steadily growing list of hilarious projects: link, link, link to just name a few, and many more which you can find on his [website](http://tholman.com/) and of course his [Codepen](http://codepen.io/tholman/), our favorite CSS playground, where Tim since started to play, uh, work full-time. In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again… and off… as a moderator! We are super excited to have him.
 
 <div class="blog-img">
   ![Tim Holman](tims.gif)
@@ -46,7 +46,7 @@ Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic
 
 
 
-Regular tickets are on sale *today*!
+Btw: You can still join the fun! Regular tickets are on sale *today*!
 
 <a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
   <span class="btn__span" data-hover="Buy CSSconf EU Ticket">Buy a CSSconf EU ticket</span>
