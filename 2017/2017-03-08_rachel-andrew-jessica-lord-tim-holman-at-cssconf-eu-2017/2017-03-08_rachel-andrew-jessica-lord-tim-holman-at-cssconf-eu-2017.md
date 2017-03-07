@@ -1,6 +1,6 @@
 ---
-title:            'Rachel Andrew speaking at CSSconf EU, Jessica Lord and Tim Holman moderating'
-tagline:          'Rachel Andrew, Jessica Lord, Tim Holman'
+title:            'Rachel Andrew, Jessica Lord and Tim Holman moderating'
+tagline:          'Meet our next speaker – and our double power moderator team!'
 description:      'Rachel Andrew will be speaking at CSSconf EU 2017, and Jessica Lord and Tim Holman will be moderating'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Rachel Andrew, Jessica Lord, Tim Holman
 excerpt:          'We are excited to have Rachel Andrew speak again at CSSconf EU, and welcome Jessica Lord and Tim Holman as this year’s moderators'
@@ -12,7 +12,7 @@ authorlink:       'http://2017.cssconf.eu/team/'
 We have some more big news for you! We are happy to announce another speaker: Rachel Andrews, as well as our two moderators: Jessica Lord and Tim Holman.
 
 # Rachel Andrew
-# Where does CSS come from?
+## Where does CSS come from?
 
 Ever find yourself sitting in front of a computer screen asking the question: “Why? … Why??? … Why!?!?!?!” Us too. We’re not sure we know what the answer is, but we think Rachel will help give us a little perspective: she’ll be discussing where CSS comes from and how it comes to be.
 
@@ -24,7 +24,7 @@ Rachel, who many may know as one of the foremost experts on CSS grid layouts, an
 # Jessica Lord
 ## CSSconf EU MC
 
-We are so very excited to have Jessica (urban designer turned open developer, previously on the Atom team at GitHub and creator of many great open source projects link link link) moderate for us this year. Still, no matter how excited we are and how much we smile, we can’t seem to top Jessica herself!
+We are so very excited to have Jessica – urban designer turned open developer, previously on the Electron team at GitHub and creator of many great open source projects and resources like [Sheetsee](http://jlord.us/sheetsee.js/), [Essential Electron](http://jlord.us/essential-electron/), and [Git-It](https://github.com/jlord/git-it-electron) – moderate for us this year. Still, no matter how excited we are and how much we smile, we can’t seem to top Jessica herself!
 
 <div class="blog-img">
   ![Jessica Lord](jessicas.gif)
