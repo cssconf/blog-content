@@ -40,7 +40,7 @@ We are so very excited to have Jessica – urban designer turned open developer,
 # Tim Holman
 ## CSSconf EU MC
 
-Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, [Fun.css](https://youtu.be/5HP6k43T0yM), which – well – was fun! Others may know him from his steadily growing list of hilarious projects: [Elevator.js](http://tholman.com/elevator.js/), [Ascii Morph](http://codepen.io/tholman/full/BQLQyo) and [console.frog](http://tholman.com/console-dot-frog/) (just to name a few). In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again…  and off… as a moderator! We are super excited to have him.
+Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, [Fun.css](https://youtu.be/5HP6k43T0yM), which – well – was fun! Others may know him from his steadily growing list of hilarious projects: [Elevator.js](http://tholman.com/elevator.js/), [Ascii Morph](http://codepen.io/tholman/full/BQLQyo) and [console.frog](http://tholman.com/console-dot-frog/) (to name a few) and many more which can be found on Tim’s [website](http://tholman.com/) and [CodePen](http://codepen.io/tholman/). In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again…  and off… as a moderator! We are super excited to have him.
 
 <div class="blog-img">
   ![Tim Holman](tims.gif)
