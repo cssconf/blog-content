@@ -14,6 +14,8 @@ We have some more big news for you! We are happy to announce another speaker: Ra
 # Rachel Andrew
 ## Where does CSS come from?
 
+![](rachel-banner.png)
+
 Ever find yourself sitting in front your computer screen asking this simple question:
 
 > “Why? … Why??? … Why!?!?!?!”
@@ -30,6 +32,8 @@ Rachel, who many may know as one of the foremost experts on CSS Grid Layout, and
 # Jessica Lord
 ## CSSconf EU MC
 
+![](jessica-banner.png)
+
 We are so very excited to have Jessica – urban designer turned open developer, previously of the Electron team at GitHub and creator of many great open source projects and resources like [Sheetsee](http://jlord.us/sheetsee.js/), [Essential Electron](http://jlord.us/essential-electron/), and [Git-It](https://github.com/jlord/git-it-electron) – moderate for us this year. Still, no matter how excited we are and how much we smile, we can’t seem to top Jessica herself!
 
 <div class="blog-img">
@@ -41,6 +45,8 @@ We are so very excited to have Jessica – urban designer turned open developer,
 
 # Tim Holman
 ## CSSconf EU MC
+
+![](tim-banner.png)
 
 Those who attended CSSconf EU in 2015 will surely remember Tim for his fantastic talk, [Fun.css](https://youtu.be/5HP6k43T0yM), which – well – was fun! Others may know him from his steadily growing list of hilarious projects: [Elevator.js](http://tholman.com/elevator.js/), [Ascii Morph](http://codepen.io/tholman/full/BQLQyo) and [console.frog](http://tholman.com/console-dot-frog/) (to name a few) and many more which can be found on Tim’s [website](http://tholman.com/) and [CodePen](http://codepen.io/tholman/). In order to multiply the good times, we decided to invite Tim onto the stage again in 2017… and off the stage… and on again…  and off… as a moderator! We are super excited to have him.
 
