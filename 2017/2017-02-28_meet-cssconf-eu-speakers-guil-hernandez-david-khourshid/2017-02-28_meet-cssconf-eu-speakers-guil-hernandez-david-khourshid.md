@@ -11,8 +11,8 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 We are very pleased to announce yet another two speakers for CSSconf EU 2017: [David Khourshid](https://twitter.com/DavidKPiano) and [Guil Hernandez](https://twitter.com/guilh?lang=en). These two (magical) [Floridians](https://en.wikipedia.org/wiki/Floridian) are bringing with them a couple of really interesting talks: David will tell us about the power of using functional reactive programming with CSS, and Guil about how to leverage new CSS features to improve your projects and workflow. We are super excited to hear both of them come early May.
 
-# David Khourshid
-## Getting Reactive with CSS
+## David Khourshid
+### Getting Reactive with CSS
 
 <div class="blog-img">
   ![David Khourshid](david-khourshid-blog.jpg)
@@ -27,8 +27,8 @@ For CSSconf EU 2017, David will be bringing a new talk about highly interactive 
 
 [Learn more about David and his talk](http://2017.cssconf.eu/speakers/david-khourshid.html) and follow [@davidkpiano](https://twitter.com/davidkpiano) on Twitter.
 
-# Guil Hernandez
-## Get Ready for the Future of CSS!
+## Guil Hernandez
+### Get Ready for the Future of CSS!
 
 <div class="blog-img">
   ![Guil Hernandez](guil-hernandez-blog.jpg)

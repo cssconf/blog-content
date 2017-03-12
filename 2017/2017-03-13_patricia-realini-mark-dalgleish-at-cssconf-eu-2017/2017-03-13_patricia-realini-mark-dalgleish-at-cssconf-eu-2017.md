@@ -11,24 +11,38 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 Time for our next speaker announcement: Patricia Realini and Mark Dalgleish will join us for CSSconf EU 2017! We’re very excited to welcome two true CSS aficionados, who are also very active building and improving their local communities. We can’t wait to welcome them on stage in Berlin!
 
-# Patricia Realini
-## CSS Art History 101: Decoding Layout Through The Ages
+In her brand-new talk “CSS Art History 101”, Patricia will take us on a tour to decode layout through the ages, and explore CSS’ layout possibilities through the eyes of an art historian.
+Mark will take on a topic that is currently dividing the CSS world: CSS-in-JS, and other new approaches that seem to threaten many core beliefs and best practices of the CSS world.
+
+## Patricia Realini
+### CSS Art History 101: Decoding Layout Through The Ages
 
 ![](patricia-realini-blog.png)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Patricia Realini is a software engineer and an artist based in New York City, where she works at Bustle.
 
+Being a self-taught programmer who knows the frontend stack in and out, she has spoken at EmpireJS, Web Rebels, leads [workshops on git and the command line](http://slides.com/patriciarealini/get-git-got#/), and contributes to the community as an organizer for [Node Together](http://www.nodetogether.org/), 
+Patricia also is a powerful advocate for underrepresented minorities, and engages in many efforts to bring more diversity to the tech community. She teaches and speaks on topics such as intersectionality, allyship, self-care and dealing with harassment as a woman of color in tech.
+
+In her brand new talk for CSSconf EU, Patricia will look at CSS through the eyes of an art historian, and explore the layout possibilities the web has to offer. We will flexbox the Golden Ratio with Leonardo DaVinci, up the pixel ratio for our devices with the Impressionists and “inspect elements”  of some iconic works of art. We’re beyond excited for that change of perspective, and can’t wait to welcome Patricia on our stage!
 
 [Learn more about Patricia and her talk](http://2017.cssconf.eu/speakers/patricia-realini.html) and follow [@patriciarealini](https://twitter.com/patriciarealini) on Twitter.
 
 
-# Mark Dalgleish
-## A Unified Styling Language
+## Mark Dalgleish
+### A Unified Styling Language
 
 ![](mark-dalgleish-blog.png)
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mark Dalgleish will be joining us from Melbourne, Australia, where he currently leads DesignOps at SEEK.
+
+Mark has over 10 years of experience crafting UIs, and CSS developers might know him as the co-creator of CSS Modules and writer of [many articles on CSS and related topics](https://medium.com/@markdalgleish). In his hometown Melbourne, he runs the meetup [MelbJS](http://melbjs.com/), which brings local speakers and the interested frontend community together each month.
+
+With his talk for CSSconf EU, Mark will got straight for one of the currently most controversial topics in in our community: CSS-in-JS – and other newer approaches of authoring CSS that have (more or less accurately) grouped together under the term. Does mixing our styles and logic run counter to the original ideas of CSS? Does it break progressive enhancement? 
+Mark will ask these questions – acknowledging the current divide of opinions in the CSS community – and empathetically analyze how this relates to the history of CSS, and what we can take away from it for building the next-level CSS.
+
+We’re excited to hear his perspective and learn about his vision for “A Unified Styling Language”!
 
 [Learn more about Mark and his talk](http://2017.cssconf.eu/speakers/mark-dalgleish.html) and follow [@markdalgleish](https://twitter.com/markdalgleish) on Twitter.
 

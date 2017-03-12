@@ -11,8 +11,8 @@ authorlink:       'http://2017.cssconf.eu/team/'
 
 We have some more big news for you! We are happy to announce another speaker: Rachel Andrew, as well as our two moderators: Jessica Lord and Tim Holman.
 
-# Rachel Andrew
-## Where does CSS come from?
+## Rachel Andrew
+### Where Does CSS Come From?
 
 ![](rachel-banner.png)
 
@@ -27,8 +27,8 @@ Rachel, who many may know as one of the foremost experts on CSS Grid Layout, and
 [Learn more about Rachel and her talk](http://2017.cssconf.eu/speakers/rachel-andrew.html) and follow [@rachelandrew](https://twitter.com/rachelandrew) on Twitter.
 
 
-# Jessica Lord
-## CSSconf EU MC
+## Jessica Lord
+### CSSconf EU MC
 
 ![](jessica-banner.png)
 
@@ -41,8 +41,8 @@ We are so very excited to have Jessica – urban designer turned open developer,
 [Learn more about Jessica](http://2017.cssconf.eu/speakers/jessica-lord.html) and follow [@jllord](https://twitter.com/jllord) on Twitter.
 
 
-# Tim Holman
-## CSSconf EU MC
+## Tim Holman
+### CSSconf EU MC
 
 ![](tim-banner.png)
 

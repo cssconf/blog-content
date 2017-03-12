@@ -17,8 +17,8 @@ Today we’re thrilled to announce the *first four talks* you can be looking for
   ![Speaker Overview Portraits](speakers-cssconfeu-2017.png)
 </div>
 
-# Ivana McConnell  
-## CSS and the hierarchy problem: What makes a CSS developer?
+## Ivana McConnell  
+### CSS and the Hierarchy Problem: What Makes a CSS developer?
 
 Whether in agencies, software companies, or creative studios, expert-level CSS is a key skill needed to ship competitive websites, apps and digital products. Developing CSS has become its own profession, but what exactly makes a CSS developer? The definition of our profession is still unclear, and the stigma of “CSS is not REAL development” remains. In her talk at CSSconf EU '17, Ivana McConnell will dissect how power dynamics and implicit hierarchies threaten to devalue the work we do, and how that hurts us both individually and as a community.
 
@@ -26,8 +26,8 @@ Whether in agencies, software companies, or creative studios, expert-level CSS i
 <a href="https://twitter.com/IvanaMcConnell" target="_blank">@IvanaMcConnell</a> on Twitter.
 
 
-# Max Stoiber
-## The road to styled components: CSS in component-based systems
+## Max Stoiber
+### The Road to styled components: CSS in Component-based Systems
 
 If you work with CSS in JS, chances are you have come across Max Stoiber’s work. In the past year, he has given a series of <a href="http://mxstbr.com/#talks" target="_blank">talks around the globe</a>, contributed to a range of popular <a href="https://github.com/mxstbr" target="_blank">open source projects</a>, and shared many of his ideas in <a href="https://devchat.tv/js-jabber/jsj-245-styled-components-and-react-boilerplate-with-max-stoiber" target="_blank">podcasts</a>, <a href="https://twitter.com/mxstbr/status/795555176203620353" target="_blank">interviews</a> and on his <a href="http://mxstbr.blog/" target="_blank">blog</a>. At CSSconf EU, Max will give a brand new talk introducing his latest project: <a href="https://styled-components.com/" target="_blank">styled-components</a>, an evolution of the CSS Modules concept his co-maintainer Glen Maddern introduced <a href="https://www.youtube.com/watch?v=aIyhhHTmsXE" target="_blank">at CSSconf EU 2015</a>. We predict it will be one of the most heatedly discussed ideas of the upcoming conference.
 
@@ -35,8 +35,8 @@ If you work with CSS in JS, chances are you have come across Max Stoiber’s wor
 <a href="https://twitter.com/mxstbr" target="_blank">@mxstbr</a> on Twitter.
 
 
-# Sareh Heidari
-## Scaffolding CSS for Scale
+## Sareh Heidari
+### Scaffolding CSS for Scale
 
 Building localised websites for over 20 languages and a global audience - that is the problem Sareh Heidari tackles at the BBC every day. Her talk will walk us through the considerations and challenges that went into creating and applying BBC Sport’s CSS framework, <a href="http://bbc.github.io/grandstand/" target="_blank">Grandstand</a>. You will witness how CSS is done at huge scale, and learn how to apply these lessons to author your own component-based, scalable and robust CSS. Join us in welcoming Sareh Heidari who will give her first ever talk on a big conference stage!
 
