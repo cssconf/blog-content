@@ -18,7 +18,7 @@ In her brand-new talk “CSS Art History 101”, Patricia will take us on a tour
 
 ![](patricia-realini-blog.png)
 
-Patricia Realini is a software engineer and an artist based in New York City, where she works at Bustle.
+Patricia Realini is a software engineer and an artist based in New York City, where she works at [Fabric](https://meetfabric.com/).
 
 Being a self-taught programmer who knows the front end stack in and out, Patricia has spoken at EmpireJS and Web Rebels, leads [workshops on git and the command line](http://slides.com/patriciarealini/get-git-got#/), and contributes to the community as an organizer of [Node Together](http://www.nodetogether.org/). Patricia is also a powerful advocate for underrepresented minorities, and engages in many efforts to bring more diversity to the tech community. She teaches and speaks on topics such as intersectionality, allyship, self-care and dealing with harassment as a woman of color in tech.
 
