@@ -34,7 +34,7 @@ In her brand new talk for CSSconf EU, Patricia will look at CSS through the eyes
 
 Mark Dalgleish will be joining us from Melbourne, Australia, where he currently leads DesignOps at SEEK.
 
-Mark has over 10 years experience crafting UIs, and CSS developers might know him as the co-creator of [CSS Modules](https://github.com/css-modules/css-modules) and writer of [many articles on CSS and related topics](https://medium.com/@markdalgleish). In his hometown Melbourne, he runs the meetup [MelbJS](http://melbjs.com/), which brings local speakers and the interested front end community together once a month.
+Mark has over 10 years experience crafting UIs, and CSS developers might know him as the co-creator of [CSS Modules](https://github.com/css-modules/css-modules) and writer of [many articles on CSS and related topics](https://medium.com/@markdalgleish). In his hometown Melbourne, he runs the [MelbJS](http://melbjs.com/) meetup, which brings local speakers and the interested front end community together once a month.
 
 With his talk at CSSconf EU, Mark will delve straight into one of the currently most controversial topics in our community: CSS-in-JS – and alternative new approaches of authoring CSS that have (more or less accurately) grouped together under the term. Does mixing our styles and logic run counter to the original ideas of CSS? Does it break progressive enhancement?
 Mark will address these questions – acknowledging the current divide of opinions in the CSS community – and empathetically analyze how this relates to the history of CSS, and what we can take away from it for building the next-level CSS.
