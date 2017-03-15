@@ -17,7 +17,7 @@ For the second time after 2014, Patrick will bring us up to speed with the lates
 
 ![Nadieh Bremer and Shirley Wu](shirley-and-nadieh-blog.png)
 
-What do a former astronomer and a software engineer have in common? A love for data visualization! Not a joke, but a real thing: Nadieh, a data-vis designer with a background in astronomy, and Shirley, a developer who loves painting and Pixar animation, will team up on our stage. They will show us how to leverage web technologies like SVG and CSS to achieve stunning visualizations, and how their collaborative project Data sketches helped them to explore the possibilities.
+What do a former astronomer and a software engineer have in common? A love for data visualization! Not a joke, but a real thing: Nadieh, a data-viz designer with a background in astronomy, and Shirley, a developer who loves painting and Pixar animation, will team up on our stage. They will show us how to leverage web technologies like SVG and CSS to achieve stunning visualizations, and how their collaborative project Data sketches helped them to explore the possibilities.
 
 Learn more about [Nadieh](http://2017.cssconf.eu/speakers/nadieh-bremer.html) and [Shirley](http://2017.cssconf.eu/speakers/shirley-wu.html) follow [@NadiehBremer](https://twitter.com/NadiehBremer) and [@sxywu](https://twitter.com/sxywu) on Twitter.
 
@@ -27,12 +27,7 @@ Learn more about [Nadieh](http://2017.cssconf.eu/speakers/nadieh-bremer.html) an
 
 ![Patrick Hamann](patrick-hamann-blog.png)
 
-To render a webpage browsers needs to go through the complex dance of networking, parsing and painting before any content can be displayed to your user. Over the years, we’ve developed mechanisms and hacks to aid the browser at each stage of this process, but these have always come at some cost or trade-off.
-
-How can we utilize modern web platform features to load our CSS as fast as possible? Should we still be inlining our critical content into the document or instead, how can HTTP/2 server push and Service Workers help us?
-
-In this talk we will take a journey exploring the current, past, and future best-practices for loading CSS in the browser and how we can achieve a first meaningful paint within 1000ms. Ultimately creating a faster, more resilient experience for our users.
-
+Remember CSSconf EU 2014? Patrick introduced his work on the concept of [CSS and the Critical Path](https://www.youtube.com/watch?v=_0Fk85to6hA), which has since become a key ingredient in every web developers toolkit. Much has happened in the world of browsers and performance, and this year, Patrick comes back to give us an update. His talk will take us on a journey exploring the current, past, and future best-practices for loading CSS in the browser and how we can achieve a first meaningful paint within 1000ms, creating a faster, more resilient experience for our users.
 
 [Learn more about Patrick and his talk](http://2017.cssconf.eu/speakers/patrick-hamann.html) and follow [@patrickhamann](https://twitter.com/patrickhamann) on Twitter.
 
