@@ -17,7 +17,7 @@ For the second time after 2014, Patrick will bring us up to speed with the lates
 
 ![Nadieh Bremer and Shirley Wu](shirley-and-nadieh-blog.png)
 
-What do a former astronomer and a software engineer have in common? A love for data visualization! Not a joke, but a real thing: Nadieh, a data-viz designer with a background in astronomy, and Shirley, a developer who loves painting and Pixar animation, will team up on our stage. They will show us how to leverage web technologies like SVG and CSS to achieve stunning visualizations, and how their collaborative project Data sketches helped them to explore the possibilities.
+What do a former astronomer and a software engineer have in common? A love for data visualization! Not a joke, but a real thing: Nadieh, a data-viz designer with a background in astronomy, and Shirley, a developer who loves painting and Pixar animation, will team up on our stage. Together they will show us how to leverage web technologies like SVG and CSS to achieve stunning visualizations, and how their collaborative project [Data sketches](http://www.datasketch.es/) helped them to explore the possibilities.
 
 Learn more about [Nadieh](http://2017.cssconf.eu/speakers/nadieh-bremer.html) and [Shirley](http://2017.cssconf.eu/speakers/shirley-wu.html) follow [@NadiehBremer](https://twitter.com/NadiehBremer) and [@sxywu](https://twitter.com/sxywu) on Twitter.
 
