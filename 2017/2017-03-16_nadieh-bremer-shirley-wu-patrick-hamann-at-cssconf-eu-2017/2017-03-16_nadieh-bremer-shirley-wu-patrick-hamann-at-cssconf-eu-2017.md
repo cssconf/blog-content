@@ -12,8 +12,8 @@ authorlink:       'http://2017.cssconf.eu/team/'
 Time for our final speaker announcement: Patrick Hamann, Nadieh Bremer and Shirley Wu will join us for CSSconf EU!
 For the second time after 2014, Patrick will bring us up to speed with the latest developments around browser performance. And for the first time, we’ll have a double talk! Nadieh and Shirley will share their learnings from creating data visualizations with web technologies, and how collaboration drives their creative process.
 
-## Nadieh Bremer & Shirley Wu
-### data sketch|es: A Visualization a Month
+# Nadieh Bremer & Shirley Wu
+## data sketch|es: A Visualization a Month
 
 ![Nadieh Bremer and Shirley Wu](shirley-and-nadieh-blog.png)
 
@@ -22,8 +22,8 @@ What do a former astronomer and a software engineer have in common? A love for d
 Learn more about [Nadieh](http://2017.cssconf.eu/speakers/nadieh-bremer.html) and [Shirley](http://2017.cssconf.eu/speakers/shirley-wu.html) follow [@NadiehBremer](https://twitter.com/NadiehBremer) and [@sxywu](https://twitter.com/sxywu) on Twitter.
 
 
-## Patrick Hamann
-### CSS and the First Meaningful Paint
+# Patrick Hamann
+## CSS and the First Meaningful Paint
 
 ![Patrick Hamann](patrick-hamann-blog.png)
 
