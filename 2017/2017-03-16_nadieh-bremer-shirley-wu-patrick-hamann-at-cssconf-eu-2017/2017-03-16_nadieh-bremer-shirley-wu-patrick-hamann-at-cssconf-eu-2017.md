@@ -3,7 +3,7 @@ title:            'Nadieh Bremer, Shirley Wu and Patrick Hamann'
 tagline:          'Meet our final speakers: Nadieh Bremer, Shirley Wu and Patrick Hamann'
 description:      'Final speaker announcement: Nadieh Bremer, Shirley Wu and Patrick Hamann'
 keywords:         Speakers, CSSconf, Berlin, conference, CSS, talks, Nadieh Bremer, Shirley Wu, Patrick Hamann
-excerpt:          'It's time for our final speaker announcement: Patrick Hamann, Nadieh Bremer and Shirley Wu will join us for CSSconf EU 2017!'
+excerpt:          'Time for our final speaker announcement: Patrick Hamann, Nadieh Bremer and Shirley Wu will join us for CSSconf EU 2017!'
 author:           'CSSconf EU Team'
 authorlink:       'http://2017.cssconf.eu/team/'
 
