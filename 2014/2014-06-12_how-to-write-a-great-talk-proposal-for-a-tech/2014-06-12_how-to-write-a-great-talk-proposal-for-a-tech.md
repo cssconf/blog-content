@@ -64,7 +64,7 @@ Ok, now you know exactly what to talk about. Next step: Translate that into a sh
 *   Show excitement: Ultimately, the jury is on the lookout for the talk that would receive standing ovations. If you are passionate about your topic, chances are you will excite the audience as well.
 *   Proof-read! Put some love into writing, and avoid sloppiness or typos. It’s similar to writing a job application: typos and sloppy formatting will put you at the bottom of the list, if not immediately disqualify you. The best and easiest trick is to have a friend proof-read.
 *   Think big – try to re-think your topic on a high level: What relevance does your topic have for the entire community? How does it enable and empower people? How have things been handled in the past, how are they being handled now, and what may happen in the future?
-> "I don’t want a promise about how good your talk is going to be. What’s your thesis? Give me a taste. I want the meat, not the menu.” – [Noah Slater](https://twitter.com/nslater/status/464137432183869440)
+> "I don’t want a promise about how good your talk is going to be. What’s your thesis? Give me a taste. I want the meat, not the menu.” – [Naomi Slater](https://twitter.com/nslater/status/464137432183869440)
 
 There are also a few things that you should avoid:
 
