@@ -51,15 +51,15 @@ The jury first met in person in Berlin in January and decided to vote on each an
 
 ## The shortlists
 
-Based on the jury’s decisions, — deserving applicants have been shortlisted to receive the scholarships.
+Based on the jury’s decisions, deserving applicants have been shortlisted to receive the scholarships.
 
 In our selections, we strived to strike a balance between the following points:
-- Are underrepresented in the tech community
-- Come from regions with little tech presence
-- Are new to the tech world
-- Are transitioning from a non-tech background
-- Face economic and social hardships
-- Want to give back to the community
+- Applicants who are underrepresented in the tech community
+- Applicants who come from regions with little tech presence
+- Applicants who are new to the tech world
+- Applicants who are transitioning from a non-tech background
+- Applicants who face economic and social hardships
+- Applicants who want to give back to the community
 
 We are still accepting applications for ticket and travel grants within Europe until March, 31st 2018.
 
