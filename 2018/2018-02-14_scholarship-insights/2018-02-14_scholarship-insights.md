@@ -3,7 +3,7 @@ title: An Insight into Our Scholarship Process
 tagline: 'What we have learned and how we can do better'
 description: 'A look into our scholarship process and an update on our progress'
 keywords: Scholarship, Diversity, Inclusivity, CSSconf, JSConf, conference
-excerpt: 'Where we stand on our current process, what we\'ve learned and how we\'re improving'
+excerpt: 'Where we stand on our current process, what we’ve learned and how we’re improving'
 author: 'CSSconf EU Team'
 authorlink: 'http://2018.cssconf.eu/team/'
 ---
