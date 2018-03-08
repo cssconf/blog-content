@@ -67,7 +67,7 @@ Why not take it one step further? Look around: Are there people in your team who
 
 ## Did you know: sponsors get tickets too
 
-If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include complementary tickets to the event? If your direct manager can’t find a budget for your ticket, maybe your marketing department can. Point them to our website about [Sponsoring CSSconf EU](http://sponsoring.cssconf.eu/).
+If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include complementary tickets to the event? If your direct manager can’t find a budget for your ticket, maybe your marketing department can. Point them to our website about [Sponsoring CSSconf EU](https://2018.cssconf.eu/sponsors/).
 
 ## I’m my own boss
 
