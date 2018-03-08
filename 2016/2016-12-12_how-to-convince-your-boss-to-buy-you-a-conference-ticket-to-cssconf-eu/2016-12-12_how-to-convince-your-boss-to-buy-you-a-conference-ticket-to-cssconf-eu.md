@@ -5,18 +5,18 @@ description:      'You write CSS all day. You are your team’s frontend expert 
 keywords:          CSSconf EU, ticket, management, cost, frontend, education, CSSconf, Berlin, conference, CSS, 2016, 2017
 excerpt:          'You write CSS all day. You are your team’s front end expert (or want to become one). You are responsible for maintaining your company’s brand consistency. Perfecting the UI of your app. Explorer of styles, wrangler of SVG, composer of components. You HAVE to attend CSSconf EU, and you know it – but how to get your boss to buy you that ticket?'
 author:           'CSSconf EU Team'
-authorlink:       'http://2017.cssconf.eu/team/'
+authorlink:       'http://2018.cssconf.eu/team/'
 
 ---
 
-You write CSS all day. You are your team’s frontend expert (or want to become one). You are responsible for maintaining your company’s brand consistency, perfecting the UI of your app. You are an explorer of styles, wrangler of SVG, composer of components. You know you have to attend [CSSconf EU 2017](http://2017.cssconf.eu/), but how to get your boss to agree to buy you that ticket?
+You write CSS all day. You are your team’s frontend expert (or want to become one). You are responsible for maintaining your company’s brand consistency, perfecting the UI of your app. You are an explorer of styles, wrangler of SVG, composer of components. You know you have to attend [CSSconf EU 2018](http://2018.cssconf.eu/), but how to get your boss to agree to buy you that ticket?
 
 ## Talk business. There’s an ROI in attending a conference.
 
 When you approach your manager to ask for a CSSconf EU ticket, know that you are not the only one who benefits from spending a day watching talks and sipping free coffee. Companies profit in many ways too – after all, their employees grow their knowledge, motivation and network!
 
 <p align="center">
-<a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
+<a href="https://tito.io/cssconfeu/cssconfeu-2018" class="btn--special">
   <span class="btn__span" data-hover="Buy Ticket">Buy Ticket</span>
 </a>
 </p>
@@ -67,18 +67,18 @@ Why not take it one step further? Look around: Are there people in your team who
 
 ## Did you know: sponsors get tickets too
 
-If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include complementary tickets to the event? If your direct manager can’t find a budget for your ticket, maybe your marketing department can. Point them to our website about [Sponsoring CSSconf EU](http://sponsoring.cssconf.eu/).
+If your personal conference budget is exhausted, maybe your company has a budget for sponsorships. Did you know all CSSconf EU sponsorships include complementary tickets to the event? If your direct manager can’t find a budget for your ticket, maybe your marketing department can. Point them to our website about [Sponsoring CSSconf EU](https://2018.cssconf.eu/sponsors/).
 
 ## I’m my own boss
 
 Congratulations, then you only have to convince yourself! For freelancers, all of the above reasons apply, too. We’d even argue that a conference like CSSconf EU is *the* place to meet and connect with new clients, especially on an international level.
 
-If you are dealing with financial hardships that make a ticket purchase impossible for you, consider applying to our [Scholarship program](http://2017.cssconf.eu/scholarships/) - applications will open shortly and everyone otherwise unable to attend is invited to apply.
+If you are dealing with financial hardships that make a ticket purchase impossible for you, consider applying to our [Scholarship program](http://2018.cssconf.eu/scholarships/) - applications will open shortly and everyone otherwise unable to attend is invited to apply.
 
 We hope those tips are useful and we’re excited to see you at CSSconf EU in May!
 
 <p align="center">
-<a href="https://tito.io/cssconfeu/cssconfeu-2017" class="btn--special">
+<a href="https://tito.io/cssconfeu/cssconfeu-2018" class="btn--special">
   <span class="btn__span" data-hover="Buy Ticket">Buy Ticket</span>
 </a>
 </p>
